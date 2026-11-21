@@ -47,6 +47,8 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 
 A lista dos 25 estudos, com links e licenças, está em [`docs/lista_pdfs.md`](docs/lista_pdfs.md). O BibTeX está em `references/included_studies.bib`.
 
+**Síntese:** [`docs/sintese.md`](docs/sintese.md) traz o resumo de cada estudo, a relação com a tese e os padrões que aparecem no conjunto. O principal é que nenhum estudo transfere um modelo do joelho para a ATM.
+
 ## Strings de busca
 
 As strings completas de cada base, na sintaxe que foi de fato executada, estão em [`src/config.py`](src/config.py). A lógica comum é:
@@ -121,7 +123,8 @@ Os scripts usam só a biblioteca padrão do Python 3.9+. Os resultados das bases
 ```
 src/          strings (config.py), scripts de busca, contagem e fluxograma
 data/         screening_decisions.csv (449 registros), prisma_counts.json, selection_table.md
-docs/         bases.md (como cada base foi consultada), lista_pdfs.md (25 estudos, links, licenças)
+docs/         bases.md (como cada base foi consultada), lista_pdfs.md (25 estudos, links, licenças),
+              sintese.md (resumo de cada estudo e relação com a tese)
 references/   included_studies.bib e included_studies.csv
 figures/      prisma2020.tex / .pdf / .png
 pdfs/         PDFs dos incluídos cuja licença permite redistribuição

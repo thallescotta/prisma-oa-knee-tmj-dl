@@ -4,6 +4,7 @@
 - Critério novo CE10 (texto completo não obtido). Manfredonia et al. (2024) e Yan (2021) foram excluídos: os dois são de acesso aberto, mas o download falhou (CAPTCHA na SciTePress; bloqueio no site da Hindawi/Wiley).
 - Incluídos: 25 (15 de joelho e 10 de ATM). Textos completos não obtidos: 39 (37 sem acesso aberto, CE5; 2 com download que falhou, CE10).
 - PDFs dos 21 estudos de licença aberta em `pdfs/`. Licenças conferidas na primeira página de cada PDF.
+- `docs/sintese.md`: resumo dos 25 estudos, relação de cada um com a tese e padrões do conjunto.
 - Correções: licença de Yeoh et al. (2023, IEEE Access) é CC BY-NC-ND 4.0; páginas de Simran et al. (2025) são 1647–1667.
 
 ## 2.0.0 – 21/11/2026
