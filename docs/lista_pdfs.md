@@ -5,11 +5,11 @@ Os PDFs com "NÃO" na coluna *Pode subir?* ficam só no seu computador, em `pdfs
 
 | # | Chave BibTeX | Articulação | Origem | Licença | Pode subir? | Link |
 |---|---|---|---|---|---|---|
-| 1 | `ananya_radiologyassistant_2023` | joelho | Semantic Scholar cc9389ea1d | não informada | NÃO | https://doi.org/10.26562/irjcs.2023.v1004.07 |
-| 2 | `daneshmand_osteophytes_2024` | joelho | PubMed 38323840 | CC BY (Europe PMC) | sim | https://doi.org/10.1002/jor.25800 |
-| 3 | `guida_3dcnn_2021` | joelho | Semantic Scholar 1a9043c0fc | CC BY 4.0 (MDPI; confirmar no PDF) | sim | https://doi.org/10.3390/app11115196 |
+| 1 | `ananya_radiologyassistant_2023` | joelho | Semantic Scholar cc9389ea1d | CC BY (confirmado no PDF) | sim | https://doi.org/10.26562/irjcs.2023.v1004.07 |
+| 2 | `daneshmand_osteophytes_2024` | joelho | PubMed 38323840 | CC BY (confirmado no PDF) | sim | https://doi.org/10.1002/jor.25800 |
+| 3 | `guida_3dcnn_2021` | joelho | Semantic Scholar 1a9043c0fc | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.3390/app11115196 |
 | 4 | `guo_cartilage_2024` | joelho | Europe PMC 38487024 | CC BY 4.0 | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC10939064/ |
-| 5 | `karim_deepkneeexplainer_2021` | joelho | Semantic Scholar f53c1f9c39 | CC BY-NC-ND 4.0 | sim | https://doi.org/10.1109/ACCESS.2021.3062493 |
+| 5 | `karim_deepkneeexplainer_2021` | joelho | Semantic Scholar f53c1f9c39 | CC BY-NC-ND 4.0 (confirmado no PDF) | sim | https://doi.org/10.1109/ACCESS.2021.3062493 |
 | 6 | `liao_ohc_2025` | joelho | PubMed 40334259 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC12058133/ |
 | 7 | `manfredonia_klgrade_2024` | joelho | Semantic Scholar a00efac222 | CC BY-NC-ND 4.0 (SciTePress) | sim | https://doi.org/10.5220/0012471200003636 |
 | 8 | `margain_cthmaps_2026` | joelho | PubMed 41874622 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC13710605/ |

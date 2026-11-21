@@ -1,10 +1,10 @@
 key,joint,source,doi,pmcid,license,redistribute_pdf,pdf_file
-guida_3dcnn_2021,knee,Semantic Scholar 1a9043c0fc,10.3390/app11115196,,CC BY 4.0 (MDPI; confirmar no PDF),yes,guida_3dcnn_2021.pdf
+guida_3dcnn_2021,knee,Semantic Scholar 1a9043c0fc,10.3390/app11115196,,CC BY 4.0 (confirmado no PDF),yes,guida_3dcnn_2021.pdf
 namiri_phenotyping_2021,knee,PubMed 34035386,10.1038/s41598-021-90292-6,PMC8149826,CC BY,yes,namiri_phenotyping_2021.pdf
 yeoh_tl3d_2023,knee,PubMed 37122858,10.3389/fbioe.2023.1164655,PMC10136763,CC BY,yes,yeoh_tl3d_2023.pdf
 yeoh_multitask_2023,knee,IEEE Xplore 10336807,10.1109/ACCESS.2023.3338379,,CC BY 4.0 (IEEE Access; confirmar no PDF),yes,yeoh_multitask_2023.pdf
 zhong_uda_2023,knee,PubMed 37969620,10.21037/qims-23-704,PMC10644135,CC BY-NC-ND,yes (sem alteração),zhong_uda_2023.pdf
-daneshmand_osteophytes_2024,knee,PubMed 38323840,10.1002/jor.25800,,CC BY (Europe PMC),yes,daneshmand_osteophytes_2024.pdf
+daneshmand_osteophytes_2024,knee,PubMed 38323840,10.1002/jor.25800,,CC BY (confirmado no PDF),yes,daneshmand_osteophytes_2024.pdf
 panwar_stacking_2024,knee,PubMed 39500982,10.1038/s41598-024-78203-x,PMC11538306,CC BY,yes,panwar_stacking_2024.pdf
 panwar_vit_2025,knee,PubMed 41029374,10.1186/s12891-025-09137-2,PMC12487547,CC BY-NC-ND,yes (sem alteração),panwar_vit_2025.pdf
 liao_ohc_2025,knee,PubMed 40334259,10.1371/journal.pone.0322540,PMC12058133,CC BY,yes,liao_ohc_2025.pdf
@@ -18,9 +18,9 @@ lang_m4tmd_2026,tmj,PubMed 41461305,10.1016/j.jdent.2025.106322,,CC BY (Europe P
 guo_cartilage_2024,knee,Europe PMC 38487024,10.3389/fmed.2024.1337993,PMC10939064,CC BY 4.0,yes,guo_cartilage_2024.pdf
 simran_3dcnnvit_2025,knee,Semantic Scholar 3bb7bad3c5,10.13005/bpj/3202,,CC BY 4.0,yes,simran_3dcnnvit_2025.pdf
 manfredonia_klgrade_2024,knee,Semantic Scholar a00efac222,10.5220/0012471200003636,,CC BY-NC-ND 4.0 (SciTePress),yes (sem alteração),manfredonia_klgrade_2024.pdf
-ananya_radiologyassistant_2023,knee,Semantic Scholar cc9389ea1d,10.26562/irjcs.2023.v1004.07,,não informada,NO (só link até conferir),
+ananya_radiologyassistant_2023,knee,Semantic Scholar cc9389ea1d,10.26562/irjcs.2023.v1004.07,,CC BY (confirmado no PDF),yes,ananya_radiologyassistant_2023.pdf
 yan_cnnmri_2021,knee,Semantic Scholar cf789df2c3,10.1155/2021/2803857,,CC BY (Hindawi/Wiley; conferir no PDF); sem retratação registrada no Crossref em 21/11/2026,yes,yan_cnnmri_2021.pdf
-karim_deepkneeexplainer_2021,knee,Semantic Scholar f53c1f9c39,10.1109/ACCESS.2021.3062493,,CC BY-NC-ND 4.0,yes (sem alteração),karim_deepkneeexplainer_2021.pdf
+karim_deepkneeexplainer_2021,knee,Semantic Scholar f53c1f9c39,10.1109/ACCESS.2021.3062493,,CC BY-NC-ND 4.0 (confirmado no PDF),yes (sem alteração),karim_deepkneeexplainer_2021.pdf
 krishnamoorthy_pfrcnn_2023,tmj,Semantic Scholar 5a534d49e6,10.17762/ijritcc.v11i6.7384,,não informada,NO (só link até conferir),
 lee_tmjfusion_2026,tmj,Semantic Scholar 6dbe548de4,10.1038/s41598-026-60962-4,,CC BY-NC-ND 4.0,yes (sem alteração),lee_tmjfusion_2026.pdf
 trivedi_cbct_2026,tmj,Semantic Scholar 9f6a4e73a6,10.1016/j.ddj.2026.100122,,Elsevier user license (conferir se é CC BY no PDF),NO (só link até conferir),
