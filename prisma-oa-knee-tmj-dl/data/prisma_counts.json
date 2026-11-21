@@ -1,0 +1,25 @@
+{
+  "identified_by_source": {
+    "PubMed": 98,
+    "IEEE Xplore": 29,
+    "SBC OpenLib": 1
+  },
+  "identified_total": 128,
+  "duplicates_removed": 2,
+  "screened": 126,
+  "excluded_title_abstract": {
+    "CE1": 29,
+    "CE2": 25,
+    "CE3": 22,
+    "CE4": 4,
+    "CE7": 1
+  },
+  "excluded_title_abstract_total": 81,
+  "reports_sought": 45,
+  "reports_not_retrieved_CE5": 30,
+  "reports_assessed": 15,
+  "reports_excluded": 0,
+  "other_sources_identified": 1,
+  "other_sources_included": 1,
+  "included_total": 16
+}

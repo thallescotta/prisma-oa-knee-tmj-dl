@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite-o como abaixo."
+title: "prisma-oa-knee-tmj-dl: structured PRISMA 2020 review on deep learning for knee (MRI) and TMJ osteoarthritis"
+authors:
+  - family-names: Fontainha
+    given-names: Thalles Cotta
+    affiliation: "PPGIO, Universidade Federal de Ciência e Inovação do Rio de Janeiro (UFCI/RJ) e UFF"
+date-released: 2026-11-21
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/thallescotta/prisma-oa-knee-tmj-dl"
+keywords: [PRISMA, osteoarthritis, knee, temporomandibular joint, MRI, deep learning, transfer learning]
