@@ -1,0 +1,450 @@
+base,id,string,ano,acesso_aberto,tipo,titulo,etapa,decisao
+PubMed,43046064,B1,2026,não,Systematic Review,Deep learning methods to analyse knee osteoarthritis using magnetic resonance imaging: a systematic review and synthesis,T2,CE1
+PubMed,42728517,B1,2026,não,,Explainable Multi-planar Multi-slice Learning for Efficient 3D MRI Knee Osteoarthritis Classification.,T3,CE5
+PubMed,42656119,B1,2026,sim,Review,[Advances in deep learning multimodal fusion for early diagnosis of knee osteoarthritis].,T2,CE1
+PubMed,42525074,B1,2026,não,,Comparison of accelerated MRI protocol approaches for clinical assessment of the knee.,T2,CE2
+PubMed,42442884,B1,2026,não,Review,Artificial Intelligence Applications in Degenerative Musculoskeletal Diseases.,T2,CE1
+PubMed,42344276,B1,2026,sim,,Standard knee radiographs enable deep learning inference of MRI-defined cartilage and meniscal damage in early knee oste,T2,CE4
+PubMed,42167455,B1,2026,não,,"A Novel 2.5-Dimensional Deep Learning Model for ""Bone-on-Bone"" Detection on Magnetic Resonance Imaging in Medial Unicomp",T3,CE5
+PubMed,42090385,B1,2026,sim,,Robust disease prognosis via diagnostic knowledge preservation: A sequential learning approach.,T2,CE3
+PubMed,42014262,B1,2026,não,,Development of Novel and Interpretable Automated Models for Predicting Total Knee Replacement in Knee Osteoarthritis,T2,CE3
+PubMed,41915620,B1,2026,sim,,Multi-label Ensemble Model for Knee Joint Anatomy and Lesion Segmentation,T2,CE2
+PubMed,41874622,B1,2026,sim,,Automatic framework for evaluating osteoarthritic cartilage severity: high-resolution cartilage thickness mapping and scoring,T3,INCLUIDO
+PubMed,41771536,B1,2026,sim,,Enhanced Magnetic Resonance Imaging-Based Knee Cartilage Segmentation Using a Swin-UNet Conditional GAN,T2,CE2
+PubMed,41681779,B1,2026,sim,Review,"Review of CNN-Based Approaches for Preprocessing, Segmentation and Classification of Knee Osteoarthritis.",T2,CE1
+PubMed,41628110,B1,2026,não,,DeciViT-Knee 2025 as Precision Fuzzy Techniques of Decision Trees and VIT in Analysis of Knee Osteoarthritis.,T3,CE5
+PubMed,41622323,B1,2026,sim,,3D CSFA-UNet: a unified attention-driven deep learning framework for accurate knee MRI segmentation and osteoarthritis severity classification,T3,INCLUIDO
+PubMed,41564627,B1,2026,não,Review,Artificial intelligence in knee osteoarthritis imaging and total knee arthroplasty,T2,CE1
+PubMed,41541300,B1,2026,não,,A multi-branch ConvNeXt-MaxViT fusion transformer model for radiographic knee osteoarthritis severity assessment,T2,CE4
+PubMed,41407057,B1,2026,sim,Review,The Role and Challenge of Knee Cartilage Magnetic Resonance Imaging in Early Diagnosis of Knee Osteoarthritis: A Literature Review,T2,CE1
+PubMed,41270438,B1,2026,não,,ERANet: Edge replacement augmentation for semi-supervised meniscus segmentation,T2,CE2
+PubMed,41241647,B1,2026,não,,Deep learning-enabled segmentation of knee cartilage in conventional magnetic resonance images,T2,CE2
+PubMed,41468605,B1,2025,sim,Systematic Review/Meta-Analysis,Predictive Value of Machine Learning in Knee Osteoarthritis Progression,T2,CE1
+PubMed,41029374,B1,2025,sim,,Early diagnosis of knee osteoarthritis severity using vision transformer.,T3,INCLUIDO
+PubMed,40889152,B1,2025,não,,MRI detection and grading of knee osteoarthritis - a pilot study using an AI technique with a novel imaging-based scoring system,T3,CE5
+PubMed,40771942,B1,2025,sim,,Federated knee injury diagnosis using few shot learning.,T2,CE3
+PubMed,40762171,B1,2025,sim,,Utilizing 3D fast spin echo anatomical imaging to reduce the number of contrast preparations in T1rho quantification,T2,CE2
+PubMed,40429891,B1,2025,sim,Review,Next-Level Prediction of Structural Progression in Knee Osteoarthritis: A Perspective.,T2,CE1
+PubMed,40334259,B1,2025,sim,,OA-HybridCNN (OHC): An advanced deep learning fusion model for enhanced diagnostic accuracy in knee osteoarthritis imaging,T3,INCLUIDO
+PubMed,40144553,B1,2025,sim,,Integration of longitudinal load-bearing tissue MRI radiomics and neural network to predict knee osteoarthritis incidence,T2,CE3
+PubMed,39961957,B1,2025,sim,,Super-resolution synthetic MRI using deep learning reconstruction for accurate diagnosis of knee osteoarthritis.,T2,CE2
+PubMed,39890641,B1,2025,não,,Statin use and longitudinal bone marrow lesion burden: analysis of knees without osteoarthritis from the OAI,T2,CE3
+PubMed,39837061,B1,2025,não,,LMSST-GCN: Longitudinal MRI sub-structural texture guided graph convolution network for improved progression prediction,T2,CE3
+PubMed,39467097,B1,2025,sim,,Improving Accuracy and Reproducibility of Cartilage T2 Mapping in the OAI Dataset Through Extended Phase Graph Modeling.,T2,CE2
+PubMed,39453794,B1,2025,sim,,ShapeMed-Knee: A Dataset and Neural Shape Model Benchmark for Modeling 3D Femurs.,T2,CE2
+PubMed,39020156,B1,2025,sim,,"Fully and Weakly Supervised Deep Learning for Meniscal Injury Classification, and Location Based on MRI.",T2,CE3
+PubMed,39500982,B1,2024,sim,,Optimizing knee osteoarthritis severity prediction on MRI images using deep stacking ensemble technique.,T3,INCLUIDO
+PubMed,39345660,B1,2024,sim,,Knowledge mapping and bibliometric analysis of medical knee magnetic resonance imaging for knee osteoarthritis (2004-2023),T2,CE1
+PubMed,38923846,B1,2024,sim,,Cachexia in preclinical rheumatoid arthritis: thigh magnetic resonance imaging from the OAI,T2,CE3
+PubMed,38905892,B1,2024,sim,,Deep learning-based automated detection and segmentation of bone and traumatic bone marrow lesions from MRI following an acute ACL tear,T2,CE2
+PubMed,38720839,B1,2024,sim,,One-stop detection of anterior cruciate ligament injuries on magnetic resonance imaging using deep learning,T2,CE3
+PubMed,38671795,B1,2024,sim,,Automatic Segmentation of Bone Marrow Lesions on MRI Using a Deep Learning Method.,T2,CE2
+PubMed,38584509,B1,2024,não,,Identification of Severe Grading in Knee OsteoArthritis from MRI using Ensemble Deep Learning.,T3,CE5
+PubMed,37879600,B1,2024,sim,Review,Osteoarthritis year in review 2023: Imaging.,T2,CE1
+PubMed,37828677,B1,2024,não,,Comprehensive Study on Scoring and Grading Systems for Predicting the Severity of Knee Osteoarthritis.,T3,CE5
+PubMed,37559245,B1,2024,não,Retraction,Retraction to: Performance Analysis of Alexnet for Classification of Knee Osteoarthritis.,T2,CE1
+PubMed,38948116,B1,2023,sim,Review,Artificial intelligence in knee osteoarthritis: A comprehensive review for 2022.,T2,CE1
+PubMed,37969620,B1,2023,sim,,Unsupervised domain adaptation for automated knee osteoarthritis phenotype classification.,T3,INCLUIDO
+PubMed,37745529,B1,2023,sim,Preprint,Charting Aging Trajectories of Knee Cartilage Thickness for Early Osteoarthritis Risk Prediction,T2,CE3
+PubMed,37581080,B1,2023,sim,,DeepKOA: a deep-learning model for predicting progression in knee osteoarthritis using multimodal MRI,T2,CE3
+PubMed,37284124,B1,2023,sim,,Cartilage morphometry and magnetic susceptibility measurement for knee osteoarthritis with automatic cartilage segmentation,T2,CE2
+PubMed,37151912,B1,2023,sim,Review,Magnetic resonance imaging assessments for knee segmentation and their use in combination with machine/deep learning,T2,CE1
+PubMed,37117260,B1,2023,sim,,Prediction of total knee replacement using deep learning analysis of knee MRI.,T2,CE3
+PubMed,37010113,B1,2023,sim,Review,Updates on Compositional MRI Mapping of the Cartilage,T2,CE1
+PubMed,37000230,B1,2023,sim,Review,MRI-based T1rho and T2 cartilage compositional imaging in osteoarthritis,T2,CE1
+PubMed,36759367,B1,2023,sim,Review,Deep learning applications in osteoarthritis imaging.,T2,CE1
+PubMed,36126403,B1,2022,sim,,KCB-Net: A 3D knee cartilage and bone segmentation network via sparse annotation.,T2,CE2
+PubMed,35727152,B1,2022,sim,,Role of Thigh Muscle Changes in Knee Osteoarthritis Outcomes: OAI Data.,T2,CE3
+PubMed,35529263,B1,2022,sim,,Deep Learning-Based Multimodal 3 T MRI for the Diagnosis of Knee Osteoarthritis.,T2,CE2
+PubMed,35262842,B1,2022,não,,Automatic detection and classification of knee osteoarthritis using deep learning approach.,T3,CE5
+PubMed,35210490,B1,2022,sim,,Automatic estimation of knee effusion from limited MRI data.,T2,CE3
+PubMed,35172227,B1,2022,não,,Surface spherical encoding and contrastive learning for virtual bone shape aging.,T2,CE3
+PubMed,34735607,B1,2022,sim,Review,AI MSK clinical applications: cartilage and osteoarthritis.,T2,CE1
+PubMed,34804143,B1,2021,sim,Review,Emergence of Deep Learning in Knee Osteoarthritis Diagnosis.,T2,CE1
+PubMed,34673842,B1,2021,sim,,"Towards novel osteoarthritis biomarkers: Multi-criteria evaluation of 46,996 segmented knee MRI data from the OAI",T2,CE2
+PubMed,34663440,B1,2021,sim,,A deep learning method for predicting knee osteoarthritis radiographic progression from MRI.,T2,CE3
+PubMed,34035386,B1,2021,sim,,Deep learning for large scale MRI-based morphological phenotyping of osteoarthritis.,T3,INCLUIDO
+PubMed,32691905,B1,2021,sim,,T2 analysis of the entire osteoarthritis initiative dataset.,T2,CE2
+PubMed,40810448,B1,2025,sim,,Early Diagnosis of Knee Osteoarthritis With a Natural Language Processing-Driven Approach Based on Clinician Notes,T2,CE4
+PubMed,40799630,B1,2025,sim,,Machine learning models for clinical and structural knee osteoarthritis prediction: Recent advancements and future directions,T2,CE1
+PubMed,38751101,B1,2024,não,,Integrating Radiomics and Neural Networks for Knee Osteoarthritis Incidence Prediction.,T2,CE3
+PubMed,38323840,B1,2024,sim,,Deep learning based detection of osteophytes in radiographs and magnetic resonance imagings of the knee using 2D and 3D morphology,T3,INCLUIDO
+PubMed,37122858,B1,2023,sim,,Transfer learning-assisted 3D deep learning models for knee osteoarthritis detection: Data from the osteoarthritis initiative,T3,INCLUIDO
+PubMed,36094985,B1,2023,não,,Knee Cartilage Defect Assessment by Graph Representation and Surface Convolution.,T2,CE2
+PubMed,35054290,B1,2022,sim,,Fully Automatic Knee Bone Detection and Segmentation on Three-Dimensional MRI.,T2,CE2
+PubMed,34892119,B1,2021,não,,MRI Knee Domain Translation for Unsupervised Segmentation By CycleGAN (data from OAI),T2,CE2
+PubMed,33337584,B1,2022,sim,,Detection of Differences in Longitudinal Cartilage Thickness Loss Using a Deep-Learning Automated Segmentation Algorithm,T2,CE2
+PubMed,42652629,B2,2026,sim,,MRI-Based Deep Learning Image Classification for Screening Temporomandibular Joint Degenerative Joint Disease.,T3,INCLUIDO
+PubMed,42622946,B2,2026,não,,Two-stage deep learning framework for magnetic resonance imaging-based detection of temporomandibular joint osteoarthritis,T3,CE5
+PubMed,42072966,B2,2026,sim,Review,Artificial Intelligence vs. Human Experts in Temporomandibular Joint MRI Interpretation: A Systematic Review.,T2,CE1
+PubMed,41795130,B2,2026,não,,Multimodal Deep Learning-Based Screening of Degenerative Temporomandibular Joint Disease Using 2D Radiography,T3,CE5
+PubMed,41538502,B2,2026,sim,Scoping Review,Clinical decisions in Orthodontics using x-ray-based images and artificial intelligence approaches: a scoping review.,T2,CE1
+PubMed,41520865,B2,2026,não,,An artificial intelligence-assisted automated quantitative evaluation system for condylar morphological changes of TMJ osteoarthritis,T3,CE5
+PubMed,41461305,B2,2026,sim,,"M4TMD: A multimodal, multi-task deep learning framework for comprehensive assessment of TMD-related abnormalities.",T3,INCLUIDO
+PubMed,41497394,B2,2025,sim,,Deep learning-based diagnosis of temporomandibular joint osteoarthritis using whole-body bone scans.,T3,INCLUIDO
+PubMed,41161937,B2,2025,não,Review,AI in Temporomandibular Joint Imaging.,T2,CE1
+PubMed,41070252,B2,2025,sim,Review,Application of artificial intelligence in the diagnosis and management of TMJ osteoarthritis using CBCT,T2,CE1
+PubMed,39989448,B2,2025,sim,,Deep learning image enhancement for confident diagnosis of TMJ osteoarthritis in zero-TE MR imaging.,T2,CE2
+PubMed,39870190,B2,2025,não,,Automated diagnosis and classification of temporomandibular joint degenerative disease via artificial intelligence,T3,CE5
+PubMed,39488247,B2,2025,não,,Automatic detection of temporomandibular joint osteoarthritis radiographic features using deep learning artificial intelligence,T3,CE5
+PubMed,39067043,B2,2025,sim,,Can temporomandibular joint osteoarthritis be diagnosed on MRI proton density-weighted images with diagnostic support from the latest deep learning classification models?,T3,INCLUIDO
+PubMed,39160234,B2,2024,sim,,Multi-class segmentation of temporomandibular joint using ensemble deep learning.,T2,CE2
+PubMed,38990647,B2,2024,sim,,Explainable deep learning and biomechanical modeling for TMJ disorder morphological risk factors.,T2,CE3
+PubMed,38990220,B2,2024,não,,Deep learning classification performance for diagnosing condylar osteoarthritis in patients with dentofacial deformities,T3,CE5
+PubMed,38592413,B2,2024,sim,,Noise-Optimized CBCT Imaging of Temporomandibular Joints-The Impact of AI on Image Quality.,T2,CE2
+PubMed,37627959,B2,2023,sim,Review,A Comprehensive Review of Artificial Intelligence Based Algorithms Regarding Temporomandibular Joint Related Diseases.,T2,CE1
+PubMed,36843391,B2,2023,não,Systematic Review,Automation and deep (machine) learning in temporomandibular joint disorder radiomics: A systematic review.,T2,CE1
+PubMed,34689379,B2,2023,não,,Deep learning for osteoarthritis classification in temporomandibular joint.,T3,CE5
+PubMed,36611402,B2,2022,sim,Review,Current Applications of Deep Learning and Radiomics on CT and CBCT for Maxillofacial Diseases.,T2,CE1
+PubMed,33986459,B2,2021,sim,,Artificial intelligence in detecting temporomandibular joint osteoarthritis on orthopantomogram.,T3,INCLUIDO
+IEEE Xplore,10336807,B1,2023,sim,,3D Efficient Multi-Task Neural Network for Knee Osteoarthritis Diagnosis Using MRI Scans: Data From the Osteoarthritis Initiative,T3,INCLUIDO
+IEEE Xplore,11654979,B1,2026,não,,Detection and Classification of Knee Osteoarthritis Detection Using Deep Learning Techniques,T3,CE5
+IEEE Xplore,10722711,B1,2024,não,,Advancements in Automated Classification of Knee Osteoarthritis Severity using EfficientNetV2-S,T3,CE5
+IEEE Xplore,10716938,B1,2024,não,,Implementation of Knee Osteoarthritis Detection and Severity Prediction Using Convolution Neural Network,T3,CE5
+IEEE Xplore,9629705,B1,2021,não,,MRI Knee Domain Translation for Unsupervised Segmentation By CycleGAN (data from OAI),T1,CE6
+IEEE Xplore,10499112,B1,2024,não,,Deep Learning based Knee OsteoArthritis Grade Classification: A Review,T2,CE1
+IEEE Xplore,10320051,B1,2023,não,,A 3D Deep Learning Approach for Meniscus Tear Severity at the Region-level,T2,CE3
+IEEE Xplore,9765065,B1,2022,não,,Deep Transfer Network of Knee Osteoarthritis Progression Rate Classification in MR Imaging,T2,CE3
+IEEE Xplore,11346115,B1,2025,não,,MRI-Based Knee Osteoarthritis Detection Using an Interpretable Lightweight Hybrid Model,T3,CE5
+IEEE Xplore,11704023,B1,2026,não,,Knee Osteoarthritis Prediction and Progression Using Multi Modal Deep Learning,T2,CE3
+IEEE Xplore,10969337,B1,2025,não,,Knee Osteoarthritis detection and classification using a customized CenterNet with DenseNet201,T3,CE5
+IEEE Xplore,10037089,B1,2022,não,,Classification of Knee Osteoarthritis Based on Transfer Learning Model and Magnetic Resonance Images,T3,CE5
+IEEE Xplore,11121126,B1,2025,não,,Knee Osteoarthritis Detection Using Bone Distances,T3,CE5
+IEEE Xplore,10822682,B1,2024,não,,Knee Osteoarthritis Diagnosis Integrating Meta-Learning and Multi-task Convolutional Neural Network,T3,CE5
+IEEE Xplore,11441242,B1,2026,não,,Radiographic Analysis of Knee Osteoarthritis with Deep Learning: Focus on Joint Space Narrowing and Alignment,T2,CE4
+IEEE Xplore,11009413,B1,2025,não,,Deep Learning-Based Knee Osteoarthritis MRI Image Classification Method,T3,CE5
+IEEE Xplore,10774835,B1,2024,não,,Utilizing ResNet50 Model With Multilayer Perceptron (ResNetMLP) For Knee Osteoarthritis Classification,T3,CE5
+IEEE Xplore,11376948,B1,2025,não,,Development of Knee Osteoarthritis Detection and Severity Prediction Using CNN Algorithm Based Deep Learning,T3,CE5
+IEEE Xplore,9887992,B1,2023,não,,Knee Cartilage Defect Assessment by Graph Representation and Surface Convolution,T1,CE6
+IEEE Xplore,10859244,B1,2024,não,,A Multi-Instance Learning Approach for Improving Knee Osteoarthritis Diagnosis from MRI Data,T3,CE5
+IEEE Xplore,11089306,B1,2025,não,,Detecting Knee Osteoarthritis Using CNN Enhanced With Alex Net,T3,CE5
+IEEE Xplore,11271234,B1,2025,sim,,High-Resolution Medical Image Generation With Leak-Prevention Mechanism Using Quantum Transformer Learning,T2,CE2
+IEEE Xplore,11392492,B1,2025,não,,Improving Generalization in MRI-Based Deep Learning Models for Total Knee Replacement Prediction,T2,CE3
+IEEE Xplore,11448656,B1,2025,não,,Artificial Intelligence in the Detection of Knee Joint Injuries: A Comprehensive Review,T2,CE1
+IEEE Xplore,10543978,B1,2024,não,,Predicting Knee Osteoarthritis using Deep Neural Network,T3,CE5
+IEEE Xplore,11258245,B1,2025,não,,Systematic Review: a Hybrid Approach for Early Knee Osteoarthritis Detection Utilizing Minkowski Metrics,T2,CE1
+IEEE Xplore,10276342,B2,2023,não,,Tri-Stage Deep Learning Model for Mandibular Condyle Segmentation and Osteoarthritis Identification,T3,CE5
+IEEE Xplore,11734635,B2,2026,não,,Automated Temporomandibular Joint Disorder Detection Using Deep Learning-Based Condylar Morphometric Analysis,T3,CE5
+IEEE Xplore,9630727,B2,2021,não,,Automatic Segmentation of Mandibular Ramus and Condyles,T2,CE2
+Europe PMC,PMID:42728517,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:43046064,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41407057,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:42656119,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:42344276,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41681779,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:42167455,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40889152,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41029374,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41564627,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41241647,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:37122858,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41771536,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40810448,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41628110,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39345660,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38584509,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41541300,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40429891,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38720839,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39500982,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40771942,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41622323,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:36094985,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39453794,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39961957,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:35529263,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40144553,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40799630,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38751101,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:34804143,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39020156,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:37151912,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:37969620,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38323840,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:35262842,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:34663440,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:36759367,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:37581080,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:40762171,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:34035386,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:34673842,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:35054290,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:37879600,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:34892119,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:35210490,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38905892,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:33337584,B1,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41497394,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:42622946,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41795130,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:42652629,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:42072966,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41070252,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39488247,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41538502,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39067043,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38592413,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39989448,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39870190,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:38990220,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:41461305,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:39160234,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:36611402,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:34689379,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:36843391,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,PMID:33986459,B2,,,,(duplicata do registro PubMed de mesmo PMID),T1,CE6
+Europe PMC,42131654,B1,2026,sim,Review,Role of Artificial Intelligence and Machine Learning in Diagnosing Knee Lesions: Where Are We Now?,T2,CE1
+Europe PMC,41656050,B1,2026,não,Review,Artificial Intelligence and Machine Learning for Osteoarthritis and Cartilage Assessment.,T2,CE1
+Europe PMC,42527501,B1,2026,sim,,KneeXNet-2.5D: explainable deep learning framework for MRI-based knee cartilage and meniscus segmentation,T2,CE2
+Europe PMC,39422725,B1,2025,sim,Systematic Review,MRI deep learning models for assisted diagnosis of knee pathologies: a systematic review.,T2,CE1
+Europe PMC,39272685,B1,2024,sim,,Deep Learning-Based Joint Effusion Classification in Adult Knee Radiographs,T2,CE4
+Europe PMC,38487024,B1,2024,sim,,Automated measurement and grading of knee cartilage thickness: a deep learning-based approach.,T3,INCLUIDO
+Europe PMC,34834515,B1,2021,sim,,Improved Deep CNN to Classify Osteoarthritis from Anterior Cruciate Ligament Tear Using MRI,T2,CE3
+Europe PMC,37591161,B1,2023,não,,Segmentation quality assessment by automated detection of erroneous surface regions in medical images.,T2,CE2
+Europe PMC,38229942,B1,2023,sim,Review,Machine learning and deep neural network-based learning in osteoarthritis knee.,T2,CE1
+Europe PMC,35214451,B1,2022,sim,,Automated Knee MR Images Segmentation of Anterior Cruciate Ligament Tears.,T2,CE2
+Europe PMC,35752117,B1,2022,não,,Deep collaborative network with alpha matte for precise knee tissue segmentation from MRI.,T2,CE2
+Europe PMC,35759870,B1,2022,não,,Automatic Grading Assessments for Knee MRI Cartilage Defects via Self-ensembling Semi-supervised Learning,T3,CE5
+Europe PMC,40551697,B1,2025,sim,Review,The Clinical Significance of Femoral and Tibial Anatomy for ACL Injury and Reconstruction,T2,CE3
+Europe PMC,37729826,B1,2023,não,,Self-supervised-RCNN for medical image segmentation with limited data annotation.,T2,CE2
+Europe PMC,33631317,B1,2021,não,,Machine learning classification on texture analyzed T2 maps of osteoarthritic cartilage,T2,CE8
+Europe PMC,37692093,B1,2023,não,,Patch-wise 3D segmentation quality assessment combining reconstruction and regression networks.,T2,CE2
+Europe PMC,PPR1340296,B1,2026,não,Preprint,Multi-Task Framework for Efficient Knee Osteoarthritis Segmentation and Classification,T2,CE9
+Europe PMC,PPR982172,B1,2025,não,Preprint,Automating Imaging Biomarker Analysis for Knee OA Using an Open-Source MRI-Based Deep Learning pipeline,T2,CE9
+Europe PMC,PPR849598,B1,2024,não,Preprint,ShapeMed-Knee: A Dataset and Neural Shape Model Benchmark for Modeling 3D Femurs (preprint),T1,CE6
+Europe PMC,PPR724023,B1,2023,não,Preprint,Charting Aging Trajectories of Knee Cartilage Thickness (preprint),T1,CE6
+Europe PMC,PPR349016,B1,2021,não,Preprint,A Deep Learning Method for Identifying Predictors of Knee OA Radiographic Progression (preprint),T2,CE9
+Europe PMC,PPR656485,B1,2023,não,Preprint,Identification of Pain-Associated Effusion-Synovitis from Knee MRI by Deep Generative Networks,T2,CE9
+Europe PMC,PMC9341002,B1,2022,sim,Congress abstract,Poster 242: Deep Learning for Identifying Patellofemoral Measurements Associated with Cartilage Lesions,T2,CE9
+Europe PMC,PMC10392199,B1,2023,sim,Congress abstract,Paper 45: Which Osteochondritis Dissecans Subjects Will Heal Non-Operatively?,T2,CE9
+Europe PMC,41023096,B2,2025,sim,,Clinical and MRI markers for acute vs chronic temporomandibular disorders using ML and deep neural networks,T2,CE3
+Europe PMC,34891864,B2,2021,não,,Automatic Segmentation of Mandibular Ramus and Condyles.,T1,CE6
+Europe PMC,PPR1123309,B2,2025,não,Preprint,Deep Learning for Automated Diagnosis of Temporomandibular Joint Degenerative Disease Using MRI,T2,CE9
+Europe PMC,PPR1208659,B2,2026,não,Preprint,Artificial Intelligence in Diagnosing and Treating TMJ Disorders: A Review (v2),T2,CE1
+Europe PMC,PPR1095005,B2,2025,não,Preprint,Artificial Intelligence in Diagnosing and Treating TMJ Disorders: A Review (v1),T2,CE1
+Europe PMC,PPR956518,B2,2024,não,Preprint,Clinical and MRI Markers for Acute vs Chronic TMD Using ML and DL (preprint),T2,CE9
+SciELO,S1-1,S1,2025,sim,Scoping Review,Clinical decisions in Orthodontics using x-ray-based images and AI approaches: a scoping review,T1,CE6
+SciELO,S1-2,S1,2023,sim,,"Development of a CNN for diagnosing osteoarthritis, trained with knee radiographs from ELSA-Brasil",T2,CE4
+BVS/LILACS,biblio-1649044,S1,2025,sim,Scoping Review,Clinical decisions in Orthodontics using x-ray-based images and AI approaches: a scoping review,T1,CE6
+BVS/LILACS,biblio-1572669,S1,2023,sim,Review,Artificial intelligence applied to dental imaging: a review,T2,CE1
+BVS/LILACS,mdl-36232190,S1,2022,sim,,Classification of Center of Mass Acceleration Patterns in Older People with Knee OA and Fear of Falling,T2,CE4
+BVS/LILACS,mdl-36292051,S1,2022,sim,,"Detection and Classification of Knee Osteoarthritis (Cueva et al., radiographs)",T2,CE4
+SBC OpenLib,sbcas2026-santos,S2,2026,sim,,Classificação de Graus de Osteoartrite de Joelho em Raio-X via EfficientNetV2,T2,CE4
+SBC OpenLib,sbcas2025-silverio,S2,2025,sim,,Classificação da osteoartrite de joelho em imagens de Raio-X por meio de Ensemble Learning,T2,CE4
+SBC OpenLib,sbcas2026-fontainha,S2,2026,sim,,Avaliação de Técnicas de Aumento de Dados para Classificação Binária de Imagens Volumétricas de RM do Joelho,T2,CE7
+SBC OpenLib,sbcas2025-fontainha,S2,2025,sim,,Classificação Binária de Imagens de RM de Osteoartrite com o Modelo R3D_18 Modificado,T2,CE7
+arXiv,2201.04318,B1,2022,sim,Preprint,Knee Cartilage Defect Assessment by Graph Representation and Surface Convolution,T1,CE6
+arXiv,2106.14292,B1,2021,sim,Preprint,Knee Osteoarthritis Severity Prediction using an Attentive Multi-Scale Deep CNN,T2,CE9
+arXiv,2405.02784,B1,2024,sim,Preprint,MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using MRI,T2,CE9
+arXiv,2109.14249,B1,2021,sim,Preprint,Multipath CNN with alpha matte inference for knee tissue segmentation from MRI,T2,CE9
+arXiv,2209.01192,B1,2022,sim,Preprint,Early detection of knee osteoarthritis using deep learning on knee magnetic resonance images,T2,CE9
+arXiv,2504.19203,B1,2025,sim,Preprint,Improving Generalization in MRI-Based DL Models for Total Knee Replacement Prediction,T1,CE6
+arXiv,2608.18012,B1,2026,sim,Preprint,Automated ACL Footprint Identification Using 3D Deep Learning,T2,CE9
+arXiv,2211.16696,B1,2022,sim,Preprint,Automated anomaly-aware 3D segmentation of bones and cartilages in knee MR images from the OAI,T2,CE9
+Semantic Scholar,01b0fbdbc5,B1,2025,,,"(duplicata do PMID 40771942, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,025250a2ec,B1,2022,,,"(duplicata do PMID 35727152, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,06af162d6b,B1,2021,,,"(duplicata do PMID 33631317, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,10bd8c918c,B1,2026,,,"(duplicata do PMID 42527501, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1300a60c4f,B1,2024,,,"(duplicata do PMID 39453794, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1cea3cfef2,B1,2021,,,"(duplicata do PMID 34035386, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1de6eda4a8,B1,2025,,,"(duplicata do PMID 40429891, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1e5e5d5b00,B1,2024,,,"(duplicata do PMID 39345660, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,222cdca831,B1,2023,,,"(duplicata do PMID 37151912, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,24b1ac31b0,B1,2026,,,"(duplicata do PMID 42728517, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,25f6d1a6fe,B1,2022,,,"(duplicata do PMID 36094985, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,2ade6b1395,B1,2022,,,"(duplicata do PMID 35752117, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,2e02f4a75c,B1,2023,,,"(duplicata do PMID 36759367, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,2f2cf72f7a,B1,2022,,,"(duplicata do PMID 35210490, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,303ed8d019,B1,2023,,,"(duplicata do PMID 37581080, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,3128126d8e,B1,2026,,,"(duplicata do PMID 42656119, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,3ae3f93dbe,B1,2022,,,"(duplicata do PMID 35529263, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,422c0ebf23,B1,2023,,,"(duplicata do PMID 37122858, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,42ce185837,B1,2024,,,"(duplicata do PMID 38487024, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,483367ac38,B1,2021,,,"(duplicata do PMID 34892119, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,4873a8322b,B1,2025,,,"(duplicata do PMID 42090385, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,4980bcede5,B1,2021,,,"(duplicata do PMID 34663440, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,49fa618150,B1,2022,,,"(duplicata do PMID 35214451, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,4c2a15c3e2,B1,2026,,,"(duplicata do PMID 41564627, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,4d7a88d9be,B1,2026,,,"(duplicata do PMID 42131654, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,4f8c1e2008,B1,2023,,,"(duplicata do PMID 37591161, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,518e6659cc,B1,2024,,,"(duplicata do PMID 38751101, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,526966d512,B1,2024,,,"(duplicata do PMID 39500982, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,532d0fad74,B1,2025,,,"(duplicata do PMID 40144553, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,535f0b2220,B1,2026,,,"(duplicata do PMID 42167455, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,5555cfa1fd,B1,2026,,,"(duplicata do PMID 41628110, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,59a76270d9,B1,2024,,,"(duplicata do PMID 39422725, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,5b460b71cb,B1,2026,,,"(duplicata do PMID 43046064, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,5b60959f1f,B1,2025,,,"(duplicata do PMID 41407057, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,62f0870acb,B1,2023,,,"(duplicata do PMID 37879600, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,6c99d2e5c8,B1,2025,,,"(duplicata do PMID 41541300, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,6f774d41b0,B1,2024,,,"(duplicata do PMID 38905892, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,7323888a8b,B1,2023,,,"(duplicata do PMID 38229942, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,7733c62e23,B1,2023,,,"(duplicata do PMID 37745529, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,78fd013e49,B1,2023,,,"(duplicata do PMID 38720839, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,7a13f44c88,B1,2024,,,"(duplicata do PMID 39272685, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,7bba52135e,B1,2021,,,"(duplicata do PMID 34673842, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,7bd17d7845,B1,2026,,,"(duplicata do PMID 41622323, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,8332bc08b8,B1,2022,,,"(duplicata do PMID 37969620, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,87b1d04302,B1,2026,,,"(duplicata do PMID 41681779, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,87b7120787,B1,2025,,,"(duplicata do PMID 40810448, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,9045327083,B1,2025,,,"(duplicata do PMID 40889152, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,9489bf17b3,B1,2025,,,"(duplicata do PMID 41771536, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,9c13ece66e,B1,2025,,,"(duplicata do PMID 41656050, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,a0a5b32dd9,B1,2022,,,"(duplicata do PMID 35759870, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,af79bccbe3,B1,2025,,,"(duplicata do PMID 41241647, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,b17dca2a61,B1,2023,,,"(duplicata do PMID 37692093, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,b79b9be6a4,B1,2025,,,"(duplicata do PMID 40799630, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,b859f4079b,B1,2023,,,"(duplicata do PMID 37559245, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,bc0c6fbb37,B1,2024,,,"(duplicata do PMID 38323840, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,bccea369f1,B1,2022,,,"(duplicata do PMID 35054290, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,be36694df0,B1,2025,,,"(duplicata do PMID 41029374, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,bf493aab08,B1,2022,,,"(duplicata do PMID 35262842, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,bf6c39a5f4,B1,2021,,,"(duplicata do PMID 34804143, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,c361935e11,B1,2024,,,"(duplicata do PMID 39020156, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,ca772bebf0,B1,2024,,,"(duplicata do PMID 38584509, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,cbf4ff928b,B1,2025,,,"(duplicata do PMID 39961957, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,decf5599e0,B1,2022,,,"(duplicata do PMID 37729826, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,df2f96c6da,B1,2026,,,"(duplicata do PMID 42344276, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1ce50b566f,B2,2025,,,"(duplicata do PMID 41023096, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1d3eb20b6a,B2,2025,,,"(duplicata do PMID 41070252, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,1d533f7540,B2,2024,,,"(duplicata do PMID 39160234, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,22ef017156,B2,2024,,,"(duplicata do PMID 38592413, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,2b6be1bbb1,B2,2022,,,"(duplicata do PMID 36611402, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,3e6710eff4,B2,2025,,,"(duplicata do PMID 39870190, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,509e7706cd,B2,2025,,,"(duplicata do PMID 41461305, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,540cc4a923,B2,2026,,,"(duplicata do PMID 42652629, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,666e79eca3,B2,2025,,,"(duplicata do PMID 39989448, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,6ed579f43a,B2,2024,,,"(duplicata do PMID 38990220, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,77d25af1ff,B2,2025,,,"(duplicata do PMID 41497394, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,83fadf355f,B2,2021,,,"(duplicata do PMID 34891864, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,a2c0ceec06,B2,2024,,,"(duplicata do PMID 39488247, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,a81971387d,B2,2026,,,"(duplicata do PMID 41538502, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,bfc7459da5,B2,2026,,,"(duplicata do PMID 42072966, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,c3679abcda,B2,2021,,,"(duplicata do PMID 34689379, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,d96593486c,B2,2024,,,"(duplicata do PMID 39067043, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,f37e75b2fd,B2,2026,,,"(duplicata do PMID 42622946, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,f5dba47806,B2,2023,,,"(duplicata do PMID 36843391, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,fc9b974d10,B2,2026,,,"(duplicata do PMID 41795130, já identificado no PubMed ou Europe PMC)",T1,CE6
+Semantic Scholar,00efeb5d8a,B1,2026,não,,MESRNet: Multi-Expert Slice Response Network for Multi-Sequence Knee MRI Classification,T3,CE5
+Semantic Scholar,0644d104df,B1,2025,não,,Automated Grade Classification of Ankle Osteoarthritis Using Advanced Neural Network Classifier,T2,CE3
+Semantic Scholar,09e92982af,B1,2025,sim,,Early detection and classification of knee disease using ML and DL techniques (review),T2,CE1
+Semantic Scholar,0a6b050c89,B1,2023,sim,,3D Efficient Multi-Task Neural Network for Knee OA Diagnosis Using MRI Scans (IEEE Access),T1,CE6
+Semantic Scholar,0c6276e2c5,B1,2022,não,,A Hybrid Deep Learning Methodology for Knee OA Diagnosis Using MR Images (SSRN preprint),T2,CE9
+Semantic Scholar,0cf5fea8b5,B1,2022,sim,,Poster 242: Deep Learning for Identifying Patellofemoral Measurements (abstract),T1,CE6
+Semantic Scholar,127946db72,B1,2026,sim,,"Comparative analysis of 3D CNN, nnU-Net and SAM2-based models for knee MRI segmentation",T2,CE2
+Semantic Scholar,17719533e7,B1,2026,sim,,Medical image analysis in knee OA using generative AI: a comprehensive review,T2,CE1
+Semantic Scholar,1782fe567d,B1,2024,sim,,Novel 3D Deep Learning Models for Knee OA Diagnosis and Prediction from MRI Data (thesis),T2,CE9
+Semantic Scholar,17911b8c7b,B1,2021,não,,A Novel Deep Learning Model for Knee Cartilage 3D Segmentation,T2,CE2
+Semantic Scholar,19e52fdb63,B1,2026,não,,Detection and Classification of Knee OA Detection Using DL Techniques (IEEE),T1,CE6
+Semantic Scholar,19e7daea63,B1,2026,não,,Retrieving Patient-Specific Radiomic Feature Sets for Transparent Knee MRI Assessment (arXiv),T2,CE9
+Semantic Scholar,1a9043c0fc,B1,2021,sim,,Knee Osteoarthritis Classification Using 3D CNN and MRI,T3,INCLUIDO
+Semantic Scholar,21ef7ec102,B1,2022,não,,A more posterior tibial tubercle is associated with ... (Arthroscopy),T2,CE3
+Semantic Scholar,25579d6b4a,B1,2025,sim,,High-Resolution Medical Image Generation With Leak-Prevention Mechanism (IEEE Access),T1,CE6
+Semantic Scholar,2575983252,B1,2022,sim,,Automated Knee Bone Segmentation and Visualisation Using Mask RCNN and Marching Cube,T2,CE2
+Semantic Scholar,2a0650ac36,B1,2022,sim,,Automated anomaly-aware 3D segmentation of bones and cartilages in knee MR images (arXiv),T1,CE6
+Semantic Scholar,2b6ebcdd6d,B1,2021,sim,,Radiology Alchemy: GAN We Do It? (editorial),T2,CE1
+Semantic Scholar,2b75128cfd,B1,2023,não,,Anterior Cruciate Ligament Injury Classification from MRI Scans Using DL,T2,CE3
+Semantic Scholar,2bc294b98f,B1,2023,não,,"Improving knee OA classification using multimodal intermediate fusion of X-ray, MRI and clinical data",T3,CE5
+Semantic Scholar,2d6a5943d9,B1,2025,não,,Development of Knee OA Detection and Severity Prediction Using CNN (IEEE),T1,CE6
+Semantic Scholar,2e83cbdb03,B1,2024,sim,,An Efficient Neural Network for Segmenting Multiple Joint Tissues From Knee MRI,T2,CE2
+Semantic Scholar,33aeb404a1,B1,2021,sim,,A Deep Learning Method for Identifying Predictors of Knee OA Radiographic Progression (preprint),T1,CE6
+Semantic Scholar,388a34d073,B1,2025,não,,Detecting Knee OA Using CNN Enhanced With AlexNet (IEEE),T1,CE6
+Semantic Scholar,3adf9fa3c7,B1,2026,sim,,Deep learning-based effusion-synovitis volume on MRI is associated with OA progression,T2,CE3
+Semantic Scholar,3bb7bad3c5,B1,2025,sim,,Synergistic Integration of 3D CNN and Vision Transformers for Knee Cartilage Pathology Detection,T3,INCLUIDO
+Semantic Scholar,3c7fc59b1f,B1,2025,sim,,Recognition of Knee OA by 1D and 2D CNNs Using Vibroarthrographic signals,T2,CE4
+Semantic Scholar,4105002266,B1,2026,sim,,Automated BML segmentation using UNet for total knee replacement prediction,T2,CE2
+Semantic Scholar,420670681b,B1,2022,não,,Classification of Knee OA Based on Transfer Learning Model and MR Images (IEEE),T1,CE6
+Semantic Scholar,42319674b5,B1,2025,sim,,Intelligent Medical Diagnostic System for Osteoarthritis using DL (review),T2,CE1
+Semantic Scholar,42e58e1a2a,B1,2021,não,,A Deep Learning-Based Method for Knee Articular Cartilage Segmentation in MRI Images,T2,CE2
+Semantic Scholar,458e0e9159,B1,2024,sim,,Identification of Knee Osteoarthritis Disease using CNNs (abstract does not mention MRI),T2,CE4
+Semantic Scholar,46fc53d318,B1,2025,não,,MRI-Based Knee OA Detection Using an Interpretable Lightweight Hybrid Model (IEEE),T1,CE6
+Semantic Scholar,47d548b004,B1,2025,não,,Knee OA detection and classification using a customized CenterNet with DenseNet201 (IEEE),T1,CE6
+Semantic Scholar,4a00ac8518,B1,2024,não,,MR-Transformer: ViT for Total Knee Replacement Prediction (arXiv),T1,CE6
+Semantic Scholar,4afdcadef9,B1,2025,não,,Systematic Review: Hybrid Approach for Early Knee OA Detection (IEEE),T1,CE6
+Semantic Scholar,4d6fee9d11,B1,2025,sim,,Knee OA detection and classification from balanced and imbalanced x-ray images,T2,CE4
+Semantic Scholar,4f1e400613,B1,2023,sim,,Novel Hybrid Optimized Clustering Schemes with GA and PSO for Segmentation of knee MRI,T2,CE2
+Semantic Scholar,4f7a5e25fd,B1,2022,sim,,Estimating time-to-total knee replacement on radiographs and MRI,T2,CE3
+Semantic Scholar,505859af33,B1,2024,não,,Enhanced Image Classification Integrating DenseNet121 with Mixup Augmentation and Attention,T3,CE5
+Semantic Scholar,524937346f,B1,2024,não,,Erosive hand osteoarthritis and sarcopenia: data from OAI,T2,CE3
+Semantic Scholar,558845f108,B1,2021,sim,,Are AI Challenges Becoming Radiology's New Bee's Knees? (editorial),T2,CE1
+Semantic Scholar,560154ae0d,B1,2026,não,,Automated ACL Footprint Identification Using 3D DL (arXiv),T1,CE6
+Semantic Scholar,57d0f53c5e,B1,2026,sim,,Limited and frequently overlooked radiological evidence of knee OA,T2,CE1
+Semantic Scholar,5ca7ab105a,B1,2024,não,,Knee OA Diagnosis Integrating Meta-Learning and Multi-task CNN (IEEE),T1,CE6
+Semantic Scholar,5d633f5650,B1,2025,sim,,Improving Generalization in MRI-Based DL Models for TKR Prediction (IEEE),T1,CE6
+Semantic Scholar,6119b161bc,B1,2025,não,,Deep learning-based MRI to X-ray synthesis of knee joint for automatic OA classification (abstract),T2,CE9
+Semantic Scholar,615ca6993d,B1,2025,sim,,Hypergraph CNN for longitudinal prediction of KOA grades and progression from MRI,T2,CE3
+Semantic Scholar,6649246abb,B1,2022,não,,Deep Transfer Network of Knee OA Progression Rate Classification in MR Imaging (IEEE),T1,CE6
+Semantic Scholar,68e018ce0e,B1,2024,sim,,Deep learning-based prediction of knee OA progression using 3D MRI: an ANN approach,T2,CE3
+Semantic Scholar,709de0cedc,B1,2024,sim,,A Multi-Instance Learning Approach for Improving Knee OA Diagnosis From MRI Data (IEEE),T1,CE6
+Semantic Scholar,742efb660d,B1,2023,sim,,Disentanglement of Latent Factors of Radiographic Knee Images for KOA Severity,T2,CE4
+Semantic Scholar,759b340398,B1,2022,não,,Anomaly-Aware 3D Segmentation of Knee MR Images,T2,CE2
+Semantic Scholar,760a0d7bbb,B1,2026,não,,Radiographic Analysis of Knee OA with DL: Joint Space Narrowing and Alignment (IEEE),T1,CE6
+Semantic Scholar,78435638e2,B1,2023,sim,,Umjetna inteligencija u oslikavanju koljena magnetnom rezonancijom (review),T2,CE1
+Semantic Scholar,79393c7247,B1,2023,sim,,Identification of Pain-Associated Effusion-Synovitis from Knee MRI (bioRxiv),T1,CE6
+Semantic Scholar,7e0ccb2ffd,B1,2025,sim,,Knee Osteoarthritis Detection Using Bone Distances (IEEE/ACM CHASE),T1,CE6
+Semantic Scholar,7e64a77b65,B1,2024,não,,The Development of Artificial Intelligence in Knee Joint MRI Detection (overview),T2,CE1
+Semantic Scholar,844f09f25a,B1,2023,sim,,Classification of knee OA based on quantum-to-classical transfer learning (KOA modality not MRI),T2,CE4
+Semantic Scholar,86d0a156c8,B1,2026,não,,Knee OA Prediction and Progression Using Multi Modal DL (IEEE),T1,CE6
+Semantic Scholar,886bfb45ab,B1,2026,sim,,Artificial intelligence in orthopaedic surgery (review),T2,CE1
+Semantic Scholar,88f34ee6bb,B1,2022,sim,,Diabetes-associated thigh muscle degeneration mediates knee OA-related outcomes,T2,CE3
+Semantic Scholar,9006ab1c19,B1,2024,sim,,Advanced Bi-CNN for Detection of Knee OA using Joint Space Narrowing Analysis (radiographs),T2,CE4
+Semantic Scholar,9070b18ee5,B1,2026,sim,,Increase in knee-adjacent subcutaneous fat is associated with cartilage degeneration,T2,CE3
+Semantic Scholar,9539ac68a5,B1,2026,sim,,Deep transfer learning with multimodal fusion to improve the prediction of KOA progression,T2,CE3
+Semantic Scholar,9580c338c7,B1,2022,sim,,Prediction Model Using Reinforcement Deep Learning for OA Diagnosis (X-ray),T2,CE4
+Semantic Scholar,98172988ee,B1,2025,sim,,Predicting knee OA progression using neural network with longitudinal MRI radiomics,T2,CE3
+Semantic Scholar,9869a04eb5,B1,2024,não,,Satin Bowerbird Optimization Modified Elman RNN for Thigh Muscle segmentation,T2,CE3
+Semantic Scholar,9cdefa0f04,B1,2023,não,,A 3D Deep Learning Approach for Meniscus Tear Severity at the Region-level (IEEE),T1,CE6
+Semantic Scholar,a00efac222,B1,2024,sim,,Prediction of Kellgren-Lawrence Grade of Knee OA by Deep Residual Networks Using MR Image,T3,INCLUIDO
+Semantic Scholar,aa6926fc16,B1,2024,não,,Deep Learning based Knee OA Grade Classification: A Review (IEEE),T1,CE6
+Semantic Scholar,ae90800cce,B1,2024,não,,Implementation of Knee OA Detection and Severity Prediction Using CNN (IEEE),T1,CE6
+Semantic Scholar,b414cfef3b,B1,2025,sim,,Diffusion model-empowered patella shape analysis predicts knee OA outcomes,T2,CE3
+Semantic Scholar,bb910ab948,B1,2026,sim,,Predicting time-to-pain progression in knee OA: clinical and radiomics features,T2,CE3
+Semantic Scholar,bcbe989ee2,B1,2021,sim,,Knee OA severity prediction using an attentive multi-scale deep CNN (radiographs),T2,CE4
+Semantic Scholar,be1262998b,B1,2025,sim,,Imaging Knee MRI Segmentation and 3D Reconstruction Based on Deep Learning,T2,CE2
+Semantic Scholar,bf9b7d64e7,B1,2023,sim,,Early detection of knee OA using deep learning on knee MRI (congress abstract),T2,CE9
+Semantic Scholar,bfa5d66791,B1,2025,sim,,Automating Imaging Biomarker Analysis for Knee OA (medRxiv),T1,CE6
+Semantic Scholar,c5c0227ce1,B1,2025,não,,Deep Learning-Based Knee OA MRI Image Classification Method (IEEE),T1,CE6
+Semantic Scholar,c859ade251,B1,2022,não,,Early detection of knee OA using DL on knee MR images (arXiv),T1,CE6
+Semantic Scholar,c86a8720fb,B1,2023,sim,,Paper 45: Osteochondritis Dissecans (abstract),T1,CE6
+Semantic Scholar,c8d515f08d,B1,2025,não,,Automatic prediction of knee OA progression through cartilage T2 mapping,T2,CE3
+Semantic Scholar,cc9389ea1d,B1,2023,sim,,Knee Osteoarthritis Radiology Assistant,T3,INCLUIDO
+Semantic Scholar,cf789df2c3,B1,2021,sim,,The Value of CNN-Algorithm-Based MRI in the Diagnosis of Sports Knee Osteoarthropathy,T3,INCLUIDO
+Semantic Scholar,d128dc3461,B1,2023,sim,,Levothyroxine use and longitudinal changes in thigh muscles,T2,CE3
+Semantic Scholar,d145ddd2cf,B1,2026,sim,,CT-derived body composition and MRI-based infrapatellar fat pad,T2,CE3
+Semantic Scholar,d40eaa3b54,B1,2025,não,,Artificial Intelligence in the Detection of Knee Joint Injuries: A Comprehensive Review (IEEE),T1,CE6
+Semantic Scholar,d639dc9931,B1,2024,sim,,A Comprehensive Review of Machine Learning's Role within KOA,T2,CE1
+Semantic Scholar,d733e160b0,B1,2024,sim,,Osteoarthritis grading: a synthesized magnetic resonance images technique (X-ray input),T2,CE4
+Semantic Scholar,d8361e5979,B1,2024,não,,Automated Classification of Knee OA Severity using EfficientNetV2-S (IEEE),T1,CE6
+Semantic Scholar,da448b536c,B1,2025,sim,,Empirical Analysis of Machine Learning Algorithms in Identifying Osteoarthritis,T2,CE8
+Semantic Scholar,db86479908,B1,2022,não,,Implementation of AlexNet for Classification of Knee Osteoarthritis,T3,CE5
+Semantic Scholar,dc3ef62e1e,B1,2026,sim,,Quantitative medial subchondral bone attrition from MRI is associated with knee OA severity,T2,CE2
+Semantic Scholar,ddb910584d,B1,2024,não,,Knee cartilage MR images segmentation based on multi-dimensional hybrid CNN,T2,CE2
+Semantic Scholar,e286e7af8e,B1,2024,não,,Deep Learning with 3D CNN for Knee Osteoarthritis Detection and Classification,T3,CE5
+Semantic Scholar,e4572ed268,B1,2021,não,,Multipath CNN with alpha matte inference for knee tissue segmentation (arXiv),T1,CE6
+Semantic Scholar,e74a3d326d,B1,2022,sim,,Comparison of Evaluation Metrics of DL for Imbalanced Imaging Data in OA Studies (medRxiv),T2,CE9
+Semantic Scholar,e83a442a77,B1,2024,não,,ResNet50 with MLP for Knee OA Classification (IEEE),T1,CE6
+Semantic Scholar,e8ecd604a3,B1,2026,sim,,Longitudinal 3D quantification of joint space from CT images,T2,CE4
+Semantic Scholar,e9e3a4b8c0,B1,2026,sim,,3D quantitative measurements of joint spacing based on segmentation,T2,CE2
+Semantic Scholar,efa279803c,B1,2026,não,,DeepOsteoCls: DL-based framework for Knee OA Classification,T3,CE5
+Semantic Scholar,f3331fb02e,B1,2021,sim,,Editorial for Cross-Cohort Automatic Knee MRI Segmentation,T2,CE1
+Semantic Scholar,f53c1f9c39,B1,2021,sim,,DeepKneeExplainer: Explainable Knee OA Diagnosis From Radiographs and MRI,T3,INCLUIDO
+Semantic Scholar,f95d01e85e,B1,2025,sim,,Recent advances in imaging and DL for early diagnosis of knee OA (review),T2,CE1
+Semantic Scholar,fa96140d60,B1,2026,sim,,Deep-learning detection of intra-articular calcification on knee CT,T2,CE4
+Semantic Scholar,feb0cd09fb,B1,2026,sim,,Automated knee cartilage segmentation for T2 quantification,T2,CE2
+Semantic Scholar,ff407203a6,B1,2024,não,,Predicting Knee OA using Deep Neural Network (IEEE),T1,CE6
+Semantic Scholar,51a39a3605,B2,2021,sim,,Review report for Deep Learning for OA Classification in TMJ (peer review),T2,CE9
+Semantic Scholar,5a534d49e6,B2,2023,sim,,Progressive Faster Residual CNN for Improving Osteoarthritis of the TMJ Detection,T3,INCLUIDO
+Semantic Scholar,5dd6f4775f,B2,2021,não,,Deep Learning for Spatio-Temporal Localization of TMJ in Ultrasound Videos,T2,CE3
+Semantic Scholar,5fc9fa3992,B2,2026,sim,,Effect of Cranberry Plant Extract on Gene Expression (irrelevant),T2,CE3
+Semantic Scholar,624bebeb8c,B2,2026,sim,,Digital Transformation of Orthodontics Using AI (abstract/review),T2,CE1
+Semantic Scholar,6dbe548de4,B2,2026,sim,,Deep learning diagnosis of TMJ osteoarthritis using MRI ensembles and CBCT-MRI fusion,T3,INCLUIDO
+Semantic Scholar,8444cdd174,B2,2026,sim,,A Comprehensive Review on Detection of TMJ Osteoarthritis,T2,CE1
+Semantic Scholar,9395170069,B2,2026,sim,,Artificial Intelligence in Dentistry (review),T2,CE1
+Semantic Scholar,9511520c91,B2,2021,sim,,Author response for Deep Learning for OA Classification in TMJ (peer review),T2,CE9
+Semantic Scholar,9f6a4e73a6,B2,2026,sim,,Automated Detection of TMJ Osteoarthritis from CBCT Using Deep Learning,T3,INCLUIDO
+Semantic Scholar,a0ec55b1b4,B2,2023,não,,Tri-Stage DL Model for Mandibular Condyle Segmentation and OA Identification (IEEE),T1,CE6
+Semantic Scholar,b0d0acdf3f,B2,2026,sim,,Artificial intelligence versus oral radiologists for TMJ osteoarthritis detection on CBCT,T3,INCLUIDO
+Semantic Scholar,c02bb8af3f,B2,2026,não,,Automated TMJ Disorder Detection Using DL-Based Condylar Morphometric Analysis (IEEE),T1,CE6
+Semantic Scholar,e082c832e5,B2,2026,sim,,Utilizing AI to Diagnose TMJ Osteoarthritis via Orthopantomographs,T3,INCLUIDO
+Semantic Scholar,f4840515ed,B2,2025,sim,,AI in Diagnosing and Treating TMJ Disorders: A Review (F1000),T1,CE6
+Semantic Scholar,f7f35fdd26,B2,2022,sim,,POS1108 Use of machine learning in OA research: a systematic literature review (abstract),T2,CE1

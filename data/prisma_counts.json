@@ -1,0 +1,39 @@
+{
+  "identified_by_base": {
+    "PubMed": 98,
+    "IEEE Xplore": 29,
+    "Europe PMC": 97,
+    "SciELO": 2,
+    "BVS/LILACS": 4,
+    "SBC OpenLib": 4,
+    "arXiv": 8,
+    "Semantic Scholar": 207
+  },
+  "identified_total": 449,
+  "duplicates_removed": 197,
+  "screened": 252,
+  "excluded_title_abstract": {
+    "CE1": 52,
+    "CE2": 44,
+    "CE3": 45,
+    "CE4": 21,
+    "CE7": 2,
+    "CE8": 2,
+    "CE9": 22
+  },
+  "excluded_title_abstract_total": 188,
+  "reports_sought": 64,
+  "reports_not_retrieved_CE5": 37,
+  "reports_assessed": 27,
+  "reports_excluded": 0,
+  "included_total": 27,
+  "included_knee": 17,
+  "included_tmj": 10,
+  "not_executed": {
+    "Scopus": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
+    "Web of Science": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
+    "Embase": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
+    "ACM Digital Library": "automated access blocked by bot verification; run manually",
+    "dblp": "automated access blocked by bot verification; run manually"
+  }
+}
