@@ -10,6 +10,6 @@
 | BVS/LILACS | S1 | 4 | 3 | 0 | 0 |
 | SBC OpenLib | S2 | 4 | 4 | 0 | 0 |
 | arXiv | B1 | 8 | 6 | 0 | 0 |
-| Semantic Scholar | B1 | 171 | 73 | 12 | 6 |
+| Semantic Scholar | B1 | 171 | 73 | 12 | 4 |
 | Semantic Scholar | B2 | 36 | 13 | 5 | 5 |
-| **Total** | | **449** | **252** | **64** | **27** |
+| **Total** | | **449** | **252** | **64** | **25** |

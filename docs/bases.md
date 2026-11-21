@@ -15,8 +15,8 @@ Ordem de deduplicação: PubMed → IEEE Xplore → Europe PMC → SciELO → BV
 | Saúde | BVS/LILACS | Portal Regional da BVS, coleção LILACS Plus | S1 (DeCS) | 4 | 3 | 0 |
 | Computação | SBC OpenLib | Busca de cada série (SBCAS e SBCAS Estendido) | S2 | 4 | 4 | 0 |
 | Computação | arXiv | API (`src/search_arxiv.py`), campo `abs` | B1, B2 | 8 | 6 | 0 |
-| Computação | Semantic Scholar | Graph API, *bulk search* (`src/search_semanticscholar.py`) | B1, B2 | 207 | 86 | 11 |
-| | **Total** | | | **449** | **252** | **27** |
+| Computação | Semantic Scholar | Graph API, *bulk search* (`src/search_semanticscholar.py`) | B1, B2 | 207 | 86 | 9 |
+| | **Total** | | | **449** | **252** | **25** |
 
 ## PubMed/MEDLINE (saúde)
 
@@ -68,7 +68,7 @@ Ordem de deduplicação: PubMed → IEEE Xplore → Europe PMC → SciELO → BV
 - **Strings:** B1 e B2 na sintaxe da *bulk search* (`+` = AND, `|` = OR), aplicadas a título e resumo.
 - **Filtro:** `year=2021-2026`.
 - **Resultado:** B1 = 171; B2 = 36. Destes, 84 já estavam no PubMed ou na Europe PMC (mesmo PMID) e 37 eram duplicatas do IEEE, do arXiv ou de *preprints* da Europe PMC.
-- **Por que esta base:** ela cobre anais de computação (IEEE, ACM, Springer, SciTePress) e periódicos fora do MEDLINE. Foi daqui que vieram 11 dos 27 incluídos, entre eles o estudo de Guida et al. (2021), que na v1.0 só tinha entrado por busca manual.
+- **Por que esta base:** ela cobre anais de computação (IEEE, ACM, Springer, SciTePress) e periódicos fora do MEDLINE. Foi daqui que vieram 9 dos 25 incluídos, entre eles o estudo de Guida et al. (2021), que na v1.0 só tinha entrado por busca manual.
 - **Limite:** a busca não é tão controlada quanto a do PubMed, porque o índice tem ranqueamento e variações de grafia. Por isso a triagem dessa base foi a mais trabalhosa.
 
 ## Bases consideradas e não executadas
@@ -82,3 +82,14 @@ Ordem de deduplicação: PubMed → IEEE Xplore → Europe PMC → SciELO → BV
 | dblp | Verificação anti-robô impede acesso automatizado | Busca por título (o dblp não indexa resumos) |
 
 Quando essas bases forem executadas, acrescente as linhas ao `data/screening_decisions.csv` e rode `python src/prisma_counts.py`. O fluxograma e as tabelas são gerados de novo automaticamente.
+
+## Textos completos não obtidos (CE10)
+
+Dois estudos de acesso aberto passaram na triagem, mas o PDF não pôde ser obtido em 21/11/2026:
+
+| Estudo | DOI | Motivo |
+|---|---|---|
+| Manfredonia *et al.* (2024), ICAART, SciTePress, CC BY-NC-ND 4.0 | 10.5220/0012471200003636 | O download na página da SciTePress exige CAPTCHA, e a tentativa falhou |
+| Yan (2021), *Scientific Programming* (Hindawi, hoje Wiley) | 10.1155/2021/2803857 | O site antigo da Hindawi redireciona para a Wiley, que bloqueou o acesso ("Sorry, you have been blocked"). Não há retratação registrada no Crossref |
+
+Eles aparecem no fluxograma junto com os de CE5, na caixa "Textos completos não obtidos", como o PRISMA 2020 pede para *reports not retrieved*. Se os PDFs forem obtidos depois, basta trocar a decisão no CSV para INCLUIDO e rodar `src/prisma_counts.py`.

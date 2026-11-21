@@ -95,6 +95,7 @@ CRITERIA = {
     "CE7": "Author's own work (already reported as Contribution 1 or 2)",
     "CE8": "Does not use deep learning (classical machine learning only)",
     "CE9": "Not a peer-reviewed full paper: preprint, thesis, congress abstract or peer-review report",
+    "CE10": "Full text not retrieved: open access, but the download was blocked or failed on the publisher's site",
 }
 
 # Order in which databases were deduplicated (a record is CE6 in every database after the first one)

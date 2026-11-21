@@ -35,7 +35,8 @@ def counts(rows):
     screened = len(rows) - dec["CE6"]
     excl = {c: dec[c] for c in T2_CODES if dec[c]}
     sought = screened - sum(excl.values())
-    assessed = sought - dec["CE5"]
+    not_retrieved = dec["CE5"] + dec["CE10"]
+    assessed = sought - not_retrieved
     inc = [r for r in rows if r["decisao"] == "INCLUIDO"]
     return OrderedDict(
         identified_by_base=OrderedDict((b, by_base[b]) for b in DEDUP_ORDER if by_base[b] or b in by_base),
@@ -45,7 +46,9 @@ def counts(rows):
         excluded_title_abstract=excl,
         excluded_title_abstract_total=sum(excl.values()),
         reports_sought=sought,
-        reports_not_retrieved_CE5=dec["CE5"],
+        reports_not_retrieved=not_retrieved,
+        not_retrieved_CE5_no_open_access=dec["CE5"],
+        not_retrieved_CE10_download_failed=dec["CE10"],
         reports_assessed=assessed,
         reports_excluded=assessed - len(inc),
         included_total=len(inc),
@@ -106,7 +109,8 @@ def tikz(c):
 \node[lado, right=1.4cm of tri] (ex1) {{Excluídos após título e resumo:\\[2pt] (N = {c['excluded_title_abstract_total']})\\[3pt]
   {{\footnotesize {excl}}}}};
 \node[caixa, below=2.6cm of tri] (bus) {{Textos completos buscados:\\[2pt] (N = {c['reports_sought']})}};
-\node[lado, right=1.4cm of bus] (ce5) {{Sem acesso aberto ao texto completo:\\[2pt] (N = {c['reports_not_retrieved_CE5']})}};
+\node[lado, right=1.4cm of bus] (ce5) {{Textos completos não obtidos:\\[2pt] (N = {c['reports_not_retrieved']})\\[3pt]
+  {{\footnotesize CE5 -- sem acesso aberto: {c['not_retrieved_CE5_no_open_access']}\\ CE10 -- download bloqueado ou indisponível: {c['not_retrieved_CE10_download_failed']}}}}};
 \node[caixa, below=1.0cm of bus] (ele) {{Estudos elegíveis (texto completo):\\[2pt] (N = {c['reports_assessed']})}};
 \node[lado, right=1.4cm of ele] (ex2) {{Removidos após leitura do texto completo:\\[2pt] (N = {c['reports_excluded']})}};
 \node[caixa, below=1.2cm of ele] (inc) {{Estudos incluídos nesta revisão:\\[2pt] (N = {c['included_total']})\\[2pt]

@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## 2.1.0 – 21/11/2026
+- Critério novo CE10 (texto completo não obtido). Manfredonia et al. (2024) e Yan (2021) foram excluídos: os dois são de acesso aberto, mas o download falhou (CAPTCHA na SciTePress; bloqueio no site da Hindawi/Wiley).
+- Incluídos: 25 (15 de joelho e 10 de ATM). Textos completos não obtidos: 39 (37 sem acesso aberto, CE5; 2 com download que falhou, CE10).
+- PDFs dos 21 estudos de licença aberta em `pdfs/`. Licenças conferidas na primeira página de cada PDF.
+- Correções: licença de Yeoh et al. (2023, IEEE Access) é CC BY-NC-ND 4.0; páginas de Simran et al. (2025) são 1647–1667.
+
 ## 2.0.0 – 21/11/2026
 - Seis bases novas: Europe PMC, SciELO, BVS/LILACS, SBC OpenLib, arXiv e Semantic Scholar. No total, 8 bases executadas (4 de saúde e 4 de computação).
 - Cinco bases registradas como consideradas e não executadas (Scopus, Web of Science, Embase, ACM DL e dblp), com o motivo e o passo a passo para executá-las.

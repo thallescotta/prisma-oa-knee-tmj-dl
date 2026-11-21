@@ -22,11 +22,12 @@
 \node[lado, right=1.4cm of tri] (ex1) {Excluídos após título e resumo:\\[2pt] (N = 188)\\[3pt]
   {\footnotesize \begin{tabular}{@{}l@{}}CE1 -- revisões, editoriais: 52 \\ CE2 -- só segmentação/imagem: 44 \\ CE3 -- outro desfecho ou articulação: 45 \\ CE4 -- joelho sem RM: 21 \\ CE7 -- trabalhos do autor: 2 \\ CE8 -- sem aprendizado profundo: 2 \\ CE9 -- preprints, resumos, teses: 22\end{tabular}}};
 \node[caixa, below=2.6cm of tri] (bus) {Textos completos buscados:\\[2pt] (N = 64)};
-\node[lado, right=1.4cm of bus] (ce5) {Sem acesso aberto ao texto completo:\\[2pt] (N = 37)};
-\node[caixa, below=1.0cm of bus] (ele) {Estudos elegíveis (texto completo):\\[2pt] (N = 27)};
+\node[lado, right=1.4cm of bus] (ce5) {Textos completos não obtidos:\\[2pt] (N = 39)\\[3pt]
+  {\footnotesize CE5 -- sem acesso aberto: 37\\ CE10 -- download bloqueado ou indisponível: 2}};
+\node[caixa, below=1.0cm of bus] (ele) {Estudos elegíveis (texto completo):\\[2pt] (N = 25)};
 \node[lado, right=1.4cm of ele] (ex2) {Removidos após leitura do texto completo:\\[2pt] (N = 0)};
-\node[caixa, below=1.2cm of ele] (inc) {Estudos incluídos nesta revisão:\\[2pt] (N = 27)\\[2pt]
-  {\footnotesize joelho: 17; ATM: 10}};
+\node[caixa, below=1.2cm of ele] (inc) {Estudos incluídos nesta revisão:\\[2pt] (N = 25)\\[2pt]
+  {\footnotesize joelho: 15; ATM: 10}};
 \path let \p1=(id.north west), \p2=(dup.north east) in node[draw=black!70, fill=laranja, rounded corners=6pt,
   minimum width=\x2-\x1, minimum height=0.9cm, font=\large, anchor=south] (banner) at (\x1/2+\x2/2, \y1+0.4cm)
   {Identificação de estudos a partir de bases de dados};
