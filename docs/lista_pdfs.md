@@ -42,3 +42,5 @@ Estudos citados na tese como contexto, fora do período ou do critério de acess
 | `pedoia_t2_2019` | publicado antes de 2021 (CI3) | todos os direitos reservados (Elsevier) | NÃO | https://doi.org/10.1016/j.joca.2019.02.800 |
 | `lee_tmj_2024` | não retornado pelas strings B2; desfecho é derrame articular, não osteoartrite | CC BY-NC-ND 4.0 (confirmado no PDF) | sim | https://doi.org/10.1038/s41598-024-69848-9 |
 | `jung_tmj_2023` | excluído por CE5 (sem acesso aberto; PubMed 34689379) | — | NÃO | https://doi.org/10.1111/odi.14056 |
+| `teoh_multitask_2026_preprint` | *preprint* na Research Square (CE9); coautoria de M. Berrimi, autor do conjunto OAI-MRI-3DDESS | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.21203/rs.3.rs-8330779/v1 |
+| `berrimi_tese_2024_cap6` | capítulo 6 da tese de doutorado de M. Berrimi (Université d'Orléans, 2024), versão do MVMI na tese (CE9). Usa as sequências COR MPR e SAG IW-TSE da OAI, divisão 80/20 sem menção a separação por paciente, AUC de 94,52\% | sem licença aberta declarada (depósito autorizado no HAL) | NÃO | https://theses.hal.science/tel-05027456v1 |
