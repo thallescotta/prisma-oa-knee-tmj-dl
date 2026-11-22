@@ -71,17 +71,39 @@ Ordem de deduplicação: PubMed → IEEE Xplore → Europe PMC → SciELO → BV
 - **Por que esta base:** ela cobre anais de computação (IEEE, ACM, Springer, SciTePress) e periódicos fora do MEDLINE. Foi daqui que vieram 9 dos 25 incluídos, entre eles o estudo de Guida et al. (2021), que na v1.0 só tinha entrado por busca manual.
 - **Limite:** a busca não é tão controlada quanto a do PubMed, porque o índice tem ranqueamento e variações de grafia. Por isso a triagem dessa base foi a mais trabalhosa.
 
+## Bases de acesso restrito (Portal de Periódicos da CAPES)
+
+Scopus, Web of Science e ACM Digital Library foram acessadas em 22/11/2026 pelo Portal de Periódicos da CAPES, com login institucional da UFCI/RJ (CAFe). Na primeira tentativa, a mesma string foi colada nas três bases sem adaptar a sintaxe: o Web of Science e a ACM buscaram os códigos `TITLE-ABS-KEY` e `INDEXTERMS` como palavras, e o Scopus recusou o aninhamento de `INDEXTERMS` dentro de `TITLE-ABS-KEY`. As três retornaram zero registro. Esse zero não é relatado como resultado da revisão. As strings abaixo, com a mesma lógica de B1 e B2, são as que devem ser executadas.
+
+**Scopus** (Advanced search)
+
+```
+B1: TITLE-ABS-KEY(("knee osteoarthritis" OR (knee AND osteoarthritis)) AND (mri OR "magnetic resonance") AND ("deep learning" OR "convolutional neural network*" OR "neural network*") AND (classif* OR grading OR diagnos* OR detection)) AND PUBYEAR > 2020 AND PUBYEAR < 2027
+B2: TITLE-ABS-KEY((temporomandibular OR tmj) AND (osteoarthritis OR "degenerative joint disease") AND ("deep learning" OR "convolutional neural network*" OR "neural network*")) AND PUBYEAR > 2020 AND PUBYEAR < 2027
+```
+
+**Web of Science Core Collection** (Advanced Search, Query Builder)
+
+```
+B1: TS=(("knee osteoarthritis" OR (knee AND osteoarthritis)) AND (MRI OR "magnetic resonance") AND ("deep learning" OR "convolutional neural network*" OR "neural network*") AND (classif* OR grading OR diagnos* OR detection)) AND PY=(2021-2026)
+B2: TS=((temporomandibular OR TMJ) AND (osteoarthritis OR "degenerative joint disease") AND ("deep learning" OR "convolutional neural network*" OR "neural network*")) AND PY=(2021-2026)
+```
+
+**ACM Digital Library** (ACM Guide to Computing Literature, filtro 2021–2026)
+
+```
+B1: Abstract:("knee osteoarthritis" AND (MRI OR "magnetic resonance") AND ("deep learning" OR "neural network"))
+B2: Abstract:((temporomandibular OR TMJ) AND osteoarthritis AND ("deep learning" OR "neural network"))
+```
+
+Exportação: Scopus em CSV (título, autores, ano, DOI, resumo), Web of Science em Excel (*Full Record*), ACM em BibTeX. Depois, acrescente as linhas ao `data/screening_decisions.csv` e rode `python src/prisma_counts.py`.
+
 ## Bases consideradas e não executadas
 
-| Base | Motivo | Como executar |
-|---|---|---|
-| Scopus | Exige login institucional | Portal de Periódicos CAPES → acesso CAFe → TITLE-ABS-KEY com a lógica de B1 e B2 |
-| Web of Science | Exige login institucional | Portal CAPES → CAFe → campo TS= com a lógica de B1 e B2 |
-| Embase | Exige login institucional | Portal CAPES → CAFe → Emtree + termos livres |
-| ACM Digital Library | Verificação anti-robô impede acesso automatizado | Busca avançada, campo *Abstract*, 2021–2026 |
-| dblp | Verificação anti-robô impede acesso automatizado | Busca por título (o dblp não indexa resumos) |
-
-Quando essas bases forem executadas, acrescente as linhas ao `data/screening_decisions.csv` e rode `python src/prisma_counts.py`. O fluxograma e as tabelas são gerados de novo automaticamente.
+| Base | Motivo |
+|---|---|
+| Embase | Não consta do acesso institucional usado |
+| dblp | Indexa só títulos, sem resumos; verificação anti-robô impede acesso automatizado |
 
 ## Textos completos não obtidos (CE10)
 
