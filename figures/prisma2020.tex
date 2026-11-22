@@ -36,7 +36,6 @@
 \path let \p1=(id.north), \p2=(id.south) in node[aba, rotate=90, minimum width=\y1-\y2] at ($(id.west)+(-0.8,0)$) {Identificação};
 \path let \p1=(tri.north), \p2=(ele.south) in node[aba, rotate=90, minimum width=\y1-\y2] at ($(tri.north west)!0.5!(ele.south west)+(-0.8,0)$) {Triagem};
 \path let \p1=(inc.north), \p2=(inc.south) in node[aba, rotate=90, minimum width=\y1-\y2+0.4cm] at ($(inc.west)+(-0.8,0)$) {Inclusão};
-\node[below=0.35cm of inc.south west, anchor=north west, text width=13.6cm, font=\scriptsize, align=left]
-  {Bases consideradas e não executadas: Scopus, Web of Science, Embase, ACM Digital Library, dblp.};
+% A lista de bases não executadas vai na legenda da figura (texto), não dentro do fluxograma.
 \end{tikzpicture}
 \end{document}
