@@ -22,12 +22,23 @@ Dois estudos que passaram na triagem foram excluídos por CE10, porque o texto c
 | 14 | `yeoh_tl3d_2023` | joelho | PubMed 37122858 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC10136763/ |
 | 15 | `zhong_uda_2023` | joelho | PubMed 37969620 | CC BY-NC-ND | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC10644135/ |
 | 16 | `choi_opg_2021` | ATM | PubMed 33986459 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC8119725/ |
-| 17 | `iqbal_cbct_2026` | ATM | Semantic Scholar b0d0acdf3f | não informada (Bioinformation; conferir no PDF) | NÃO | https://doi.org/10.6026/973206300227522 |
+| 17 | `iqbal_cbct_2026` | ATM | Semantic Scholar b0d0acdf3f | CC BY (confirmado no PDF) | sim | https://doi.org/10.6026/973206300227522 |
 | 18 | `krishnamoorthy_pfrcnn_2023` | ATM | Semantic Scholar 5a534d49e6 | não informada | NÃO | https://doi.org/10.17762/ijritcc.v11i6.7384 |
 | 19 | `lang_m4tmd_2026` | ATM | PubMed 41461305 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.1016/j.jdent.2025.106322 |
 | 20 | `lee_bonescan_2025` | ATM | PubMed 41497394 | CC BY 4.0 (confirmado no PDF) | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC12767182/ |
 | 21 | `lee_tmjfusion_2026` | ATM | Semantic Scholar 6dbe548de4 | CC BY-NC-ND 4.0 | sim | https://doi.org/10.1038/s41598-026-60962-4 |
 | 22 | `nguyen_opg_2026` | ATM | Semantic Scholar e082c832e5 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.2174/01187421063134260810074044 |
 | 23 | `nozawa_tmj_2024` | ATM | PubMed 39067043 | sem licença aberta informada | NÃO | https://doi.org/10.1093/dmfr/twae040 |
-| 24 | `trivedi_cbct_2026` | ATM | Semantic Scholar 9f6a4e73a6 | Elsevier user license (conferir se é CC BY no PDF) | NÃO | https://doi.org/10.1016/j.ddj.2026.100122 |
+| 24 | `trivedi_cbct_2026` | ATM | Semantic Scholar 9f6a4e73a6 | CC BY-NC-ND 4.0 (confirmado no PDF; redistribuição sem fins comerciais) | sim | https://doi.org/10.1016/j.ddj.2026.100122 |
 | 25 | `xu_tmjdjd_2026` | ATM | PubMed 42652629 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC13513506/ |
+
+## PDFs de contexto (não incluídos na revisão)
+
+Estudos citados na tese como contexto, fora do período ou do critério de acesso da revisão. Ficam em `pdfs/contexto/` quando a licença permite.
+
+| Chave BibTeX | Motivo de estar fora da revisão | Licença | No repositório? | Link |
+|---|---|---|---|---|
+| `bien_mrnet_2018` | publicado antes de 2021 (CI3) | CC BY (confirmado no PDF) | sim | https://doi.org/10.1371/journal.pmed.1002699 |
+| `pedoia_t2_2019` | publicado antes de 2021 (CI3) | todos os direitos reservados (Elsevier) | NÃO | https://doi.org/10.1016/j.joca.2019.02.800 |
+| `lee_tmj_2024` | não retornado pelas strings B2; desfecho é derrame articular, não osteoartrite | CC BY-NC-ND 4.0 (confirmado no PDF) | sim | https://doi.org/10.1038/s41598-024-69848-9 |
+| `jung_tmj_2023` | excluído por CE5 (sem acesso aberto; PubMed 34689379) | — | NÃO | https://doi.org/10.1111/odi.14056 |

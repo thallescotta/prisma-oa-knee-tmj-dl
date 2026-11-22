@@ -14,7 +14,7 @@
 <p align="center">
   Thalles Cotta Fontainha · Orientador: Prof. Felipe da Rocha Henriques<br>
   Programa de Pós-Graduação em Instrumentação e Óptica Aplicada (PPGIO) · UFCI/RJ (antigo CEFET/RJ) e UFF<br>
-  <i>Versão 2.1.0 · busca de 21/11/2026 · ver <a href="CHANGELOG.md">CHANGELOG</a></i>
+  <i>Versão 2.2.0 · buscas de 21 e 22/11/2026 · ver <a href="CHANGELOG.md">CHANGELOG</a></i>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 
 **Pergunta da revisão.** Que estudos usam aprendizado profundo para classificar, graduar ou detectar osteoartrite do joelho em ressonância magnética, ou da ATM em qualquer modalidade de imagem, e o que dizem sobre representação volumétrica e transferência de conhecimento com poucos dados?
 
-> **English summary.** Reproducible search in 8 databases (4 health, 4 computing), screening decisions with criterion codes for all 449 records, an auto-generated PRISMA 2020 flow diagram, and the list of 25 included studies (with licences) for a PhD project on 3D CNNs for joint MRI with limited labelled data (knee-to-TMJ transfer).
+> **English summary.** Reproducible search in 10 databases (4 health, 6 computing/multidisciplinary, including Scopus and ACM DL via the CAPES portal), screening decisions with criterion codes for all 803 records, an auto-generated PRISMA 2020 flow diagram, and the list of 25 included studies (with licences) for a PhD project on 3D CNNs for joint MRI with limited labelled data (knee-to-TMJ transfer).
 
 ## Resultado
 
@@ -41,9 +41,11 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 | Computação | SBC OpenLib (SBCAS) | S2 | 4 | 4 | 0 | 0 |
 | Computação | arXiv | B1 / B2 | 8 / 0 | 6 / 0 | 0 | 0 |
 | Computação | Semantic Scholar | B1 / B2 | 171 / 36 | 73 / 13 | 12 / 5 | 4 / 5 |
-| | **Total** | | **449** | **252** | **64** | **25** |
+| Multidisciplinar | Scopus (Portal CAPES) | B1 | 353 | 214 | 22 | 0 (3 aguardando) |
+| Computação | ACM Digital Library (Portal CAPES) | B1 / B2 | 1 / 0 | 0 / 0 | 0 | 0 |
+| | **Total** | | **803** | **466** | **86** | **25** |
 
-**Consideradas e não executadas:** Scopus, Web of Science e Embase (exigem login institucional pelo Portal CAPES/CAFe); ACM Digital Library e dblp (bloqueiam acesso automatizado). O motivo de cada uma e o passo a passo para executá-las estão em [`docs/bases.md`](docs/bases.md).
+**Pendentes:** Scopus B2 (zero relatado, implausível) e Web of Science (consulta recusada pela interface) precisam ser executados de novo. **Não executadas:** Embase e dblp. Detalhes e passo a passo em [`docs/bases.md`](docs/bases.md). Três registros do Scopus em acesso aberto aguardam a leitura do texto completo.
 
 A lista dos 25 estudos, com links e licenças, está em [`docs/lista_pdfs.md`](docs/lista_pdfs.md). O BibTeX está em `references/included_studies.bib`.
 
@@ -122,7 +124,7 @@ Os scripts usam só a biblioteca padrão do Python 3.9+. Os resultados das bases
 
 ```
 src/          strings (config.py), scripts de busca, contagem e fluxograma
-data/         screening_decisions.csv (449 registros), prisma_counts.json, selection_table.md
+data/         screening_decisions.csv (803 registros), scopus_b1_2026-11-22.csv, prisma_counts.json, selection_table.md
 docs/         bases.md (como cada base foi consultada), lista_pdfs.md (25 estudos, links, licenças),
               sintese.md (resumo de cada estudo e relação com a tese)
 references/   included_studies.bib e included_studies.csv

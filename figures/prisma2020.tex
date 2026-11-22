@@ -15,17 +15,18 @@
   lado/.style={draw=azulborda, line width=0.9pt, fill=white, align=center, text width=6.4cm, inner sep=6pt},
   linha/.style={draw=azulaba, line width=1.6pt},
   aba/.style={draw=azulborda, fill=azulaba, rounded corners=6pt, text=white, font=\bfseries\large, minimum width=0.9cm}]
-\node[caixa] (id) at (0,0) {Nº total de registros nas bases pesquisadas:\\[2pt] (N = 449)\\[3pt]
-  {\footnotesize \begin{tabular}{@{}l@{\hspace{10pt}}l@{}}PubMed: 98 & BVS/LILACS: 4 \\ IEEE Xplore: 29 & SBC OpenLib: 4 \\ Europe PMC: 97 & arXiv: 8 \\ SciELO: 2 & Semantic Scholar: 207\end{tabular}}};
-\node[lado, right=1.4cm of id] (dup) {Removidos antes da triagem:\\[2pt] duplicatas entre bases (N = 197)};
-\node[caixa, below=1.0cm of id] (tri) {Registros triados por título e resumo:\\[2pt] (N = 252)};
-\node[lado, right=1.4cm of tri] (ex1) {Excluídos após título e resumo:\\[2pt] (N = 188)\\[3pt]
-  {\footnotesize \begin{tabular}{@{}l@{}}CE1 -- revisões, editoriais: 52 \\ CE2 -- só segmentação/imagem: 44 \\ CE3 -- outro desfecho ou articulação: 45 \\ CE4 -- joelho sem RM: 21 \\ CE7 -- trabalhos do autor: 2 \\ CE8 -- sem aprendizado profundo: 2 \\ CE9 -- preprints, resumos, teses: 22\end{tabular}}};
-\node[caixa, below=2.6cm of tri] (bus) {Textos completos buscados:\\[2pt] (N = 64)};
-\node[lado, right=1.4cm of bus] (ce5) {Textos completos não obtidos:\\[2pt] (N = 39)\\[3pt]
-  {\footnotesize CE5 -- sem acesso aberto: 37\\ CE10 -- download bloqueado ou indisponível: 2}};
+\node[caixa] (id) at (0,0) {Nº total de registros nas bases pesquisadas:\\[2pt] (N = 803)\\[3pt]
+  {\footnotesize \begin{tabular}{@{}l@{\hspace{10pt}}l@{}}PubMed: 98 & SBC OpenLib: 4 \\ IEEE Xplore: 29 & arXiv: 8 \\ Europe PMC: 97 & Semantic Scholar: 207 \\ SciELO: 2 & Scopus: 353 \\ BVS/LILACS: 4 & ACM Digital Library: 1\end{tabular}}};
+\node[lado, right=1.4cm of id] (dup) {Removidos antes da triagem:\\[2pt] duplicatas entre bases (N = 337)};
+\node[caixa, below=1.0cm of id] (tri) {Registros triados por título e resumo:\\[2pt] (N = 466)};
+\node[lado, right=1.4cm of tri] (ex1) {Excluídos após título e resumo:\\[2pt] (N = 380)\\[3pt]
+  {\footnotesize \begin{tabular}{@{}l@{}}CE1 -- revisões, editoriais: 103 \\ CE2 -- só segmentação/imagem: 101 \\ CE3 -- outro desfecho ou articulação: 94 \\ CE4 -- joelho sem RM: 37 \\ CE7 -- trabalhos do autor: 2 \\ CE8 -- sem aprendizado profundo: 6 \\ CE9 -- preprints, resumos, teses: 36 \\ CE11 -- outro idioma: 1\end{tabular}}};
+\node[caixa, below=2.6cm of tri] (bus) {Textos completos buscados:\\[2pt] (N = 86)};
+\node[lado, right=1.4cm of bus] (ce5) {Textos completos não obtidos:\\[2pt] (N = 58)\\[3pt]
+  {\footnotesize CE5 -- sem acesso aberto: 56\\ CE10 -- download bloqueado ou indisponível: 2}};
 \node[caixa, below=1.0cm of bus] (ele) {Estudos elegíveis (texto completo):\\[2pt] (N = 25)};
-\node[lado, right=1.4cm of ele] (ex2) {Removidos após leitura do texto completo:\\[2pt] (N = 0)};
+\node[lado, right=1.4cm of ele] (ex2) {Removidos após leitura do texto completo:\\[2pt] (N = 0)\\[3pt]
+  {\footnotesize Aguardando leitura do texto completo: 3}};
 \node[caixa, below=1.2cm of ele] (inc) {Estudos incluídos nesta revisão:\\[2pt] (N = 25)\\[2pt]
   {\footnotesize joelho: 15; ATM: 10}};
 \path let \p1=(id.north west), \p2=(dup.north east) in node[draw=black!70, fill=laranja, rounded corners=6pt,

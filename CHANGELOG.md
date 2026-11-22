@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 2.2.0 – 22/11/2026
+- Scopus e ACM Digital Library acessados pelo autor pelo Portal de Periódicos da CAPES (login institucional da UFCI/RJ, CAFe). Scopus B1: 353 registros (139 duplicatas, 214 triados). ACM B1: 1 registro (duplicata do IEEE Xplore); ACM B2: zero.
+- Critério novo CE11 (idioma diferente de inglês ou português) e situação nova `AGUARDANDO` (texto completo de acesso aberto ainda não lido): 3 registros do Scopus.
+- Total: 803 identificados, 337 duplicatas, 466 triados, 380 excluídos na triagem, 86 textos buscados, 58 não obtidos (56 CE5, 2 CE10), 25 incluídos.
+- Pendentes: Scopus B2 (zero implausível) e Web of Science (consulta recusada na busca por campo).
+- PDFs de Iqbal et al. (2026, CC BY) e Trivedi et al. (2026, CC BY-NC-ND) passam para `pdfs/`; PDFs de contexto (Bien et al., 2018; Lee et al., 2024) em `pdfs/contexto/`.
+
 ## 2.1.0 – 21/11/2026
 - Critério novo CE10 (texto completo não obtido). Manfredonia et al. (2024) e Yan (2021) foram excluídos: os dois são de acesso aberto, mas o download falhou (CAPTCHA na SciTePress; bloqueio no site da Hindawi/Wiley).
 - Incluídos: 25 (15 de joelho e 10 de ATM). Textos completos não obtidos: 39 (37 sem acesso aberto, CE5; 2 com download que falhou, CE10).

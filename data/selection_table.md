@@ -12,4 +12,6 @@
 | arXiv | B1 | 8 | 6 | 0 | 0 |
 | Semantic Scholar | B1 | 171 | 73 | 12 | 4 |
 | Semantic Scholar | B2 | 36 | 13 | 5 | 5 |
-| **Total** | | **449** | **252** | **64** | **25** |
+| Scopus | B1 | 353 | 214 | 22 | 0 |
+| ACM Digital Library | B1 | 1 | 0 | 0 | 0 |
+| **Total** | | **803** | **466** | **86** | **25** |

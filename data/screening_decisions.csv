@@ -448,3 +448,357 @@ Semantic Scholar,c02bb8af3f,B2,2026,não,,Automated TMJ Disorder Detection Using
 Semantic Scholar,e082c832e5,B2,2026,sim,,Utilizing AI to Diagnose TMJ Osteoarthritis via Orthopantomographs,T3,INCLUIDO
 Semantic Scholar,f4840515ed,B2,2025,sim,,AI in Diagnosing and Treating TMJ Disorders: A Review (F1000),T1,CE6
 Semantic Scholar,f7f35fdd26,B2,2022,sim,,POS1108 Use of machine learning in OA research: a systematic literature review (abstract),T2,CE1
+Scopus,scopus-b1-001,B1,2026,sim,Letter,Current state of research and future developments of artificial intelligence in pain diagnosis and treatment,T2,CE1
+Scopus,scopus-b1-002,B1,2026,sim,Article,Automatic knee joint detection for Kellgren– Lawrence osteoarthritis grading in plain X-rays,T2,CE4
+Scopus,scopus-b1-003,B1,2026,sim,Article,Automated knee MRI segmentation with KneeSeg- U for cartilage and bone extraction using an unsupervised deep learning framework,T2,CE2
+Scopus,scopus-b1-004,B1,2026,sim,Article,Deep transfer learning-based approaches with multimodal fusion to improve the prediction of knee osteoarthritis progression: data from the OAI and MOST cohorts,T2,CE3
+Scopus,scopus-b1-005,B1,2026,sim,Article,A memory based model for cartilage and meniscus segmentation in 3D knee MRI,T2,CE2
+Scopus,scopus-b1-006,B1,2026,sim,Article,3D CSFA-UNet: a unified attention-driven deep learning framework for accurate knee MRI segmentation and osteoarthritis severity classification,T1,CE6
+Scopus,scopus-b1-007,B1,2026,sim,Article,OpenMSK: A modular open-source framework for comprehensive analysis of imaging biomarkers in knee osteoarthritis,T2,CE2
+Scopus,scopus-b1-008,B1,2026,sim,Review,AI-driven biomechanical modeling for knee osteoarthritis prediction: A comprehensive review of finite element and machine learning approaches,T2,CE1
+Scopus,scopus-b1-009,B1,2026,sim,Article,Exploratory associations between CT-derived body composition and MRI-based infrapatellar fat pad profiles with age-stratified analyses: a retrospective cross-sectional study,T2,CE3
+Scopus,scopus-b1-010,B1,2026,sim,Article,From model to app: Gender-specific Bayesian- optimized support vector machine predicts early structural progression in knee osteoarthritis,T2,CE3
+Scopus,scopus-b1-011,B1,2026,sim,Article,KneeXNet-2.5D: a clinically-oriented and explainable deep learning framework for MRI- based knee cartilage and meniscus segmentation,T1,CE6
+Scopus,scopus-b1-012,B1,2026,não,Review,Artificial intelligence in hip and knee surgery: a bibliometric analysis of the 50 most cited articles,T2,CE1
+Scopus,scopus-b1-013,B1,2026,não,Article,Explainable graph network with information fusion of data and medical knowledge for KOA diagnosis,T3,CE5
+Scopus,scopus-b1-014,B1,2026,não,Article,Comparison of accelerated MRI protocol approaches for clinical assessment of the knee,T1,CE6
+Scopus,scopus-b1-015,B1,2026,sim,Article,Promises and limitations of deep learning for predicting knee osteoarthritis progression from medical imaging: A systematic review,T2,CE1
+Scopus,scopus-b1-016,B1,2026,não,Article,A novel interpretable NMF framework with feature locality enhancement for knee joint edema diagnosis,T2,CE8
+Scopus,scopus-b1-017,B1,2026,sim,Article,Deep learning-based quantification of knee effusion-synovitis volume on MRI – Technique development and validation,T2,CE2
+Scopus,scopus-b1-018,B1,2026,não,Article,An efficient multi-scale attention and transformer framework for osteoarthritis diagnosis and surgical decision support using 3D MRI,T3,CE5
+Scopus,scopus-b1-019,B1,2026,sim,Review,Current applications and challenges of artificial intelligence in orthopedic imaging: A narrative review,T2,CE1
+Scopus,scopus-b1-020,B1,2026,não,Review,Advances in deep learning multimodal fusion for early diagnosis of knee osteoarthritis,T1,CE6
+Scopus,scopus-b1-021,B1,2026,sim,Article,"Multi-label Ensemble Model for Knee Joint Anatomy and Lesion Segmentation: Segmentation of Clinical Images With Ensembling, Morphology, and Attention (SCEMA)",T1,CE6
+Scopus,scopus-b1-022,B1,2026,não,Review,Artificial Intelligence Applications in Degenerative Musculoskeletal Diseases,T1,CE6
+Scopus,scopus-b1-023,B1,2026,sim,Article,Fusion of Global and Local Features for Bone Marrow Lesion Segmentation Using a Hybrid Deep Learning Model,T2,CE2
+Scopus,scopus-b1-024,B1,2026,não,Article,Quantitative Investigation of Tibiofemoral Cartilage Early Degeneration After ACL Reconstruction: An Integrated Biomechanical and Longitudinal MRI Analysis,T2,CE3
+Scopus,scopus-b1-025,B1,2026,não,Article,Shape-aware osteoarthritis network: Bidirectional fusion of MRI and 3D point clouds for knee osteoarthritis diagnosis,T3,CE5
+Scopus,scopus-b1-026,B1,2026,sim,Article,SwMrNet: A Multi-Target Tissue Segmentation Method for Robust and Accurate Clinical Knee Diagnosis Assistance,T2,CE2
+Scopus,scopus-b1-027,B1,2026,não,Article,Automatic framework for evaluating osteoarthritic cartilage severity: high-resolution cartilage thickness mapping and scoring,T1,CE6
+Scopus,scopus-b1-028,B1,2026,sim,Article,Clinical Feasibility of Deep Learning Contrast Synthesis From MR Fingerprinting in Knee Osteoarthritis,T2,CE2
+Scopus,scopus-b1-029,B1,2026,não,Article,Development of Novel and Interpretable Automated Models for Predicting Total Knee Replacement in Knee Osteoarthritis: An International Multicenter Study,T1,CE6
+Scopus,scopus-b1-030,B1,2026,não,Article,TACL: Tissue-aware contrastive learning for cross- domain information fusion between histopathology and MRI in knee pathology classification,T3,CE5
+Scopus,scopus-b1-031,B1,2026,não,Review,Deep learning in knee osteoarthritis: A task-based systematic review of recent advances,T2,CE1
+Scopus,scopus-b1-032,B1,2026,não,Article,DeepOsteoCls: Deep learning-based framework for Knee Osteoarthritis Classification with qualitative explanations from radiographs and MRI volumes,T3,CE5
+Scopus,scopus-b1-033,B1,2026,não,Review,"Artificial intelligence in knee osteoarthritis imaging and total knee arthroplasty: advances, challenges, and segmentation methods – A review",T1,CE6
+Scopus,scopus-b1-034,B1,2026,sim,Article,Robust disease prognosis via diagnostic knowledge preservation: A sequential learning approach,T1,CE6
+Scopus,scopus-b1-035,B1,2026,não,Article,A novel knee osteoarthritis disease segmentation using multiresolution attentive-unet and classification using hybrid vision transformer with meerkat clan algorithm,T3,CE5
+Scopus,scopus-b1-036,B1,2026,sim,Article,ERANet: Edge replacement augmentation for semi- supervised meniscus segmentation with prototype consistency alignment and conditional self-training,T1,CE6
+Scopus,scopus-b1-037,B1,2026,sim,Article,Artificial Intelligence and the Future in Knee Surgery: Challenges and Opportunities for Personalized Care,T2,CE1
+Scopus,scopus-b1-038,B1,2026,sim,Article,A multi-branch ConvNeXt–MaxViT fusion transformer model for radiographic knee osteoarthritis severity assessment with Grad- CAM++ explainability,T1,CE6
+Scopus,scopus-b1-039,B1,2026,sim,Article,MVMI: Multi-View Multi-Instance network for the detection of knee osteoarthritis,T3,AGUARDANDO
+Scopus,scopus-b1-040,B1,2026,não,Article,"A three dimensional joint multiview, multi-task, multimodal network for knee injuries classification",T2,CE3
+Scopus,scopus-b1-041,B1,2026,não,Article,Local and long-range progressive fusion network for knee joint segmentation,T2,CE2
+Scopus,scopus-b1-042,B1,2026,sim,Article,Hybrid Ensemble Model for Knee Osteoarthritis Grading: Integrating CNNs with GLCM Features and XAI,T2,CE4
+Scopus,scopus-b1-043,B1,2026,sim,Review,"Review of CNN-Based Approaches for Preprocessing, Segmentation and Classification of Knee Osteoarthritis",T1,CE6
+Scopus,scopus-b1-044,B1,2026,sim,Review,The Role and Challenge of Knee Cartilage Magnetic Resonance Imaging in Early Diagnosis of Knee Osteoarthritis: A Literature,T1,CE6
+Scopus,scopus-b1-045,B1,2026,sim,Article,Feasibility Study of a Diffusion-Based Model for Cross-Modal Generation of Knee MRI from X-Ray: Integrating External Radiographic Feature Information,T2,CE2
+Scopus,scopus-b1-046,B1,2026,não,Article,Osteoarthritis Knee MRI Classification Using Convolutional Neural Networks,T3,CE5
+Scopus,scopus-b1-047,B1,2026,sim,Article,Recognition of Knee Osteoarthritis Using Deep Learning: A Review †,T2,CE1
+Scopus,scopus-b1-048,B1,2026,sim,Article,Radiographic Analysis of Knee Osteoarthritis with Deep Learning: Focus on Joint Space Narrowing and Alignment,T1,CE6
+Scopus,scopus-b1-049,B1,2026,não,Article,Explainable Multi-planar Multi-slice Learning for Efficient 3D MRI Knee Osteoarthritis Classification,T1,CE6
+Scopus,scopus-b1-050,B1,2026,não,Article,Multi-views Knee MRI Classification Using Vision Transformers for Automated Meniscal Tear Detection,T2,CE3
+Scopus,scopus-b1-051,B1,2026,não,Article,Deep learning-enabled segmentation of knee cartilage in conventional magnetic resonance images: Internal and external validation of different models,T1,CE6
+Scopus,scopus-b1-052,B1,2026,não,Article,"10th International Conference on ICT for Sustainable Development, ICT4SD 2025",T2,CE9
+Scopus,scopus-b1-053,B1,2026,sim,Review,Integrating machine learning into acupuncture research: a scoping review,T2,CE1
+Scopus,scopus-b1-054,B1,2026,não,Article,An interpretable metabolomic-driven machine learning model for early prediction of knee structural OA progression,T2,CE3
+Scopus,scopus-b1-055,B1,2026,não,Article,Foundation Models Meet Musculoskeletal Digital Twins: Uncertainty-Aware Early Detection of Subclinical Cartilage Damage via Cross-Modal Transfer Learning,T3,CE5
+Scopus,scopus-b1-056,B1,2026,sim,Article,Structured MOAKS-based MRI features for predicting medial joint space narrowing progression: a comparative osteoarthritis initiative study,T2,CE3
+Scopus,scopus-b1-057,B1,2026,não,Article,Transfer Learning-Based Feature Extraction and Weighted Mean Ensemble Approach for Automated Knee Osteoarthritis Classification Using MRI,T3,CE5
+Scopus,scopus-b1-058,B1,2026,sim,Article,Detection and Classification of Knee Osteoarthritis Detection Using Deep Learning Techniques,T1,CE6
+Scopus,scopus-b1-059,B1,2026,sim,Article,Knee Osteoarthritis Prediction and Progression Using Multi Modal Deep Learning,T1,CE6
+Scopus,scopus-b1-060,B1,2026,não,Article,Progresses of deep learning in imaging research of knee osteoarthritis | 深度学习用于影像学研究膝骨 关节炎进展,T2,CE1
+Scopus,scopus-b1-061,B1,2026,sim,Article,Standard knee radiographs enable deep learning inference of MRI-defined cartilage and meniscal damage in early knee osteoarthritis: a study using the osteoarthritis initiative database,T1,CE6
+Scopus,scopus-b1-062,B1,2026,sim,Article,Limited and frequently overlooked radiological evidence of knee osteoarthritis,T1,CE6
+Scopus,scopus-b1-063,B1,2026,não,Article,A Novel 2.5-Dimensional Deep Learning Model for “Bone-on-Bone” Detection on Magnetic Resonance Imaging in Medial Unicompartmental Knee Arthroplasty Candidates,T1,CE6
+Scopus,scopus-b1-064,B1,2026,sim,Review,The role of radiography and MRI as screening tools and outcome measures in clinical trials of knee osteoarthritis: a perspective on the current status and outlook,T2,CE1
+Scopus,scopus-b1-065,B1,2026,não,Article,DeciViT-Knee 2025 as Precision Fuzzy Techniques of Decision Trees and VIT in Analysis of Knee Osteoarthritis,T1,CE6
+Scopus,scopus-b1-066,B1,2026,sim,Article,Enhanced Magnetic Resonance Imaging-Based Knee Cartilage Segmentation Using a Swin-UNet Conditional Generative Adversarial Network: Development and Validation Study,T1,CE6
+Scopus,scopus-b1-067,B1,2026,sim,Article,"8th International Workshop on Predictive Intelligence in Medicine, PRIME 2025, held in conjunction with the 28th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2025",T2,CE9
+Scopus,scopus-b1-068,B1,2026,sim,Article,"International Conference on Sustainable Computing, ICSC 2025",T2,CE9
+Scopus,scopus-b1-069,B1,2026,sim,Article,MESRNet: Multi-Expert Slice Response Network for Multi-Sequence Knee MRI Classification,T1,CE6
+Scopus,scopus-b1-070,B1,2026,não,Book Chapter,Imaging of Osteoarthritis,T2,CE1
+Scopus,scopus-b1-071,B1,2026,não,Book Chapter,"5th International Conference on Intelligent Systems and Pattern Recognition, ISPR 2025",T2,CE9
+Scopus,scopus-b1-072,B1,2026,não,Book Chapter,Automated Estimation of Posterior Tibial Slope From Knee X-Ray Images Using Deep Learning,T2,CE4
+Scopus,scopus-b1-073,B1,2025,não,Article,Thigh Muscle Changes in the ACL-Deficient Knee,T2,CE3
+Scopus,scopus-b1-074,B1,2025,não,Article,Developing a knee meniscus tear detection system using Rigdelet Neural Network and improved Genghis Khan Shark Optimizer,T2,CE3
+Scopus,scopus-b1-075,B1,2025,sim,Article,Diffusion model-empowered patella shape analysis predicts knee osteoarthritis outcomes,T1,CE6
+Scopus,scopus-b1-076,B1,2025,sim,Article,From detection to grading: A hybrid KOA-YOLOv5- RF model for knee osteoarthritis diagnosis,T2,CE4
+Scopus,scopus-b1-077,B1,2025,sim,Article,Study on multimodal spatially-constrained contrastive learning for knee osteoarthritis severity grading,T2,CE4
+Scopus,scopus-b1-078,B1,2025,sim,Article,CartiSurface: implicit surface reconstruction for anatomically-aware cartilage thickness mapping in knee MRI,T2,CE2
+Scopus,scopus-b1-079,B1,2025,sim,Review,"Artificial Intelligence Has Varied Diagnostic and Predictive Performance in Diagnosing Patellofemoral Osteoarthritis, Trochlear Dysplasia, and Patellofemoral Tracking Abnormalities: A Systematic",T2,CE1
+Scopus,scopus-b1-080,B1,2025,sim,Article,Super-resolution synthetic MRI using deep learning reconstruction for accurate diagnosis of knee osteoarthritis,T1,CE6
+Scopus,scopus-b1-081,B1,2025,sim,Article,Early diagnosis of knee osteoarthritis severity using vision transformer,T1,CE6
+Scopus,scopus-b1-082,B1,2025,sim,Article,Utilizing 3D fast spin echo anatomical imaging to T1ρ reduce the number of contrast preparations in quantification of knee cartilage using learning- based methods,T1,CE6
+Scopus,scopus-b1-083,B1,2025,sim,Article,Association between constant and intermittent knee pain and T2 values and cartilage thickness: data from the osteoarthritis initiative,T2,CE3
+Scopus,scopus-b1-084,B1,2025,sim,Article,A deep learning-based approach for measuring patellar cartilage deformations from knee MR images,T2,CE2
+Scopus,scopus-b1-085,B1,2025,sim,Review,Deep learning-based anomaly detection in orthopedic medical imaging: A systematic literature review,T2,CE1
+Scopus,scopus-b1-086,B1,2025,não,Article,Anterior cruciate ligament injury intelligent detection via slice standardization and local feature attention,T2,CE3
+Scopus,scopus-b1-087,B1,2025,sim,Article,Empirical Analysis of Machine Learning Algorithms in Identifying Osteoarthritis,T1,CE6
+Scopus,scopus-b1-088,B1,2025,sim,Review,Recent advances in imaging techniques and deep learning applications for early diagnosis of knee osteoarthritis: A narrative review,T2,CE1
+Scopus,scopus-b1-089,B1,2025,não,Note,"Imaging in patients with obesity: challenges, applications and future directions",T2,CE1
+Scopus,scopus-b1-090,B1,2025,não,Article,MRI detection and grading of knee osteoarthritis - a pilot study using an AI technique with a novel imaging-based scoring system,T1,CE6
+Scopus,scopus-b1-091,B1,2025,sim,Article,HSGDNet: Hybrid Synthetic-Data-Guided Deep Learning With NLS Refinement for Fast Multi- T1ρ Component Knee Mapping,T2,CE2
+Scopus,scopus-b1-092,B1,2025,sim,Article,MR-Transformer: A Vision Transformer-based Deep Learning Model for Total Knee Replacement Prediction Using MRI,T1,CE6
+Scopus,scopus-b1-093,B1,2025,sim,Article,Machine learning models for clinical and structural knee osteoarthritis prediction: Recent advancements and future directions,T1,CE6
+Scopus,scopus-b1-094,B1,2025,não,Article,Contour-Aware contrastive learning for 3D knee segmentation from MR images,T2,CE2
+Scopus,scopus-b1-095,B1,2025,não,Article,Patch Attention U-Net for knee cartilage segmentation in magnetic resonance images,T2,CE2
+Scopus,scopus-b1-096,B1,2025,sim,Article,"Predicting knee osteoarthritis progression using neural network with longitudinal MRI radiomics, and biochemical biomarkers: A modeling study",T2,CE3
+Scopus,scopus-b1-097,B1,2025,sim,Article,Source independent multiple-domain adaptation for knee osteoarthritis cartilage and meniscus segmentation in clinical magnetic resonance imaging,T2,CE2
+Scopus,scopus-b1-098,B1,2025,sim,Article,Distribution of interscan measurement error in AI- based 3D MRI analysis of knee cartilage thickness in osteoarthritis,T2,CE2
+Scopus,scopus-b1-099,B1,2025,não,Article,Statin use and longitudinal bone marrow lesion burden: analysis of knees without osteoarthritis from the Osteoarthritis Initiative study,T1,CE6
+Scopus,scopus-b1-100,B1,2025,sim,Article,A multimodal deep learning radiomics model for predicting degenerative meniscus tear after arthroscopy,T2,CE3
+Scopus,scopus-b1-101,B1,2025,?,Article,Deep learning-assisted 3D model for the detection and classification of knee arthritis,T3,AGUARDANDO
+Scopus,scopus-b1-102,B1,2025,sim,Article,Estimation of time-to-total knee replacement surgery with multimodal modeling and artificial intelligence,T2,CE3
+Scopus,scopus-b1-103,B1,2025,sim,Review,Visualizing Preosteoarthritis: Updates on UTE- Based Compositional MRI and Deep Learning Algorithms,T2,CE1
+Scopus,scopus-b1-104,B1,2025,não,Review,Machine learning for anterior cruciate ligament and meniscus analysis in knee MRI: A comprehensive review,T2,CE1
+Scopus,scopus-b1-105,B1,2025,sim,Article,Synergistic Integration of 3D CNN and Vision Transformers for Enhanced Bio-Medical for Knee Cartilage Pathology Detection,T1,CE6
+Scopus,scopus-b1-106,B1,2025,sim,Article,Fine-Tuning Deep Learning Model for Quantitative Knee Joint Mapping With MR Fingerprinting and Its Comparison to Dictionary Matching Method: Fine- Tuning Deep Learning Model for Quantitative MRF,T2,CE2
+Scopus,scopus-b1-107,B1,2025,sim,Article,A Novel Approach Based on Hypergraph Convolutional Neural Networks for Cartilage Shape Description and Longitudinal Prediction of Knee Osteoarthritis Progression,T2,CE3
+Scopus,scopus-b1-108,B1,2025,sim,Article,T2 Clusters Are More Sensitive Than Mean T2 Change to Detect Early and Longitudinal Changes in Anterior Cruciate Ligament Reconstructed and Healthy Knees,T2,CE3
+Scopus,scopus-b1-109,B1,2025,sim,Article,OA-HybridCNN (OHC): An advanced deep learning fusion model for enhanced diagnostic accuracy in knee osteoarthritis imaging,T1,CE6
+Scopus,scopus-b1-110,B1,2025,sim,Article,Next-Level Prediction of Structural Progression in Knee Osteoarthritis: A Perspective,T1,CE6
+Scopus,scopus-b1-111,B1,2025,sim,Review,MRI deep learning models for assisted diagnosis of knee pathologies: a systematic review,T1,CE6
+Scopus,scopus-b1-112,B1,2025,sim,Editorial,Editorial for “Improving Accuracy and Reproducibility of Cartilage T2 Mapping in the OAI Dataset Through Extended Phase Graph Modeling”,T2,CE1
+Scopus,scopus-b1-113,B1,2025,não,Editorial,Advancing Bone Marrow MRI Segmentation Using Deep Learning-Based Frameworks,T2,CE1
+Scopus,scopus-b1-114,B1,2025,sim,Article,Improving Accuracy and Reproducibility of Cartilage T2 Mapping in the OAI Dataset Through Extended Phase Graph Modeling,T1,CE6
+Scopus,scopus-b1-115,B1,2025,não,Article,Thessaly Graft Index: An Artificial Intelligence- Based Index for the Assessment of Graft Integrity in ACL-Reconstructed Knees,T2,CE3
+Scopus,scopus-b1-116,B1,2025,não,Article,LMSST-GCN: Longitudinal MRI sub-structural texture guided graph convolution network for improved progression prediction of knee osteoarthritis,T1,CE6
+Scopus,scopus-b1-117,B1,2025,sim,Article,Classification algorithm for anterior cruciate ligament injury embedded with slice sequence association mode | 嵌入切片序列关联模式的前交 叉韧带损伤分类,T2,CE3
+Scopus,scopus-b1-118,B1,2025,sim,Article,"Quantifying knee-adjacent subcutaneous fat in the entire OAI baseline dataset – Associations with cartilage MRI T2, thickness and pain, independent of BMI",T2,CE3
+Scopus,scopus-b1-119,B1,2025,sim,Article,3D-MRI analysis of cartilage thickness changes after PRP injection in medial knee osteoarthritis: A preliminary report,T2,CE2
+Scopus,scopus-b1-120,B1,2025,sim,Article,Integration of longitudinal load-bearing tissue MRI radiomics and neural network to predict knee osteoarthritis incidence,T1,CE6
+Scopus,scopus-b1-121,B1,2025,sim,Editorial,Editorial Commentary: Thoughtful Application of Artificial Intelligence Technique Improves Diagnostic Accuracy and Supportive Clinical Decision-Making,T2,CE1
+Scopus,scopus-b1-122,B1,2025,sim,Article,Evaluation of an automated laminar cartilage T2 relaxation time analysis method in an early osteoarthritis model,T2,CE2
+Scopus,scopus-b1-123,B1,2025,não,Article,An Effective Satin Bowerbird Optimization Based Modified Elman Recurrent Neural Network for Thigh Muscle Segmentation and Quantification in Patients Undergoing Total Knee Replacement (TKR),T2,CE2
+Scopus,scopus-b1-124,B1,2025,sim,Article,MicroRNA signature for early prediction of knee osteoarthritis structural progression using integrated machine and deep learning approaches,T2,CE3
+Scopus,scopus-b1-125,B1,2025,sim,Article,Reproducibility of Quantitative Double-Echo Steady-State T2 Mapping of Knee Cartilage,T2,CE2
+Scopus,scopus-b1-126,B1,2025,sim,Article,"Fully and Weakly Supervised Deep Learning for Meniscal Injury Classification, and Location Based on MRI",T1,CE6
+Scopus,scopus-b1-127,B1,2025,sim,Article,Automated Detection of Posterior Tibial Slope on X- Ray Images Using VGG19,T2,CE4
+Scopus,scopus-b1-128,B1,2025,sim,Article,Recognition of Knee Osteoarthritis by 1D and 2D Convolutional Neural Networks Using Vibroarthrographic Signals,T1,CE6
+Scopus,scopus-b1-129,B1,2025,sim,Article,Deep Learning-Based Knee Osteoarthritis MRI Image Classification Method,T1,CE6
+Scopus,scopus-b1-130,B1,2025,sim,Article,Accuracy and Reliability of Multimodal Imaging in Diagnosing Knee Sports Injuries,T2,CE3
+Scopus,scopus-b1-131,B1,2025,sim,Article,Application of Deep Learning Algorithms for Automated MRI Knee Joint Image Segmentation,T2,CE2
+Scopus,scopus-b1-132,B1,2025,sim,Article,EARLY DETECTION AND CLASSIFICATION OF KNEE DISEASE USING MACHINE LEARNING AND DEEP LEARNING TECHNIQUES: AN OVERVIEW,T1,CE6
+Scopus,scopus-b1-133,B1,2025,sim,Article,Detecting Knee Osteoarthritis Using CNN Enhanced With Alex Net,T1,CE6
+Scopus,scopus-b1-134,B1,2025,sim,Article,Advanced Bi-CNN for Detection of Knee Osteoarthritis using Joint Space Narrowing Analysis,T1,CE6
+Scopus,scopus-b1-135,B1,2025,não,Article,Associating Knee Osteoarthritis Progression with Temporal-Regional Graph Convolutional Network Analysis on MR Images,T2,CE3
+Scopus,scopus-b1-136,B1,2025,sim,Article,ShapeMed-Knee: A Dataset and Neural Shape Model Benchmark for Modeling 3D Femurs,T1,CE6
+Scopus,scopus-b1-137,B1,2025,sim,Article,Systematic Review: A Hybrid Approach for Early Knee Osteoarthritis Detection Utilizing Minkowski Metrics and Deep Learning (2021-2024),T1,CE6
+Scopus,scopus-b1-138,B1,2025,sim,Article,Multi-class segmentation of knee MRI based on hybrid attention,T2,CE2
+Scopus,scopus-b1-139,B1,2025,não,Article,Comparative Study of Deep and Machine Learning Models in Knee Osteoarthritis Detection,T3,CE5
+Scopus,scopus-b1-140,B1,2025,sim,Article,Knee Osteoarthritis Detection Using Bone Distances,T1,CE6
+Scopus,scopus-b1-141,B1,2025,sim,Article,End-to-End Prediction of Knee Osteoarthritis Progression With Multimodal Transformers,T2,CE3
+Scopus,scopus-b1-142,B1,2025,sim,Article,Development of Knee Osteoarthritis Detection and Severity Prediction Using CNN Algorithm Based Deep Learning,T1,CE6
+Scopus,scopus-b1-143,B1,2025,não,Article,Distinguishing Pathologic Gait in Older Adults Using Instrumented Insoles and Deep Neural Networks,T2,CE4
+Scopus,scopus-b1-144,B1,2025,não,Article,Utilisation of Discrete Wavelet Transform (DWT) and Genetic Algorithm (GA) Classifier for Classification of Knee Osteoarthritis,T2,CE8
+Scopus,scopus-b1-145,B1,2025,não,Article,Automated Grade Classification of Ankle Osteoarthritis Using Advanced Neural Network Classifier,T1,CE6
+Scopus,scopus-b1-146,B1,2025,sim,Article,Early Diagnosis of Knee Osteoarthritis With a Natural Language Processing–Driven Approach Based on Clinician Notes: Development and Validation Study,T1,CE6
+Scopus,scopus-b1-147,B1,2025,sim,Article,ICIIP 2025 - 2025 8th International Conference on Image Information Processing,T2,CE9
+Scopus,scopus-b1-148,B1,2025,sim,Article,"5th International Conference on Medical Imaging and Computer Aided Diagnosis, MICAD 2024",T2,CE9
+Scopus,scopus-b1-149,B1,2025,sim,Article,High-Resolution Medical Image Generation With Leak-Prevention Mechanism Using Quantum Transformer Learning,T1,CE6
+Scopus,scopus-b1-150,B1,2025,sim,Article,"1st International Conference on Intelligent Systems in Computing and Communications, ISCComm 2023",T2,CE9
+Scopus,scopus-b1-151,B1,2025,sim,Article,"1st International Conference on Intelligent Systems in Computing and Communications, ISCComm 2023",T2,CE9
+Scopus,scopus-b1-152,B1,2025,sim,Article,Knee Osteoarthritis detection and classification using a customized CenterNet with DenseNet201,T1,CE6
+Scopus,scopus-b1-153,B1,2025,não,Article,Improving Knee Osteoarthritis Detection Through a Multitask Learning Method from 2D MRI Slices,T3,CE5
+Scopus,scopus-b1-154,B1,2025,não,Article,Classification and Prediction of Knee Osteoarthritis by Deep Learning Approach,T3,CE5
+Scopus,scopus-b1-155,B1,2025,sim,Article,MRI-Based Knee Osteoarthritis Detection Using an Interpretable Lightweight Hybrid Model for Computer-Aided Diagnosis,T1,CE6
+Scopus,scopus-b1-156,B1,2025,não,Book Chapter,Literature review on knee osteoarthritis joint disease prediction using machine learning,T2,CE1
+Scopus,scopus-b1-157,B1,2025,sim,Article,Knee Osteoarthritis detection and classification from balanced and imbalanced x-ray images using deep learning,T1,CE6
+Scopus,scopus-b1-158,B1,2025,sim,Article,Artificial Intelligence in the Detection of Knee Joint Injuries: A Comprehensive Review,T1,CE6
+Scopus,scopus-b1-159,B1,2025,sim,Article,Improving Generalization in MRI-Based Deep Learning Models for Total Knee Replacement Prediction,T1,CE6
+Scopus,scopus-b1-160,B1,2025,sim,Article,Osteoarthritis year in review 2024: Imaging,T2,CE1
+Scopus,scopus-b1-161,B1,2025,não,Article,Semi-Supervised Knee Cartilage Segmentation With Successive Eigen Noise-Assisted Mean Teacher Knowledge Distillation,T2,CE2
+Scopus,scopus-b1-162,B1,2025,sim,Review,Predictive Value of Machine Learning in Knee Osteoarthritis Progression: Systematic Review and Meta-Analysis,T1,CE6
+Scopus,scopus-b1-163,B1,2025,sim,Article,Generation of synthetic TSPO PET maps from structural MRI images,T2,CE2
+Scopus,scopus-b1-164,B1,2025,sim,Article,MTKD-LRS: Semi Supervised Knee Cartilage Segmentation using Eigen Low Rank Subspace Assisted Mean-Teacher Framework,T2,CE2
+Scopus,scopus-b1-165,B1,2025,não,Book Chapter,Computer Vision and Deep Learning in Regenerative Medicine: Part 1,T2,CE1
+Scopus,scopus-b1-166,B1,2025,sim,Article,Federated knee injury diagnosis using few shot learning,T1,CE6
+Scopus,scopus-b1-167,B1,2025,sim,Article,"1st International Conference on Advanced Network Technologies and Computational Intelligence, ICANTCI 2024",T2,CE9
+Scopus,scopus-b1-168,B1,2025,sim,Article,"1st International Conference on Advanced Network Technologies and Computational Intelligence, ICANTCI 2024",T2,CE9
+Scopus,scopus-b1-169,B1,2025,sim,Article,A Comprehensive Study on Rheumatoid Arthritis Diagnosis using Deep Learning Techniques,T2,CE3
+Scopus,scopus-b1-170,B1,2025,sim,Review,The Clinical Significance of Femoral and Tibial Anatomy for Anterior Cruciate Ligament Injury and Reconstruction,T1,CE6
+Scopus,scopus-b1-171,B1,2025,não,Book Chapter,Precise segmentation of anterior cruciate ligament tear from clinical MR images using meta-heuristic optimization,T2,CE3
+Scopus,scopus-b1-172,B1,2024,sim,Article,Deep learning to combat knee osteoarthritis and severity assessment by using CNN-based classification,T2,CE4
+Scopus,scopus-b1-173,B1,2024,sim,Article,Identifying significant structural factors associated with knee pain severity in patients with osteoarthritis using machine learning,T2,CE3
+Scopus,scopus-b1-174,B1,2024,sim,Article,Optimizing knee osteoarthritis severity prediction on MRI images using deep stacking ensemble technique,T1,CE6
+Scopus,scopus-b1-175,B1,2024,sim,Article,3DRes-ViT knee osteoarthritis classification model based on multimodal fusion | 基于多模态融合的 3DRes-ViT 膝骨关节炎分类模型,T2,CE11
+Scopus,scopus-b1-176,B1,2024,sim,Review,Accelerated Musculoskeletal Magnetic Resonance Imaging,T2,CE1
+Scopus,scopus-b1-177,B1,2024,sim,Article,Deep learning reconstruction for optimized bone assessment in zero echo time MR imaging of the knee,T2,CE2
+Scopus,scopus-b1-178,B1,2024,sim,Article,Cachexia in preclinical rheumatoid arthritis: Longitudinal observational study of thigh magnetic resonance imaging from osteoarthritis initiative cohort,T2,CE3
+Scopus,scopus-b1-179,B1,2024,não,Book Chapter,Artificial intelligence in magnetic resonance imaging for musculoskeletal diagnosis,T2,CE1
+Scopus,scopus-b1-180,B1,2024,não,Note,Journal Club,T2,CE1
+Scopus,scopus-b1-181,B1,2024,sim,Article,Knee-Loading Predictions with Neural Networks Improve Finite Element Modeling Classifications of Knee Osteoarthritis: Data from the Osteoarthritis Initiative,T2,CE3
+Scopus,scopus-b1-182,B1,2024,sim,Article,Integrating Radiomics and Neural Networks for Knee Osteoarthritis Incidence Prediction,T1,CE6
+Scopus,scopus-b1-183,B1,2024,sim,Editorial,Insights on Progressive Bone Marrow Lesions with AI: An Imaging Biomarker for Knee Osteoarthritis Prediction,T2,CE1
+Scopus,scopus-b1-184,B1,2024,sim,Article,Thigh muscle composition changes in knee osteoarthritis patients during weight loss: Sex- specific analysis using data from osteoarthritis initiative,T2,CE3
+Scopus,scopus-b1-185,B1,2024,sim,Article,Progression of Bone Marrow Lesions and the Development of Knee Osteoarthritis: Osteoarthritis Initiative Data,T2,CE3
+Scopus,scopus-b1-186,B1,2024,sim,Article,Deep Learning-Based Joint Effusion Classification in Adult Knee Radiographs: A Multi-Center Prospective Study,T1,CE6
+Scopus,scopus-b1-187,B1,2024,não,Review,"Modern acceleration in musculoskeletal MRI: applications, implications, and challenges",T2,CE1
+Scopus,scopus-b1-188,B1,2024,sim,Article,Deep learning-based automated detection and segmentation of bone and traumatic bone marrow lesions from MRI following an acute ACL tear,T1,CE6
+Scopus,scopus-b1-189,B1,2024,sim,Article,Deep learning based detection of osteophytes in radiographs and magnetic resonance imagings of the knee using 2D and 3D morphology,T1,CE6
+Scopus,scopus-b1-190,B1,2024,não,Article,Interactions of cumulative load with biomarkers of cartilage turnover predict knee cartilage change over 2 years: data from the osteoarthritis initiative,T2,CE3
+Scopus,scopus-b1-191,B1,2024,sim,Review,Research Progress in Deep Learning for Magnetic Resonance Diagnosis of Knee Osteoarthritis | 深 度 学 习 在 膝 关 节 骨 关 节 炎 磁 共 振 诊 断 中 的研 究 进 展,T2,CE1
+Scopus,scopus-b1-192,B1,2024,não,Article,OMERACT validation of a deep learning algorithm for automated absolute quantification of knee joint effusion versus manual semi-quantitative assessment,T2,CE2
+Scopus,scopus-b1-193,B1,2024,não,Article,Erosive hand osteoarthritis and sarcopenia: Data from Osteoarthritis Initiative cohort,T1,CE6
+Scopus,scopus-b1-194,B1,2024,sim,Article,Unsupervised Segmentation of Knee Bone Marrow Edema-like Lesions Using Conditional Generative Models,T2,CE2
+Scopus,scopus-b1-195,B1,2024,sim,Article,Construction of multi-scale feature fusion segmentation model of MRI knee images based on dual attention mechanism weighted aggregation,T2,CE2
+Scopus,scopus-b1-196,B1,2024,sim,Article,One-stop detection of anterior cruciate ligament injuries on magnetic resonance imaging using deep learning with multicenter validation,T1,CE6
+Scopus,scopus-b1-197,B1,2024,sim,Article,Adaptive Fusion of Deep Learning With Statistical Anatomical Knowledge for Robust Patella Segmentation From CT Images,T2,CE2
+Scopus,scopus-b1-198,B1,2024,sim,Article,Accelerated Brain Aging Mediates the Association Between Psychological Profiles and Clinical Pain in Knee Osteoarthritis,T2,CE3
+Scopus,scopus-b1-199,B1,2024,sim,Article,Automatic Segmentation of Bone Marrow Lesions on MRI Using a Deep Learning Method,T1,CE6
+Scopus,scopus-b1-200,B1,2024,sim,Article,Dense Multi-Scale Graph Convolutional Network for Knee Joint Cartilage Segmentation,T2,CE2
+Scopus,scopus-b1-201,B1,2024,não,Article,Knee cartilage MR images segmentation based on multi-dimensional hybrid convolutional neural network,T1,CE6
+Scopus,scopus-b1-202,B1,2024,sim,Article,Comparative Analysis of Deep Convolutional Neural Network for Detection of Knee Injuries,T2,CE3
+Scopus,scopus-b1-203,B1,2024,sim,Article,Machine Learning Models for Prediction of Progression of Knee Osteoarthritis: A Comprehensive Analysis,T2,CE3
+Scopus,scopus-b1-204,B1,2024,sim,Article,Dual output feature fusion networks for femoral segmentation and quantitative analysis of the knee joint,T2,CE2
+Scopus,scopus-b1-205,B1,2024,sim,Article,Knee Osteoarthritis Diagnosis Integrating Meta- Learning and Multi-task Convolutional Neural Network,T1,CE6
+Scopus,scopus-b1-206,B1,2024,não,Article,Osteoarthritis Detection Using Deep Learning- Based Semantic GWO Threshold Segmentation,T3,CE5
+Scopus,scopus-b1-207,B1,2024,sim,Article,An Efficient Neural Network for Segmenting Multiple Joint Tissues From Knee MRI With Hyperparameter Optimization: Data From the Osteoarthritis Initiative,T1,CE6
+Scopus,scopus-b1-208,B1,2024,sim,Article,Knee osteoarthritis severity prediction using an attentive multi-scale deep convolutional neural network,T1,CE6
+Scopus,scopus-b1-209,B1,2024,sim,Article,Implementation of Knee Osteoarthritis Detection and Severity Prediction Using Convolution Neural Network,T1,CE6
+Scopus,scopus-b1-210,B1,2024,sim,Article,STRR-Net: A Swim-Transformer and Res2Net Architecture for Knee MR Images Multi-label Segmentation,T2,CE2
+Scopus,scopus-b1-211,B1,2024,sim,Article,Automated measurement and grading of knee cartilage thickness: a deep learning-based approach,T1,CE6
+Scopus,scopus-b1-212,B1,2024,sim,Article,Deep Learning-based Automated Knee Joint Localization in Radiographic Images Using Faster R-CNN,T2,CE4
+Scopus,scopus-b1-213,B1,2024,sim,Article,CartiMorph: A framework for automated knee articular cartilage morphometrics,T2,CE2
+Scopus,scopus-b1-214,B1,2024,sim,Article,Predicting Knee Osteoarthritis using Deep Neural Network,T1,CE6
+Scopus,scopus-b1-215,B1,2024,sim,Article,Clinically-Inspired Multi-Agent Transformers for Disease Trajectory Forecasting From Multimodal Data,T2,CE3
+Scopus,scopus-b1-216,B1,2024,sim,Article,DNN-based Knee Osteoarthritis Disease Detection using X-Rays,T2,CE4
+Scopus,scopus-b1-217,B1,2024,sim,Article,Deep Learning with 3D CNN for Knee Osteoarthritis Detection and Classification,T1,CE6
+Scopus,scopus-b1-218,B1,2024,sim,Article,A Multi-View Semi-supervised learning method for knee joint cartilage segmentation combining multiple feature descriptors and image modalities,T2,CE2
+Scopus,scopus-b1-219,B1,2024,não,Article,Early Recognition and Ranking of Knee Osteoarthritis by the Assistance of Enhanced Deep Learning on Knee MR Image Data,T3,CE5
+Scopus,scopus-b1-220,B1,2024,sim,Article,Identification of Severe Grading in Knee OsteoArthritis from MRI using Ensemble Deep Learning,T1,CE6
+Scopus,scopus-b1-221,B1,2024,sim,Article,Performance Analysis of Alexnet for Classification of Knee Osteoarthritis,T1,CE6
+Scopus,scopus-b1-222,B1,2024,sim,Article,Deep Learning-based Thigh Muscle Investigation Using MRI For Prosthetic Development for Patients Undergoing Total Knee Replacement (TKR),T2,CE3
+Scopus,scopus-b1-223,B1,2024,sim,Article,Prediction of Kellgren-Lawrence Grade of Knee Osteoarthritis by Deep Residual Networks Using MR Image with Segmented Image and Slice Position,T1,CE6
+Scopus,scopus-b1-224,B1,2024,sim,Review,A Comprehensive Review on MRI-based knee joint segmentation and analysis techniques,T2,CE1
+Scopus,scopus-b1-225,B1,2024,não,Review,Comprehensive Study on Scoring and Grading Systems for Predicting the Severity of Knee Osteoarthritis,T1,CE6
+Scopus,scopus-b1-226,B1,2024,não,Review,Advancements in Automated Classification of Knee Osteoarthritis Severity using EfficientNetV2-S,T1,CE6
+Scopus,scopus-b1-227,B1,2024,não,Review,Deep Learning based Knee OsteoArthritis Grade Classification: A,T1,CE6
+Scopus,scopus-b1-228,B1,2024,não,Article,Role and significance of deep learning in intelligent segmentation and measurement analysis of knee osteoarthritis MRI images,T2,CE2
+Scopus,scopus-b1-229,B1,2024,não,Article,A Multi-Instance Learning Approach for Improving Knee Osteoarthritis Diagnosis from MRI Data,T1,CE6
+Scopus,scopus-b1-230,B1,2024,não,Article,Utilizing ResNet50 Model with Multilayer Perceptron (ResNetMLP) for Knee Osteoarthritis Classification,T1,CE6
+Scopus,scopus-b1-231,B1,2024,sim,Article,Knowledge mapping and bibliometric analysis of medical knee magnetic resonance imaging for knee osteoarthritis (2004–2023),T1,CE6
+Scopus,scopus-b1-232,B1,2024,sim,Article,Enhanced Image Classification with Integrating DenseNet121 with Mixup Augmentation and Attention Mechanisms for Knee OA,T1,CE6
+Scopus,scopus-b1-233,B1,2024,sim,Review,A Comprehensive Review of Machine Learning’s Role within KOA,T1,CE6
+Scopus,scopus-b1-234,B1,2024,sim,Review,Osteoarthritis year in review 2023: Imaging,T1,CE6
+Scopus,scopus-b1-235,B1,2024,sim,Review,Cartilage Segmentation from MRI Images Towards Prediction of Osteoarthritis,T2,CE1
+Scopus,scopus-b1-236,B1,2024,sim,Review,Diffusion Model Based Knee Cartilage Segmentation in MRI,T2,CE1
+Scopus,scopus-b1-237,B1,2023,sim,Review,Artificial intelligence and ChatGPT in Orthopaedics and sports medicine,T2,CE1
+Scopus,scopus-b1-238,B1,2023,sim,Article,Prediction of total knee replacement using deep learning analysis of knee MRI,T1,CE6
+Scopus,scopus-b1-239,B1,2023,não,Article,DC-AAE: Dual channel adversarial autoencoder with multitask learning for KL-grade classification in knee radiographs,T2,CE4
+Scopus,scopus-b1-240,B1,2023,sim,Article,Unsupervised domain adaptation for automated knee osteoarthritis phenotype classification,T1,CE6
+Scopus,scopus-b1-241,B1,2023,não,Review,"Quantitative bone marrow lesion, meniscus, and synovitis measurement: current status",T2,CE1
+Scopus,scopus-b1-242,B1,2023,sim,Article,Large-Scale Analysis of Meniscus Morphology as Risk Factor for Knee Osteoarthritis,T2,CE3
+Scopus,scopus-b1-243,B1,2023,sim,Review,Deep learning applications in osteoarthritis imaging,T1,CE6
+Scopus,scopus-b1-244,B1,2023,sim,Article,MRI-based synthetic CT in the detection of knee osteoarthritis: Comparison with CT,T2,CE2
+Scopus,scopus-b1-245,B1,2023,sim,Review,MRI-based T1rho and T2 cartilage compositional imaging in osteoarthritis: what have we learned and what is needed to apply it clinically and in a trial setting?,T1,CE6
+Scopus,scopus-b1-246,B1,2023,não,Article,Self-supervised-RCNN for medical image segmentation with limited data annotation,T1,CE6
+Scopus,scopus-b1-247,B1,2023,sim,Article,Segmentation quality assessment by automated detection of erroneous surface regions in medical images,T1,CE6
+Scopus,scopus-b1-248,B1,2023,sim,Article,Patch-wise 3D segmentation quality assessment combining reconstruction and regression networks,T1,CE6
+Scopus,scopus-b1-249,B1,2023,sim,Article,Comparison of evaluation metrics of deep learning for imbalanced imaging data in osteoarthritis studies,T1,CE6
+Scopus,scopus-b1-250,B1,2023,sim,Article,Democratization of deep learning for segmenting cartilage from MRIs of human knees: Application to data from the osteoarthritis initiative,T2,CE2
+Scopus,scopus-b1-251,B1,2023,sim,Review,MR-Imaging in Osteoarthritis: Current Standard of Practice and Future Outlook,T2,CE1
+Scopus,scopus-b1-252,B1,2023,sim,Article,DeepKOA: a deep-learning model for predicting progression in knee osteoarthritis using multimodal magnetic resonance images from the osteoarthritis initiative,T1,CE6
+Scopus,scopus-b1-253,B1,2023,sim,Review,MRI Advancements in Musculoskeletal Clinical and Research Practice,T2,CE1
+Scopus,scopus-b1-254,B1,2023,sim,Review,Updates on Compositional MRI Mapping of the Cartilage: Emerging Techniques and Applications,T2,CE1
+Scopus,scopus-b1-255,B1,2023,sim,Article,Cartilage morphometry and magnetic susceptibility measurement for knee osteoarthritis with automatic cartilage segmentation,T1,CE6
+Scopus,scopus-b1-256,B1,2023,não,Article,A More Posterior Tibial Tubercle (Decreased Sagittal Tibial Tubercle–Trochlear Groove Distance) Is Significantly Associated With Patellofemoral Joint Degenerative Cartilage Change: A Deep Learning Analysis,T2,CE3
+Scopus,scopus-b1-257,B1,2023,não,Article,"Improving knee osteoarthritis classification using multimodal intermediate fusion of X-ray, MRI, and clinical information",T1,CE6
+Scopus,scopus-b1-258,B1,2023,sim,Article,A Channel Correction and Spatial Attention Framework for Anterior Cruciate Ligament Tear with Ordinal Loss,T2,CE3
+Scopus,scopus-b1-259,B1,2023,não,Article,Personalized Risk Model and Leveraging of Magnetic Resonance Imaging–Based Structural Phenotypes and Clinical Factors to Predict Incidence of Radiographic Osteoarthritis,T2,CE3
+Scopus,scopus-b1-260,B1,2023,não,Article,Knee Cartilage Defect Assessment by Graph Representation and Surface Convolution,T1,CE6
+Scopus,scopus-b1-261,B1,2023,sim,Article,Novel Hybrid Optimized Clustering Schemes with Genetic Algorithm and PSO for Segmentation and Classification of Articular Cartilage Loss from MR Images,T2,CE8
+Scopus,scopus-b1-262,B1,2023,sim,Article,Classification of knee osteoarthritis based on quantum-to-classical transfer learning,T1,CE6
+Scopus,scopus-b1-263,B1,2023,não,Article,Knee Osteoarthritis Diagnostic System Based on 3D Multi-task Convolutional Neural Network: Data from the Osteoarthritis Initiative,T3,CE5
+Scopus,scopus-b1-264,B1,2023,sim,Article,3D Efficient Multi-Task Neural Network for Knee Osteoarthritis Diagnosis Using MRI Scans: Data From the Osteoarthritis Initiative,T1,CE6
+Scopus,scopus-b1-265,B1,2023,sim,Article,Transfer learning-assisted 3D deep learning models for knee osteoarthritis detection: Data from the osteoarthritis initiative,T1,CE6
+Scopus,scopus-b1-266,B1,2023,sim,Article,A 3D Deep Learning Approach for Meniscus Tear Severity at the Region-level,T1,CE6
+Scopus,scopus-b1-267,B1,2023,sim,Article,Anterior Cruciate Ligament Injury Classification from MRI Scans Using Deep Learning,T1,CE6
+Scopus,scopus-b1-268,B1,2023,não,Article,Classification of Knee Osteoarthritis Using Deep Learning a Rigorous Analysis,T3,CE5
+Scopus,scopus-b1-269,B1,2023,sim,Article,Feasibility of the fat-suppression image-subtraction method using deep learning for abnormality detection on knee MRI,T2,CE3
+Scopus,scopus-b1-270,B1,2023,não,Article,Analysis of Knee Osteoarthritis Grading Using Deep Learning,T3,CE5
+Scopus,scopus-b1-271,B1,2023,sim,Article,Knee Osteoarthritis Classification Using X-Ray Images Based on Optimal Deep Neural Network,T2,CE4
+Scopus,scopus-b1-272,B1,2023,sim,Article,Detection algorithm of knee osteoarthritis based on magnetic resonance images,T3,AGUARDANDO
+Scopus,scopus-b1-273,B1,2023,sim,Article,COMPARISON OF SELECTED CLASSIFICATION METHODS BASED ON MACHINE LEARNING AS A DIAGNOSTIC TOOL FOR KNEE JOINT CARTILAGE DAMAGE BASED ON GENERATED VIBROACOUSTIC PROCESSES,T2,CE4
+Scopus,scopus-b1-274,B1,2023,não,Article,Research progress of deep learning in early diagnosis of knee osteoarthritis with MR,T2,CE1
+Scopus,scopus-b1-275,B1,2023,sim,Article,The KNee OsteoArthritis Prediction (KNOAP2020) challenge: An image analysis challenge to predict incident symptomatic radiographic knee osteoarthritis from MRI and X-ray images,T2,CE3
+Scopus,scopus-b1-276,B1,2023,sim,Review,Magnetic resonance imaging assessments for knee segmentation and their use in combination with machine/deep learning as predictors of early osteoarthritis diagnosis and prognosis,T1,CE6
+Scopus,scopus-b1-277,B1,2023,não,Review,Machine Learning Based Osteoarthritis Detection Methods in Different Imaging Modalities: A,T2,CE1
+Scopus,scopus-b1-278,B1,2023,sim,Article,Diabetes-associated thigh muscle degeneration mediates knee osteoarthritis–related outcomes: results from a longitudinal cohort study,T2,CE3
+Scopus,scopus-b1-279,B1,2023,sim,Article,Knee Osteoarthritis Detection Using an Improved CenterNet With Pixel-Wise Voting Scheme,T2,CE4
+Scopus,scopus-b1-280,B1,2023,sim,Article,Medical imaging in rheumatoid arthritis: A review on deep learning approach,T2,CE1
+Scopus,scopus-b1-281,B1,2022,sim,Review,A review of deep learning-based deformable medical image registration,T2,CE1
+Scopus,scopus-b1-282,B1,2022,não,Article,Imaging and rheumatology | Imagerie et rhumatologie,T2,CE1
+Scopus,scopus-b1-283,B1,2022,sim,Article,Automated meniscus segmentation and tear detection of knee MRI with a 3D mask-RCNN,T2,CE3
+Scopus,scopus-b1-284,B1,2022,sim,Article,Automatic estimation of knee effusion from limited MRI data,T1,CE6
+Scopus,scopus-b1-285,B1,2022,não,Article,A novel multi-atlas segmentation approach under the semi-supervised learning framework: Application to knee cartilage segmentation,T2,CE2
+Scopus,scopus-b1-286,B1,2022,sim,Article,KCB-Net: A 3D knee cartilage and bone segmentation network via sparse annotation,T1,CE6
+Scopus,scopus-b1-287,B1,2022,sim,Review,Bone Fracture Detection Using Deep Supervised Learning from Radiological Images: A Paradigm Shift,T2,CE1
+Scopus,scopus-b1-288,B1,2022,sim,Article,Role of Thigh Muscle Changes in Knee Osteoarthritis Outcomes: Osteoarthritis Initiative Data,T1,CE6
+Scopus,scopus-b1-289,B1,2022,não,Article,Automatic Grading Assessments for Knee MRI Cartilage Defects via Self-ensembling Semi- supervised Learning with Dual-Consistency,T1,CE6
+Scopus,scopus-b1-290,B1,2022,sim,Article,Deep collaborative network with alpha matte for precise knee tissue segmentation from MRI,T1,CE6
+Scopus,scopus-b1-291,B1,2022,sim,Article,Fully Automatic Knee Joint Segmentation and Quantitative Analysis for Osteoarthritis from Magnetic Resonance (MR) Images Using a Deep Learning Model,T2,CE2
+Scopus,scopus-b1-292,B1,2022,não,Article,Differentiation between subchondral insufficiency fractures and advanced osteoarthritis of the knee using transfer learning and an ensemble of convolutional neural networks,T3,CE5
+Scopus,scopus-b1-293,B1,2022,sim,Article,Detection of Differences in Longitudinal Cartilage Thickness Loss Using a Deep-Learning Automated Segmentation Algorithm: Data From the Foundation for the National Institutes of Health Biomarkers Study of the Osteoarthritis Initiative,T1,CE6
+Scopus,scopus-b1-294,B1,2022,sim,Article,Deep learning-based segmentation of knee MRI for fully automatic subregional morphological assessment of cartilage tissues: Data from the Osteoarthritis Initiative,T2,CE2
+Scopus,scopus-b1-295,B1,2022,sim,Article,Surface spherical encoding and contrastive learning for virtual bone shape aging,T1,CE6
+Scopus,scopus-b1-296,B1,2022,sim,Article,Improved-Mask R-CNN: Towards an accurate generic MSK MRI instance segmentation platform (data from the Osteoarthritis Initiative),T2,CE2
+Scopus,scopus-b1-297,B1,2022,não,Article,Automatic detection and classification of knee osteoarthritis using deep learning approach,T1,CE6
+Scopus,scopus-b1-298,B1,2022,sim,Review,A Comprehensive Survey on Bone Segmentation Techniques in Knee Osteoarthritis Research: From Conventional Methods to Deep Learning,T2,CE1
+Scopus,scopus-b1-299,B1,2022,sim,Article,Automated Knee MR Images Segmentation of Anterior Cruciate Ligament Tears,T1,CE6
+Scopus,scopus-b1-300,B1,2022,sim,Article,Local MRI-based measures of thigh adipose tissue derived from fully automated deep convolutional neural network-based segmentation show a comparable responsiveness to bidirectional change in body weight as from quality controlled manual segmentation,T2,CE2
+Scopus,scopus-b1-301,B1,2022,não,Article,Development of an Automated Mass- Customization Pipeline for Knee Replacement Surgery Using Biplanar X-Rays,T2,CE4
+Scopus,scopus-b1-302,B1,2022,sim,Review,AI MSK clinical applications: cartilage and osteoarthritis,T1,CE6
+Scopus,scopus-b1-303,B1,2022,não,Article,Automated segmentation of knee articular cartilage: Joint deep and hand-crafted learning- based framework using diffeomorphic mapping,T2,CE2
+Scopus,scopus-b1-304,B1,2022,sim,Article,Fully Automatic Knee Bone Detection and Segmentation on Three-Dimensional MRI,T1,CE6
+Scopus,scopus-b1-305,B1,2022,sim,Article,Depthwise Separable Convolutional Neural Network for Knee Segmentation: Data from the Osteoarthritis Initiative,T2,CE2
+Scopus,scopus-b1-306,B1,2022,sim,Article,Automated Knee Bone Segmentation and Visualisation Using Mask RCNN and Marching Cube: Data From The Osteoarthritis Initiative,T1,CE6
+Scopus,scopus-b1-307,B1,2022,sim,Article,Deep Learning-Based Multimodal 3 T MRI for the Diagnosis of Knee Osteoarthritis,T1,CE6
+Scopus,scopus-b1-308,B1,2022,sim,Article,"5th International Workshop on Predictive Intelligence in Medicine, PRIME 2022, held in conjunction with 25th International Conference on Medical Image Computing and Computer-Assisted Intervention, MICCAI 2022",T2,CE9
+Scopus,scopus-b1-309,B1,2022,não,Article,Local Graph Fusion of Multi-view MR Images for Knee Osteoarthritis Diagnosis,T3,CE5
+Scopus,scopus-b1-310,B1,2022,sim,Article,"Proceedings - 2022 International Conference on Machine Learning, Control, and Robotics, MLCR 2022",T2,CE9
+Scopus,scopus-b1-311,B1,2022,sim,Article,Anomaly-Aware 3D Segmentation of Knee Magnetic Resonance Images,T1,CE6
+Scopus,scopus-b1-312,B1,2022,sim,Article,Deep Transfer Network of Knee Osteoarthritis Progression Rate Classification in MR Imaging for Medical Imaging Support System,T1,CE6
+Scopus,scopus-b1-313,B1,2022,sim,Article,Implementation of AlexNet for Classification of Knee Osteoarthritis,T1,CE6
+Scopus,scopus-b1-314,B1,2022,sim,Article,Classification of Knee Osteoarthritis Based on Transfer Learning Model and Magnetic Resonance Images,T1,CE6
+Scopus,scopus-b1-315,B1,2022,sim,Article,Prediction Model Using Reinforcement Deep Learning Technique for Osteoarthritis Disease Diagnosis,T1,CE6
+Scopus,scopus-b1-316,B1,2022,sim,Review,Light on osteoarthritic joint: From bench to bed,T2,CE1
+Scopus,scopus-b1-317,B1,2021,sim,Article,Three-Dimensional Magnetic Resonance Imaging Bone Models of the Hip Joint Using Deep Learning: Dynamic Simulation of Hip Impingement for Diagnosis of Intra- and Extra-articular Hip Impingement,T2,CE3
+Scopus,scopus-b1-318,B1,2021,sim,Article,A Multi-Task Deep Learning Method for Detection of Meniscal Tears in MRI Data from the Osteoarthritis Initiative Database,T2,CE3
+Scopus,scopus-b1-319,B1,2021,sim,Article,Subchondral Bone Length in Knee Osteoarthritis: A Deep Learning–Derived Imaging Measure and Its Association With Radiographic and Clinical Outcomes,T2,CE2
+Scopus,scopus-b1-320,B1,2021,não,Article,Automatic knee cartilage and bone segmentation using multi-stage convolutional neural networks: data from the osteoarthritis initiative,T2,CE2
+Scopus,scopus-b1-321,B1,2021,sim,Article,Deep learning for large scale MRI-based morphological phenotyping of osteoarthritis,T1,CE6
+Scopus,scopus-b1-322,B1,2021,sim,Article,Open Source Software for Automatic Subregional Assessment of Knee Cartilage Degradation Using Quantitative T2 Relaxometry and Deep Learning,T2,CE2
+Scopus,scopus-b1-323,B1,2021,sim,Article,A deep learning method for predicting knee osteoarthritis radiographic progression from MRI,T1,CE6
+Scopus,scopus-b1-324,B1,2021,não,Article,Automated tibiofemoral joint segmentation based on deeply supervised 2D-3D ensemble U-Net: Data from the Osteoarthritis Initiative,T2,CE2
+Scopus,scopus-b1-325,B1,2021,sim,Article,Uncovering associations between data-driven learned qMRI biomarkers and chronic pain,T2,CE3
+Scopus,scopus-b1-326,B1,2021,sim,Article,Improved deep convolutional neural network to classify osteoarthritis from anterior cruciate ligament tear using magnetic resonance imaging,T1,CE6
+Scopus,scopus-b1-327,B1,2021,sim,Article,Automated cartilage segmentation and quantification using 3D ultrashort echo time (UTE) cones MR imaging with deep convolutional neural networks,T2,CE2
+Scopus,scopus-b1-328,B1,2021,sim,Article,"Towards novel osteoarthritis biomarkers: Multi- criteria evaluation of 46,996 segmented knee MRI data from the Osteoarthritis Initiative",T1,CE6
+Scopus,scopus-b1-329,B1,2021,não,Article,Biomechanical Strengthening Design for Limb Articulation Based on Reconstructed Skeleton Kinesthetics,T2,CE3
+Scopus,scopus-b1-330,B1,2021,sim,Article,A Coarse-to-Fine Framework for Automated Knee Bone and Cartilage Segmentation Data from the Osteoarthritis Initiative,T2,CE2
+Scopus,scopus-b1-331,B1,2021,não,Article,A novel automatic Knee Osteoarthritis detection method based on vibroarthrographic signals,T2,CE4
+Scopus,scopus-b1-332,B1,2021,sim,Review,An overview of medical imaging techniques for knee osteoarthritis disease,T2,CE1
+Scopus,scopus-b1-333,B1,2021,sim,Article,Knee osteoarthritis classification using 3D CNN and MRI,T1,CE6
+Scopus,scopus-b1-334,B1,2021,sim,Article,Accuracy and longitudinal reproducibility of quantitative femorotibial cartilage measures derived from automated U-Net-based segmentation of two different MRI contrasts: data from the osteoarthritis initiative healthy reference cohort,T2,CE2
+Scopus,scopus-b1-335,B1,2021,sim,Article,Interscan measurement error of knee cartilage thickness and projected cartilage area ratio at 9 regions and 45 subregions by fully automatic three- dimensional MRI analysis,T2,CE2
+Scopus,scopus-b1-336,B1,2021,sim,Article,Machine learning classification on texture analyzed T2 maps of osteoarthritic cartilage: oulu knee osteoarthritis study,T1,CE6
+Scopus,scopus-b1-337,B1,2021,sim,Article,Are artificial intelligence challenges becoming radiology’s new “bee’s knees”?,T2,CE1
+Scopus,scopus-b1-338,B1,2021,sim,Article,Machine learning-augmented and microspectroscopy-informed multiparametric MRI for the non-invasive prediction of articular cartilage composition,T2,CE2
+Scopus,scopus-b1-339,B1,2021,não,Article,From classical to deep learning: review on cartilage and bone segmentation techniques in knee osteoarthritis research,T2,CE1
+Scopus,scopus-b1-340,B1,2021,sim,Review,Osteoarthritis year in review 2020: imaging,T2,CE1
+Scopus,scopus-b1-341,B1,2021,sim,Article,Comparative study of encoder-decoder-based convolutional neural networks in cartilage delineation from knee magnetic resonance images,T2,CE2
+Scopus,scopus-b1-342,B1,2021,sim,Review,Emergence of Deep Learning in Knee Osteoarthritis Diagnosis,T1,CE6
+Scopus,scopus-b1-343,B1,2021,sim,Review,A Deep Learning-Based Method for Knee Articular Cartilage Segmentation in MRI Images,T1,CE6
+Scopus,scopus-b1-344,B1,2021,sim,Article,The Value of Convolutional-Neural-Network- Algorithm-Based Magnetic Resonance Imaging in the Diagnosis of Sports Knee Osteoarthropathy,T1,CE6
+Scopus,scopus-b1-345,B1,2021,sim,Article,"27th International Conference on Information Processing in Medical Imaging, IPMI 2021",T2,CE9
+Scopus,scopus-b1-346,B1,2021,sim,Article,Knee Cartilages Segmentation Based on Multi- scale Cascaded Neural Networks,T2,CE2
+Scopus,scopus-b1-347,B1,2021,sim,Article,DeepKneeExplainer: Explainable Knee Osteoarthritis Diagnosis from Radiographs and Magnetic Resonance Imaging,T1,CE6
+Scopus,scopus-b1-348,B1,2021,não,Article,Segmentation of cartilage in knee magnetic resonance images using Gabor and matched filter and classification of osteoarthritis using adaptive neuro-fuzzy inference system,T2,CE8
+Scopus,scopus-b1-349,B1,2021,não,Article,"9th International Conference on Analysis of Images, Social Networks, and Texts, AIST 2020",T2,CE9
+Scopus,scopus-b1-350,B1,2021,sim,Retracted,Retraction:Complexity Assessment of Chronic Pain in Elderly Knee Osteoarthritis Based on Neuroimaging Recognition Techniques,T2,CE1
+Scopus,scopus-b1-351,B1,2021,sim,Retracted,MRI Knee Domain Translation for Unsupervised Segmentation by CycleGAN (data from Osteoarthritis initiative (OAI)),T1,CE6
+Scopus,scopus-b1-352,B1,2021,sim,Article,T2 analysis of the entire osteoarthritis initiative dataset,T1,CE6
+Scopus,scopus-b1-353,B1,2021,sim,Article,A Novel Deep Learning Model for Knee Cartilage 3D Segmentation,T1,CE6
+ACM Digital Library,10.1145/3721201.3725508,B1,2025,não,Poster,"Knee Osteoarthritis Detection Using Bone Distances (CHASE 2025, ACM)",T1,CE6

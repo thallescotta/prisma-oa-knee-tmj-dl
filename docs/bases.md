@@ -73,7 +73,19 @@ Ordem de deduplicação: PubMed → IEEE Xplore → Europe PMC → SciELO → BV
 
 ## Bases de acesso restrito (Portal de Periódicos da CAPES)
 
-Scopus, Web of Science e ACM Digital Library foram acessadas em 22/11/2026 pelo Portal de Periódicos da CAPES, com login institucional da UFCI/RJ (CAFe). Na primeira tentativa, a mesma string foi colada nas três bases sem adaptar a sintaxe: o Web of Science e a ACM buscaram os códigos `TITLE-ABS-KEY` e `INDEXTERMS` como palavras, e o Scopus recusou o aninhamento de `INDEXTERMS` dentro de `TITLE-ABS-KEY`. As três retornaram zero registro. Esse zero não é relatado como resultado da revisão. As strings abaixo, com a mesma lógica de B1 e B2, são as que devem ser executadas.
+Scopus, Web of Science e ACM Digital Library foram acessadas pelo autor em 22/11/2026 pelo Portal de Periódicos da CAPES, com login institucional da UFCI/RJ (CAFe), com as strings abaixo.
+
+| Base | String | Resultado em 22/11/2026 | Situação |
+|---|---|---|---|
+| Scopus | B1 | 353 registros | Incorporados. A lista de resultados impressa foi convertida em `data/scopus_b1_2026-11-22.csv` (título, autores, fonte, ano). Como a impressão não traz resumos, os registros novos foram triados pelo título; os 29 que passaram foram conferidos pelo resumo e pelo status de acesso aberto no OpenAlex. |
+| Scopus | B2 | relatado como zero | **Não incorporado.** O zero é implausível: Nozawa *et al.* (2024), indexado no Scopus, atende à string B2. Rodar de novo. |
+| ACM DL | B1 | 1 registro (ACM Full-Text Collection) | Incorporado: duplicata de um registro do IEEE Xplore (CE6). |
+| ACM DL | B2 | zero (ACM Full-Text Collection) | Incorporado como zero. |
+| Web of Science | B1 e B2 | "Search Error: Invalid query" | **Não executado.** A string foi colada na busca por campo (*Fielded Search*), que não aceita `TS=`; usar a aba *Query Builder*. |
+
+Três registros do Scopus passaram na triagem, estão em acesso aberto e aguardam a leitura do texto completo (`decisao = AGUARDANDO`): `scopus-b1-039` (MVMI, *Biomedical Signal Processing and Control*, 2025, cópia aberta no HAL), `scopus-b1-101` (*Image and Vision Computing*, 160, 105574, 2025) e `scopus-b1-272` (*Intelligent Automation and Soft Computing*, 2023, DOI 10.32604/iasc.2023.036766).
+
+Primeira tentativa (descartada): antes destas strings, a mesma string foi colada nas três bases sem adaptar a sintaxe, e as três retornaram zero. Esse zero não é usado.
 
 **Scopus** (Advanced search)
 
@@ -102,7 +114,7 @@ Exportação: Scopus em CSV (título, autores, ano, DOI, resumo), Web of Science
 
 | Base | Motivo |
 |---|---|
-| Embase | Não consta do acesso institucional usado |
+| Embase | Não consultada nesta versão |
 | dblp | Indexa só títulos, sem resumos; verificação anti-robô impede acesso automatizado |
 
 ## Textos completos não obtidos (CE10)

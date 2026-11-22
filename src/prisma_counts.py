@@ -18,10 +18,10 @@ from collections import Counter, OrderedDict
 from config import DEDUP_ORDER, NOT_EXECUTED
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
-T2_CODES = ("CE1", "CE2", "CE3", "CE4", "CE7", "CE8", "CE9")
+T2_CODES = ("CE1", "CE2", "CE3", "CE4", "CE7", "CE8", "CE9", "CE11")
 LABELS = {"CE1": "revisões, editoriais", "CE2": "só segmentação/imagem", "CE3": "outro desfecho ou articulação",
           "CE4": "joelho sem RM", "CE7": "trabalhos do autor", "CE8": "sem aprendizado profundo",
-          "CE9": "preprints, resumos, teses"}
+          "CE9": "preprints, resumos, teses", "CE11": "outro idioma"}
 
 
 def load():
@@ -36,7 +36,8 @@ def counts(rows):
     excl = {c: dec[c] for c in T2_CODES if dec[c]}
     sought = screened - sum(excl.values())
     not_retrieved = dec["CE5"] + dec["CE10"]
-    assessed = sought - not_retrieved
+    awaiting = dec["AGUARDANDO"]
+    assessed = sought - not_retrieved - awaiting
     inc = [r for r in rows if r["decisao"] == "INCLUIDO"]
     return OrderedDict(
         identified_by_base=OrderedDict((b, by_base[b]) for b in DEDUP_ORDER if by_base[b] or b in by_base),
@@ -49,6 +50,7 @@ def counts(rows):
         reports_not_retrieved=not_retrieved,
         not_retrieved_CE5_no_open_access=dec["CE5"],
         not_retrieved_CE10_download_failed=dec["CE10"],
+        reports_awaiting_full_text=awaiting,
         reports_assessed=assessed,
         reports_excluded=assessed - len(inc),
         included_total=len(inc),
@@ -112,7 +114,8 @@ def tikz(c):
 \node[lado, right=1.4cm of bus] (ce5) {{Textos completos não obtidos:\\[2pt] (N = {c['reports_not_retrieved']})\\[3pt]
   {{\footnotesize CE5 -- sem acesso aberto: {c['not_retrieved_CE5_no_open_access']}\\ CE10 -- download bloqueado ou indisponível: {c['not_retrieved_CE10_download_failed']}}}}};
 \node[caixa, below=1.0cm of bus] (ele) {{Estudos elegíveis (texto completo):\\[2pt] (N = {c['reports_assessed']})}};
-\node[lado, right=1.4cm of ele] (ex2) {{Removidos após leitura do texto completo:\\[2pt] (N = {c['reports_excluded']})}};
+\node[lado, right=1.4cm of ele] (ex2) {{Removidos após leitura do texto completo:\\[2pt] (N = {c['reports_excluded']})\\[3pt]
+  {{\footnotesize Aguardando leitura do texto completo: {c['reports_awaiting_full_text']}}}}};
 \node[caixa, below=1.2cm of ele] (inc) {{Estudos incluídos nesta revisão:\\[2pt] (N = {c['included_total']})\\[2pt]
   {{\footnotesize joelho: {c['included_knee']}; ATM: {c['included_tmj']}}}}};
 \path let \p1=(id.north west), \p2=(dup.north east) in node[draw=black!70, fill=laranja, rounded corners=6pt,

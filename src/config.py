@@ -71,13 +71,31 @@ BVS_S1 = ('(mh:"Osteoartrite" OR mh:"Osteoartrite do Joelho" OR osteoarthritis O
           'OR "aprendizado profundo")')
 SBC_S2 = "osteoarthritis OR osteoartrite OR temporomandibular OR knee OR joelho"  # SBCAS e SBCAS Estendido, 2021-2026
 
-# Databases considered but not executed (reported in the PRISMA notes)
+# ---------------------------------------------------------------- Restricted databases (Portal de Periódicos CAPES, CAFe login UFCI/RJ)
+SEARCH_DATE_V3 = "2026-11-22"  # Scopus, Web of Science, ACM Digital Library (run by the author in the browser)
+_DL_SCOPUS = '("deep learning" OR "convolutional neural network*" OR "neural network*")'
+SCOPUS = {
+    "B1": ('TITLE-ABS-KEY(("knee osteoarthritis" OR (knee AND osteoarthritis)) AND (mri OR "magnetic resonance") AND '
+           f'{_DL_SCOPUS} AND (classif* OR grading OR diagnos* OR detection)) AND PUBYEAR > 2020 AND PUBYEAR < 2027'),
+    "B2": ('TITLE-ABS-KEY((temporomandibular OR tmj) AND (osteoarthritis OR "degenerative joint disease") AND '
+           f'{_DL_SCOPUS}) AND PUBYEAR > 2020 AND PUBYEAR < 2027'),
+}
+WOS = {
+    "B1": ('TS=(("knee osteoarthritis" OR (knee AND osteoarthritis)) AND (MRI OR "magnetic resonance") AND '
+           f'{_DL_SCOPUS} AND (classif* OR grading OR diagnos* OR detection)) AND PY=(2021-2026)'),
+    "B2": f'TS=((temporomandibular OR TMJ) AND (osteoarthritis OR "degenerative joint disease") AND {_DL_SCOPUS}) AND PY=(2021-2026)',
+}
+ACM = {
+    "B1": 'Abstract:("knee osteoarthritis" AND (MRI OR "magnetic resonance") AND ("deep learning" OR "neural network"))',
+    "B2": 'Abstract:((temporomandibular OR TMJ) AND osteoarthritis AND ("deep learning" OR "neural network"))',
+}
+
+# Searches not (validly) executed, reported in the PRISMA notes
 NOT_EXECUTED = {
-    "Scopus": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
-    "Web of Science": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
-    "Embase": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
-    "ACM Digital Library": "automated access blocked by bot verification; run manually",
-    "dblp": "automated access blocked by bot verification; run manually",
+    "Scopus (B2)": "reported as zero records on 2026-11-22; implausible (Nozawa et al. 2024, indexed in Scopus, matches B2); rerun",
+    "Web of Science (B1, B2)": "query typed in Fielded Search returned 'Invalid query' on 2026-11-22; rerun in Query Builder",
+    "Embase": "not consulted in this version",
+    "dblp": "indexes titles only (no abstracts); bot verification blocks automated access",
 }
 
 # Eligibility criteria (codes used in data/screening_decisions.csv)
@@ -96,7 +114,9 @@ CRITERIA = {
     "CE8": "Does not use deep learning (classical machine learning only)",
     "CE9": "Not a peer-reviewed full paper: preprint, thesis, congress abstract or peer-review report",
     "CE10": "Full text not retrieved: open access, but the download was blocked or failed on the publisher's site",
+    "CE11": "Not in English or Portuguese (fails CI3)",
 }
+# AGUARDANDO (decisao): open-access report that passed title/abstract screening and whose full text is still to be read
 
 # Order in which databases were deduplicated (a record is CE6 in every database after the first one)
-DEDUP_ORDER = ["PubMed", "IEEE Xplore", "Europe PMC", "SciELO", "BVS/LILACS", "SBC OpenLib", "arXiv", "Semantic Scholar"]
+DEDUP_ORDER = ["PubMed", "IEEE Xplore", "Europe PMC", "SciELO", "BVS/LILACS", "SBC OpenLib", "arXiv", "Semantic Scholar", "Scopus", "ACM Digital Library"]

@@ -7,35 +7,38 @@
     "BVS/LILACS": 4,
     "SBC OpenLib": 4,
     "arXiv": 8,
-    "Semantic Scholar": 207
+    "Semantic Scholar": 207,
+    "Scopus": 353,
+    "ACM Digital Library": 1
   },
-  "identified_total": 449,
-  "duplicates_removed": 197,
-  "screened": 252,
+  "identified_total": 803,
+  "duplicates_removed": 337,
+  "screened": 466,
   "excluded_title_abstract": {
-    "CE1": 52,
-    "CE2": 44,
-    "CE3": 45,
-    "CE4": 21,
+    "CE1": 103,
+    "CE2": 101,
+    "CE3": 94,
+    "CE4": 37,
     "CE7": 2,
-    "CE8": 2,
-    "CE9": 22
+    "CE8": 6,
+    "CE9": 36,
+    "CE11": 1
   },
-  "excluded_title_abstract_total": 188,
-  "reports_sought": 64,
-  "reports_not_retrieved": 39,
-  "not_retrieved_CE5_no_open_access": 37,
+  "excluded_title_abstract_total": 380,
+  "reports_sought": 86,
+  "reports_not_retrieved": 58,
+  "not_retrieved_CE5_no_open_access": 56,
   "not_retrieved_CE10_download_failed": 2,
+  "reports_awaiting_full_text": 3,
   "reports_assessed": 25,
   "reports_excluded": 0,
   "included_total": 25,
   "included_knee": 15,
   "included_tmj": 10,
   "not_executed": {
-    "Scopus": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
-    "Web of Science": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
-    "Embase": "requires institutional login (Portal de Periódicos CAPES / CAFe)",
-    "ACM Digital Library": "automated access blocked by bot verification; run manually",
-    "dblp": "automated access blocked by bot verification; run manually"
+    "Scopus (B2)": "reported as zero records on 2026-11-22; implausible (Nozawa et al. 2024, indexed in Scopus, matches B2); rerun",
+    "Web of Science (B1, B2)": "query typed in Fielded Search returned 'Invalid query' on 2026-11-22; rerun in Query Builder",
+    "Embase": "not consulted in this version",
+    "dblp": "indexes titles only (no abstracts); bot verification blocks automated access"
   }
 }
