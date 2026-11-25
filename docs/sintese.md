@@ -1,12 +1,12 @@
 # Síntese dos estudos incluídos (v2.1)
 
-Os 25 estudos incluídos, cada um com um resumo e a relação com o foco do doutorado. Esse foco é classificar volumes de RM com poucos dados rotulados, usando redes 3D pré-treinadas, e transferir o modelo do joelho para a ATM. O título da tese ainda não está fechado.
+Os 26 estudos incluídos, cada um com um resumo e a relação com o foco do doutorado. Esse foco é classificar volumes de RM com poucos dados rotulados, usando redes 3D pré-treinadas, e transferir o modelo do joelho para a ATM. O título da tese ainda não está fechado.
 
 Os resumos foram feitos a partir dos resumos dos artigos e serão conferidos na leitura do texto completo. As métricas não são as mesmas em todos os estudos (acurácia em uns, AUC em outros), então os números não são comparáveis entre si.
 
 As chaves correspondem a `references/included_studies.bib`, e os PDFs estão em `pdfs/`.
 
-## Joelho (RM) – 15 estudos
+## Joelho (RM) – 16 estudos
 
 | Estudo | Resumo | Relação com a tese |
 |---|---|---|
@@ -17,6 +17,7 @@ As chaves correspondem a `references/included_studies.bib`, e os PDFs estão em 
 | `yeoh_tl3d_2023` – Yeoh *et al.*, 2023 | Compara 13 CNNs 3D em volumes 3D DESS da OAI, com pesos 2D da ImageNet replicados na profundidade; a ResNet18 3D chega a AUC de 0,945. | É o estudo mais próximo das Contribuições 1 e 2. A diferença está no pré-treino: imagens 2D adaptadas, contra vídeo (Kinetics-400) já tridimensional na tese. |
 | `yeoh_multitask_2023` – Yeoh *et al.*, 2023 | Avalia redes 3D multitarefa, que segmentam e classificam ao mesmo tempo, em RM do joelho da OAI. | Mesma base e mesma representação volumétrica, mas depende de máscaras de segmentação, que não existem para os exames da ATM. |
 | `zhong_uda_2023` – Zhong *et al.*, 2023 | Adaptação de domínio não supervisionada de volumes 3D DESS da OAI (318 e 960) para 50 exames TSE/FSE de outra instituição; AUC de 0,90 para o fenótipo cartilagem/menisco. | É o mais próximo da Contribuição 4: transferência entre protocolos de aquisição com poucos exames no destino. A diferença é que a articulação continua a mesma. |
+| `wang_densenet_2023` – Wang *et al.*, 2023 | DenseNet201 pré-treinada na ImageNet, com ajuste fino em dois estágios (bloco a bloco), classifica cortes 2D de volumes 3D DESS da base OAI-ZIB em com ou sem OA; 120 joelhos (60 por classe), 60 cortes por volume, divisão 60/20/20 por paciente; acurácia de 0,921 e F1 de 0,912 por corte no teste (24 joelhos, 1.440 cortes). | Mesma sequência (3D DESS) e tarefa binária da Contribuição 1, mas em cortes 2D e com amostra 25 vezes menor. A divisão por paciente é um cuidado que a base pública da tese não permite repetir. |
 | `daneshmand_osteophytes_2024` – Daneshmand *et al.*, 2024 | Detecta osteófitos a partir da morfologia 2D (radiografia) e 3D (RM). A RM teve acurácia balanceada de 0,71 a 0,80 e superou a radiografia em três de quatro compartimentos. | Mostra que a informação 3D da RM acrescenta à imagem 2D, o que justifica a abordagem volumétrica. |
 | `guo_cartilage_2024` – Guo *et al.*, 2024 | Quatro redes de segmentação (UNet, UNet++, ResUNet e TransUNet) em 700 RM de quatro bases diferentes medem e graduam a espessura da cartilagem. | Gradua a doença passando pela segmentação, e com dados de equipamentos e parâmetros diferentes, o mesmo desafio de protocolo da Contribuição 4. |
 | `panwar_stacking_2024` – Panwar *et al.*, 2024 | Combina quatro redes pré-treinadas (CNN, AlexNet, ResNet34 e ResNet50) por empilhamento para prever a gravidade da OA em RM; acurácia de 99,71%. | Usa pré-treino, mas em cortes 2D. A acurácia próxima de 100% pede leitura do texto completo para entender como treino e teste foram separados. |

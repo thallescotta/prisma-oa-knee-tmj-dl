@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## 2.3.0 – 25/11/2026
+- Lido o texto completo de Wang *et al.* (2023, *Intelligent Automation and Soft Computing*, `scopus-b1-272`, CC BY 4.0): DenseNet201 em cortes 2D de volumes 3D DESS da OAI-ZIB, 120 joelhos, tarefa com/sem OA. Atende a CI1–CI4 e a nenhum CE: **incluído** (`wang_densenet_2023`). PDF em `pdfs/`.
+- Total: 26 incluídos (16 de joelho e 10 de ATM); 2 registros do Scopus continuam aguardando leitura. Fluxograma, tabelas, `docs/lista_pdfs.md`, `docs/sintese.md` e BibTeX atualizados.
+- Jung *et al.* (2023, *Oral Diseases*): texto completo obtido pelo Portal CAPES e usado para conferir os números citados na tese. Continua fora da revisão (CE5) e fora do repositório, porque a licença (© Wiley) não permite redistribuição.
+
 ## 2.2.0 – 22/11/2026
 - Scopus e ACM Digital Library acessados pelo autor pelo Portal de Periódicos da CAPES (login institucional da UFCI/RJ, CAFe). Scopus B1: 353 registros (139 duplicatas, 214 triados). ACM B1: 1 registro (duplicata do IEEE Xplore); ACM B2: zero.
 - Critério novo CE11 (idioma diferente de inglês ou português) e situação nova `AGUARDANDO` (texto completo de acesso aberto ainda não lido): 3 registros do Scopus.

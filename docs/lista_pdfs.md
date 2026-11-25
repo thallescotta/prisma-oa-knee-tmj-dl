@@ -1,4 +1,4 @@
-# Lista de PDFs dos estudos incluídos (v2.1)
+# Lista de PDFs dos estudos incluídos (v2.3)
 
 Os PDFs estão em `pdfs/` com o nome `<chave>.pdf`. A licença de cada um foi conferida na primeira página.
 Os marcados com "NÃO" ficam só no computador do autor, em `pdfs/_local/` (pasta ignorada pelo Git); para o repositório, o link basta.
@@ -21,16 +21,17 @@ Dois estudos que passaram na triagem foram excluídos por CE10, porque o texto c
 | 13 | `yeoh_multitask_2023` | joelho | IEEE Xplore 10336807 | CC BY-NC-ND 4.0 (confirmado no PDF) | sim | https://doi.org/10.1109/ACCESS.2023.3338379 |
 | 14 | `yeoh_tl3d_2023` | joelho | PubMed 37122858 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC10136763/ |
 | 15 | `zhong_uda_2023` | joelho | PubMed 37969620 | CC BY-NC-ND | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC10644135/ |
-| 16 | `choi_opg_2021` | ATM | PubMed 33986459 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC8119725/ |
-| 17 | `iqbal_cbct_2026` | ATM | Semantic Scholar b0d0acdf3f | CC BY (confirmado no PDF) | sim | https://doi.org/10.6026/973206300227522 |
-| 18 | `krishnamoorthy_pfrcnn_2023` | ATM | Semantic Scholar 5a534d49e6 | não informada | NÃO | https://doi.org/10.17762/ijritcc.v11i6.7384 |
-| 19 | `lang_m4tmd_2026` | ATM | PubMed 41461305 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.1016/j.jdent.2025.106322 |
-| 20 | `lee_bonescan_2025` | ATM | PubMed 41497394 | CC BY 4.0 (confirmado no PDF) | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC12767182/ |
-| 21 | `lee_tmjfusion_2026` | ATM | Semantic Scholar 6dbe548de4 | CC BY-NC-ND 4.0 | sim | https://doi.org/10.1038/s41598-026-60962-4 |
-| 22 | `nguyen_opg_2026` | ATM | Semantic Scholar e082c832e5 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.2174/01187421063134260810074044 |
-| 23 | `nozawa_tmj_2024` | ATM | PubMed 39067043 | sem licença aberta informada | NÃO | https://doi.org/10.1093/dmfr/twae040 |
-| 24 | `trivedi_cbct_2026` | ATM | Semantic Scholar 9f6a4e73a6 | CC BY-NC-ND 4.0 (confirmado no PDF; redistribuição sem fins comerciais) | sim | https://doi.org/10.1016/j.ddj.2026.100122 |
-| 25 | `xu_tmjdjd_2026` | ATM | PubMed 42652629 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC13513506/ |
+| 16 | `wang_densenet_2023` | joelho | Scopus scopus-b1-272 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.32604/iasc.2023.036766 |
+| 17 | `choi_opg_2021` | ATM | PubMed 33986459 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC8119725/ |
+| 18 | `iqbal_cbct_2026` | ATM | Semantic Scholar b0d0acdf3f | CC BY (confirmado no PDF) | sim | https://doi.org/10.6026/973206300227522 |
+| 19 | `krishnamoorthy_pfrcnn_2023` | ATM | Semantic Scholar 5a534d49e6 | não informada | NÃO | https://doi.org/10.17762/ijritcc.v11i6.7384 |
+| 20 | `lang_m4tmd_2026` | ATM | PubMed 41461305 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.1016/j.jdent.2025.106322 |
+| 21 | `lee_bonescan_2025` | ATM | PubMed 41497394 | CC BY 4.0 (confirmado no PDF) | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC12767182/ |
+| 22 | `lee_tmjfusion_2026` | ATM | Semantic Scholar 6dbe548de4 | CC BY-NC-ND 4.0 | sim | https://doi.org/10.1038/s41598-026-60962-4 |
+| 23 | `nguyen_opg_2026` | ATM | Semantic Scholar e082c832e5 | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.2174/01187421063134260810074044 |
+| 24 | `nozawa_tmj_2024` | ATM | PubMed 39067043 | sem licença aberta informada | NÃO | https://doi.org/10.1093/dmfr/twae040 |
+| 25 | `trivedi_cbct_2026` | ATM | Semantic Scholar 9f6a4e73a6 | CC BY-NC-ND 4.0 (confirmado no PDF; redistribuição sem fins comerciais) | sim | https://doi.org/10.1016/j.ddj.2026.100122 |
+| 26 | `xu_tmjdjd_2026` | ATM | PubMed 42652629 | CC BY | sim | https://pmc.ncbi.nlm.nih.gov/articles/PMC13513506/ |
 
 ## PDFs de contexto (não incluídos na revisão)
 
@@ -41,6 +42,6 @@ Estudos citados na tese como contexto, fora do período ou do critério de acess
 | `bien_mrnet_2018` | publicado antes de 2021 (CI3) | CC BY (confirmado no PDF) | sim | https://doi.org/10.1371/journal.pmed.1002699 |
 | `pedoia_t2_2019` | publicado antes de 2021 (CI3) | todos os direitos reservados (Elsevier) | NÃO | https://doi.org/10.1016/j.joca.2019.02.800 |
 | `lee_tmj_2024` | não retornado pelas strings B2; desfecho é derrame articular, não osteoartrite | CC BY-NC-ND 4.0 (confirmado no PDF) | sim | https://doi.org/10.1038/s41598-024-69848-9 |
-| `jung_tmj_2023` | excluído por CE5 (sem acesso aberto; PubMed 34689379) | — | NÃO | https://doi.org/10.1111/odi.14056 |
+| `jung_tmj_2023` | excluído por CE5 (sem acesso aberto; PubMed 34689379); texto completo lido pelo Portal CAPES para conferir os números citados | © 2021 Wiley (sem licença aberta) | NÃO | https://doi.org/10.1111/odi.14056 |
 | `teoh_multitask_2026_preprint` | *preprint* na Research Square (CE9); coautoria de M. Berrimi, autor do conjunto OAI-MRI-3DDESS | CC BY 4.0 (confirmado no PDF) | sim | https://doi.org/10.21203/rs.3.rs-8330779/v1 |
 | `berrimi_tese_2024_cap6` | capítulo 6 da tese de doutorado de M. Berrimi (Université d'Orléans, 2024), versão do MVMI na tese (CE9). Usa as sequências COR MPR e SAG IW-TSE da OAI, divisão 80/20 sem menção a separação por paciente, AUC de 94,52\% | sem licença aberta declarada (depósito autorizado no HAL) | NÃO | https://theses.hal.science/tel-05027456v1 |

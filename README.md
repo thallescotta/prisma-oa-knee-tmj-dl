@@ -25,7 +25,7 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 
 **Pergunta da revisão.** Que estudos usam aprendizado profundo para classificar, graduar ou detectar osteoartrite do joelho em ressonância magnética, ou da ATM em qualquer modalidade de imagem, e o que dizem sobre representação volumétrica e transferência de conhecimento com poucos dados?
 
-> **English summary.** Reproducible search in 10 databases (4 health, 6 computing/multidisciplinary, including Scopus and ACM DL via the CAPES portal), screening decisions with criterion codes for all 803 records, an auto-generated PRISMA 2020 flow diagram, and the list of 25 included studies (with licences) for a PhD project on 3D CNNs for joint MRI with limited labelled data (knee-to-TMJ transfer).
+> **English summary.** Reproducible search in 10 databases (4 health, 6 computing/multidisciplinary, including Scopus and ACM DL via the CAPES portal), screening decisions with criterion codes for all 803 records, an auto-generated PRISMA 2020 flow diagram, and the list of 26 included studies (with licences) for a PhD project on 3D CNNs for joint MRI with limited labelled data (knee-to-TMJ transfer).
 
 ## Resultado
 
@@ -41,13 +41,13 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 | Computação | SBC OpenLib (SBCAS) | S2 | 4 | 4 | 0 | 0 |
 | Computação | arXiv | B1 / B2 | 8 / 0 | 6 / 0 | 0 | 0 |
 | Computação | Semantic Scholar | B1 / B2 | 171 / 36 | 73 / 13 | 12 / 5 | 4 / 5 |
-| Multidisciplinar | Scopus (Portal CAPES) | B1 | 353 | 214 | 22 | 0 (3 aguardando) |
+| Multidisciplinar | Scopus (Portal CAPES) | B1 | 353 | 214 | 22 | 1 (2 aguardando) |
 | Computação | ACM Digital Library (Portal CAPES) | B1 / B2 | 1 / 0 | 0 / 0 | 0 | 0 |
-| | **Total** | | **803** | **466** | **86** | **25** |
+| | **Total** | | **803** | **466** | **86** | **26** |
 
-**Pendentes:** Scopus B2 (zero relatado, implausível) e Web of Science (consulta recusada pela interface) precisam ser executados de novo. **Não executadas:** Embase e dblp. Detalhes e passo a passo em [`docs/bases.md`](docs/bases.md). Três registros do Scopus em acesso aberto aguardam a leitura do texto completo.
+**Pendentes:** Scopus B2 (zero relatado, implausível) e Web of Science (consulta recusada pela interface) precisam ser executados de novo. **Não executadas:** Embase e dblp. Detalhes e passo a passo em [`docs/bases.md`](docs/bases.md). Dois registros do Scopus em acesso aberto aguardam a leitura do texto completo.
 
-A lista dos 25 estudos, com links e licenças, está em [`docs/lista_pdfs.md`](docs/lista_pdfs.md). O BibTeX está em `references/included_studies.bib`.
+A lista dos 26 estudos, com links e licenças, está em [`docs/lista_pdfs.md`](docs/lista_pdfs.md). O BibTeX está em `references/included_studies.bib`.
 
 **Síntese:** [`docs/sintese.md`](docs/sintese.md) traz o resumo de cada estudo, a relação com a tese e os padrões que aparecem no conjunto. O principal é que nenhum estudo transfere um modelo do joelho para a ATM.
 
@@ -125,7 +125,7 @@ Os scripts usam só a biblioteca padrão do Python 3.9+. Os resultados das bases
 ```
 src/          strings (config.py), scripts de busca, contagem e fluxograma
 data/         screening_decisions.csv (803 registros), scopus_b1_2026-11-22.csv, prisma_counts.json, selection_table.md
-docs/         bases.md (como cada base foi consultada), lista_pdfs.md (25 estudos, links, licenças),
+docs/         bases.md (como cada base foi consultada), lista_pdfs.md (26 estudos, links, licenças),
               sintese.md (resumo de cada estudo e relação com a tese)
 references/   included_studies.bib e included_studies.csv
 figures/      prisma2020.tex / .pdf / .png

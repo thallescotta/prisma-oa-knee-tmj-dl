@@ -83,7 +83,7 @@ Scopus, Web of Science e ACM Digital Library foram acessadas pelo autor em 22/11
 | ACM DL | B2 | zero (ACM Full-Text Collection) | Incorporado como zero. |
 | Web of Science | B1 e B2 | "Search Error: Invalid query" | **Não executado.** A string foi colada na busca por campo (*Fielded Search*), que não aceita `TS=`; usar a aba *Query Builder*. |
 
-Três registros do Scopus passaram na triagem, estão em acesso aberto e aguardam a leitura do texto completo (`decisao = AGUARDANDO`): `scopus-b1-039` (MVMI, *Biomedical Signal Processing and Control*, 2025, cópia aberta no HAL), `scopus-b1-101` (*Image and Vision Computing*, 160, 105574, 2025) e `scopus-b1-272` (*Intelligent Automation and Soft Computing*, 2023, DOI 10.32604/iasc.2023.036766).
+Dois registros do Scopus passaram na triagem, estão em acesso aberto e aguardam a leitura do texto completo (`decisao = AGUARDANDO`): `scopus-b1-039` (MVMI, *Biomedical Signal Processing and Control*, 2025, cópia aberta no HAL) e `scopus-b1-101` (*Image and Vision Computing*, 160, 105574, 2025). O terceiro, `scopus-b1-272` (Wang *et al.*, *Intelligent Automation and Soft Computing*, 2023, DOI 10.32604/iasc.2023.036766, CC BY 4.0), foi lido em 25/11/2026 e incluído (`wang_densenet_2023`).
 
 Primeira tentativa (descartada): antes destas strings, a mesma string foi colada nas três bases sem adaptar a sintaxe, e as três retornaram zero. Esse zero não é usado.
 
