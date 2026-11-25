@@ -94,7 +94,7 @@ PubMed,38990220,B2,2024,não,,Deep learning classification performance for diagn
 PubMed,38592413,B2,2024,sim,,Noise-Optimized CBCT Imaging of Temporomandibular Joints-The Impact of AI on Image Quality.,T2,CE2
 PubMed,37627959,B2,2023,sim,Review,A Comprehensive Review of Artificial Intelligence Based Algorithms Regarding Temporomandibular Joint Related Diseases.,T2,CE1
 PubMed,36843391,B2,2023,não,Systematic Review,Automation and deep (machine) learning in temporomandibular joint disorder radiomics: A systematic review.,T2,CE1
-PubMed,34689379,B2,2023,não,,Deep learning for osteoarthritis classification in temporomandibular joint.,T3,CE5
+PubMed,34689379,B2,2023,não,,Deep learning for osteoarthritis classification in temporomandibular joint.,T3,INCLUIDO
 PubMed,36611402,B2,2022,sim,Review,Current Applications of Deep Learning and Radiomics on CT and CBCT for Maxillofacial Diseases.,T2,CE1
 PubMed,33986459,B2,2021,sim,,Artificial intelligence in detecting temporomandibular joint osteoarthritis on orthopantomogram.,T3,INCLUIDO
 IEEE Xplore,10336807,B1,2023,sim,,3D Efficient Multi-Task Neural Network for Knee Osteoarthritis Diagnosis Using MRI Scans: Data From the Osteoarthritis Initiative,T3,INCLUIDO
@@ -486,7 +486,7 @@ Scopus,scopus-b1-035,B1,2026,não,Article,A novel knee osteoarthritis disease se
 Scopus,scopus-b1-036,B1,2026,sim,Article,ERANet: Edge replacement augmentation for semi- supervised meniscus segmentation with prototype consistency alignment and conditional self-training,T1,CE6
 Scopus,scopus-b1-037,B1,2026,sim,Article,Artificial Intelligence and the Future in Knee Surgery: Challenges and Opportunities for Personalized Care,T2,CE1
 Scopus,scopus-b1-038,B1,2026,sim,Article,A multi-branch ConvNeXt–MaxViT fusion transformer model for radiographic knee osteoarthritis severity assessment with Grad- CAM++ explainability,T1,CE6
-Scopus,scopus-b1-039,B1,2026,sim,Article,MVMI: Multi-View Multi-Instance network for the detection of knee osteoarthritis,T3,AGUARDANDO
+Scopus,scopus-b1-039,B1,2026,sim,Article,MVMI: Multi-View Multi-Instance network for the detection of knee osteoarthritis,T3,INCLUIDO
 Scopus,scopus-b1-040,B1,2026,não,Article,"A three dimensional joint multiview, multi-task, multimodal network for knee injuries classification",T2,CE3
 Scopus,scopus-b1-041,B1,2026,não,Article,Local and long-range progressive fusion network for knee joint segmentation,T2,CE2
 Scopus,scopus-b1-042,B1,2026,sim,Article,Hybrid Ensemble Model for Knee Osteoarthritis Grading: Integrating CNNs with GLCM Features and XAI,T2,CE4

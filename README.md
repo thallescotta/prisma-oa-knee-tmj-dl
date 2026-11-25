@@ -25,7 +25,7 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 
 **Pergunta da revisão.** Que estudos usam aprendizado profundo para classificar, graduar ou detectar osteoartrite do joelho em ressonância magnética, ou da ATM em qualquer modalidade de imagem, e o que dizem sobre representação volumétrica e transferência de conhecimento com poucos dados?
 
-> **English summary.** Reproducible search in 10 databases (4 health, 6 computing/multidisciplinary, including Scopus and ACM DL via the CAPES portal), screening decisions with criterion codes for all 803 records, an auto-generated PRISMA 2020 flow diagram, and the list of 26 included studies (with licences) for a PhD project on 3D CNNs for joint MRI with limited labelled data (knee-to-TMJ transfer).
+> **English summary.** Reproducible search in 10 databases (4 health, 6 computing/multidisciplinary, including Scopus and ACM DL via the CAPES portal), screening decisions with criterion codes for all 803 records, an auto-generated PRISMA 2020 flow diagram, and the list of 28 included studies (with licences) for a PhD project on 3D CNNs for joint MRI with limited labelled data (knee-to-TMJ transfer).
 
 ## Resultado
 
@@ -33,7 +33,7 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 
 | Área | Base | Strings | Identificados | Após duplicatas (T1) | Após título/resumo (T2) | Incluídos |
 |---|---|---|---|---|---|---|
-| Saúde | PubMed/MEDLINE | B1 / B2 | 75 / 23 | 75 / 23 | 16 / 12 | 9 / 5 |
+| Saúde | PubMed/MEDLINE | B1 / B2 | 75 / 23 | 75 / 23 | 16 / 12 | 9 / 6 |
 | Computação | IEEE Xplore | B1 / B2 | 26 / 3 | 24 / 3 | 15 / 2 | 1 / 0 |
 | Saúde | Europe PMC | B1 / B2 | 72 / 25 | 22 / 5 | 2 / 0 | 1 / 0 |
 | Saúde | SciELO | S1 | 2 | 1 | 0 | 0 |
@@ -41,13 +41,13 @@ Este repositório guarda a busca, a triagem e a lista de estudos da revisão do 
 | Computação | SBC OpenLib (SBCAS) | S2 | 4 | 4 | 0 | 0 |
 | Computação | arXiv | B1 / B2 | 8 / 0 | 6 / 0 | 0 | 0 |
 | Computação | Semantic Scholar | B1 / B2 | 171 / 36 | 73 / 13 | 12 / 5 | 4 / 5 |
-| Multidisciplinar | Scopus (Portal CAPES) | B1 | 353 | 214 | 22 | 1 (2 aguardando) |
+| Multidisciplinar | Scopus (Portal CAPES) | B1 | 353 | 214 | 22 | 2 (1 aguardando) |
 | Computação | ACM Digital Library (Portal CAPES) | B1 / B2 | 1 / 0 | 0 / 0 | 0 | 0 |
-| | **Total** | | **803** | **466** | **86** | **26** |
+| | **Total** | | **803** | **466** | **86** | **28** |
 
-**Pendentes:** Scopus B2 (zero relatado, implausível) e Web of Science (consulta recusada pela interface) precisam ser executados de novo. **Não executadas:** Embase e dblp. Detalhes e passo a passo em [`docs/bases.md`](docs/bases.md). Dois registros do Scopus em acesso aberto aguardam a leitura do texto completo.
+**Pendentes:** Scopus B2 (zero relatado, implausível) e Web of Science (consulta recusada pela interface) precisam ser executados de novo. **Não executadas:** Embase e dblp. Detalhes e passo a passo em [`docs/bases.md`](docs/bases.md). Um registro do Scopus aguarda a leitura do texto completo, e 55 textos (CE5) ainda precisam ser buscados pelo Portal CAPES.
 
-A lista dos 26 estudos, com links e licenças, está em [`docs/lista_pdfs.md`](docs/lista_pdfs.md). O BibTeX está em `references/included_studies.bib`.
+O dicionário dos 28 estudos (número, chave, licença e arquivo), com links e licenças, está em [`docs/lista_pdfs.md`](docs/lista_pdfs.md). O BibTeX está em `references/included_studies.bib`.
 
 **Síntese:** [`docs/sintese.md`](docs/sintese.md) traz o resumo de cada estudo, a relação com a tese e os padrões que aparecem no conjunto. O principal é que nenhum estudo transfere um modelo do joelho para a ATM.
 
@@ -80,12 +80,12 @@ Os descritores vêm do DeCS/MeSH (BVS): Osteoartrite (D010003), Osteoartrite do 
 | CI1 | Estudo primário com aprendizado profundo que classifica, gradua ou detecta OA (ou achado degenerativo) do joelho ou da ATM | T2 |
 | CI2 | Joelho: o resumo indica entrada de RM. ATM: qualquer modalidade de imagem | T2 |
 | CI3 | Publicado entre 2021 e 2026, em inglês ou português | busca |
-| CI4 | Texto completo em acesso aberto | T3 |
+| CI4 | Texto completo obtido, em acesso aberto ou pelo Portal de Periódicos da CAPES (desde a v2.4.0; antes, só acesso aberto) | T3 |
 | CE1 | Revisão, revisão sistemática, meta-análise, bibliometria, editorial, perspectiva ou retratação | T2 |
 | CE2 | Apenas segmentação, quantificação, reconstrução ou melhoria de imagem | T2 |
 | CE3 | Outro desfecho ou articulação (progressão, prótese, lesão ligamentar ou meniscal, outra doença) | T2 |
 | CE4 | Joelho sem RM (radiografia, TC, sensores ou texto clínico) | T2 |
-| CE5 | Texto completo sem acesso aberto | T3 |
+| CE5 | Texto completo ainda não obtido: fora do acesso aberto e ainda não buscado pelo Portal CAPES | T3 |
 | CE6 | Duplicata de registro já identificado numa base anterior | T1 |
 | CE7 | Trabalho do próprio autor, já apresentado nas Contribuições 1 e 2 | T2 |
 | CE8 | Não usa aprendizado profundo (só aprendizado de máquina clássico) | T2 |
@@ -125,11 +125,11 @@ Os scripts usam só a biblioteca padrão do Python 3.9+. Os resultados das bases
 ```
 src/          strings (config.py), scripts de busca, contagem e fluxograma
 data/         screening_decisions.csv (803 registros), scopus_b1_2026-11-22.csv, prisma_counts.json, selection_table.md
-docs/         bases.md (como cada base foi consultada), lista_pdfs.md (26 estudos, links, licenças),
+docs/         bases.md (como cada base foi consultada), lista_pdfs.md (dicionário dos 28 estudos, links, licenças),
               sintese.md (resumo de cada estudo e relação com a tese)
 references/   included_studies.bib e included_studies.csv
 figures/      prisma2020.tex / .pdf / .png
-pdfs/         PDFs dos incluídos cuja licença permite redistribuição
+pdfs/         PDFs dos incluídos cuja licença permite redistribuição, nomeados pelo número do estudo (E01.pdf...)
 assets/       logotipos da UFCI/RJ e do PPGIO
 ```
 
@@ -137,7 +137,7 @@ assets/       logotipos da UFCI/RJ e do PPGIO
 
 - Revisão estruturada, não revisão sistemática completa: um único revisor fez a triagem, e não há avaliação de risco de viés.
 - Scopus, Web of Science, Embase, ACM DL e dblp ainda não foram executadas.
-- O critério de acesso aberto (CI4) excluiu 37 registros potencialmente relevantes (CE5 no CSV). Se o critério passar a aceitar o acesso pelo Portal CAPES, eles voltam para a avaliação de texto completo.
+- Desde a v2.4.0, o CI4 aceita texto obtido pelo Portal CAPES, e não só em acesso aberto. Os 55 registros com CE5 ainda precisam ser buscados pelo Portal CAPES; cada um que for obtido volta para a leitura do texto completo.
 - Dois estudos de acesso aberto foram excluídos por CE10, porque o PDF não pôde ser obtido em 21/11/2026: Manfredonia et al. (2024), cujo download na SciTePress exige CAPTCHA e falhou, e Yan (2021), cujo site (Hindawi/Wiley) bloqueou o acesso. Se forem obtidos depois, voltam para a avaliação de texto completo.
 - Alguns incluídos vêm de periódicos de menor impacto. A inclusão segue os critérios, não a qualidade do periódico; a qualidade é discutida na síntese da tese.
 

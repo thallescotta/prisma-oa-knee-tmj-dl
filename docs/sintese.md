@@ -1,12 +1,12 @@
 # Síntese dos estudos incluídos (v2.1)
 
-Os 26 estudos incluídos, cada um com um resumo e a relação com o foco do doutorado. Esse foco é classificar volumes de RM com poucos dados rotulados, usando redes 3D pré-treinadas, e transferir o modelo do joelho para a ATM. O título da tese ainda não está fechado.
+Os 28 estudos incluídos, cada um com um resumo e a relação com o foco do doutorado. Esse foco é classificar volumes de RM com poucos dados rotulados, usando redes 3D pré-treinadas, e transferir o modelo do joelho para a ATM. O título da tese ainda não está fechado.
 
 Os resumos foram feitos a partir dos resumos dos artigos e serão conferidos na leitura do texto completo. As métricas não são as mesmas em todos os estudos (acurácia em uns, AUC em outros), então os números não são comparáveis entre si.
 
 As chaves correspondem a `references/included_studies.bib`, e os PDFs estão em `pdfs/`.
 
-## Joelho (RM) – 16 estudos
+## Joelho (RM) – 17 estudos
 
 | Estudo | Resumo | Relação com a tese |
 |---|---|---|
@@ -26,12 +26,14 @@ As chaves correspondem a `references/included_studies.bib`, e os PDFs estão em 
 | `simran_3dcnnvit_2025` – Simran *et al.*, 2025 | Combina CNN 3D e *vision transformer* 3D em volumes de RM para classificar a degeneração da cartilagem em cinco estágios; acurácia de 90,46%. | Abordagem volumétrica como a da tese, mas multiclasse e sem pré-treino descrito no resumo. |
 | `margain_cthmaps_2026` – Margain *et al.*, 2026 | Uma U-Net 3D segmenta osso e cartilagem em RM de 4.796 sujeitos da OAI; uma ResNet converte mapas de espessura num escore de gravidade de 0 a 100, com correlação de 0,81 com especialistas. | Usa a mesma coorte, mas passa por segmentação e mapa 2D. A tese classifica o volume diretamente, sem rótulo de segmentação. |
 | `moorthy_csfaunet_2026` – Moorthy *et al.*, 2026 | Rede 3D com atenção que segmenta e classifica volumes de RM da OAI, com acurácia de 99,15%. | Volumétrica e na mesma base, mas exige segmentação. O resumo não informa se a separação entre treino e teste foi por paciente, ponto também em aberto na tese. |
+| `berrimi_mvmi_2026` – Berrimi e Jennane, 2026 | MVMI: rede leve (Res-Squeez-Net) trata cada corte 2D como instância e combina as vistas coronal, sagital e axial por aprendizado de múltiplas instâncias; 900 pacientes da OAI com rótulos MOAKS, divisão 80/20; AUC de 94,75%. Testada em sequências não vistas no treino, teve AUC de 88,9% no 3D DESS. | Alternativa ao volume 3D: cortes como instâncias. A validação entre sequências é o análogo, dentro da OAI, da validação cruzada entre bases proposta na Contribuição 4. O primeiro autor é o mesmo do conjunto OAI-MRI-3DDESS. |
 
-## ATM – 10 estudos
+## ATM – 11 estudos
 
 | Estudo | Resumo | Relação com a tese |
 |---|---|---|
 | `choi_opg_2021` – Choi *et al.*, 2021 | ResNet em 1.189 radiografias panorâmicas confirmadas por tomografia de feixe cônico; acurácia de 0,78 depois de retirar os casos indeterminados. | Referência de desempenho na ATM com imagem 2D de raios X. Mostra a dificuldade dos casos limítrofes. |
+| `jung_tmj_2023` – Jung *et al.*, 2023 | ResNet-152 e EfficientNet-B7 pré-treinadas classificam 858 radiografias panorâmicas da ATM, de 518 pacientes (395 normais e 463 com OA); acurácias de 0,87 e 0,88, com Grad-CAM. | Transferência de pesos em imagem 2D da ATM, sem RM. |
 | `krishnamoorthy_pfrcnn_2023` – Krishnamoorthy e Baskaran, 2023 | Uma GAN gera radiografias panorâmicas sintéticas, e uma Faster R-CNN progressiva com pirâmide de atributos detecta a OA da ATM. | Usa aumento de dados por imagens sintéticas na ATM, um contraponto ao aumento de dados avaliado na Contribuição 2. 2D, periódico de menor impacto. |
 | `nozawa_tmj_2024` – Nozawa *et al.*, 2024 | Quatro redes 2D em RM ponderada em densidade de prótons de 200 côndilos, com validação cruzada em 5 partições; a ResNet18 teve AUC de 0,91 a 0,93 e foi comparada a observadores. | Amostra da mesma ordem da prevista para a Contribuição 4 (100 exames) e mesma validação. Usa cortes 2D, sem transferência entre articulações. |
 | `lee_bonescan_2025` – Lee *et al.*, 2025 | Variações da VGG16 em cintilografias ósseas de 1.943 pacientes (3.886 ATMs); AUC acima de 0,90 nas imagens de cabeça e pescoço. | Outra modalidade (medicina nuclear). Mostra que a OA da ATM é detectável por aprendizado profundo, mas não trata de RM. |

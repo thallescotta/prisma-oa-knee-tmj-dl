@@ -6,7 +6,7 @@ authors:
     given-names: Thalles Cotta
     affiliation: "PPGIO, Universidade Federal de Ciência e Inovação do Rio de Janeiro (UFCI/RJ) e UFF"
 date-released: 2026-11-21
-version: 2.3.0
+version: 2.4.0
 license: MIT
 repository-code: "https://github.com/thallescotta/prisma-oa-knee-tmj-dl"
 keywords: [PRISMA, osteoarthritis, knee, temporomandibular joint, MRI, deep learning, transfer learning]

@@ -1,27 +1,29 @@
-key,joint,source,doi,pmcid,license,redistribute_pdf,pdf_file
-guida_3dcnn_2021,knee,Semantic Scholar 1a9043c0fc,10.3390/app11115196,,CC BY 4.0 (confirmado no PDF),yes,guida_3dcnn_2021.pdf
-namiri_phenotyping_2021,knee,PubMed 34035386,10.1038/s41598-021-90292-6,PMC8149826,CC BY,yes,namiri_phenotyping_2021.pdf
-yeoh_tl3d_2023,knee,PubMed 37122858,10.3389/fbioe.2023.1164655,PMC10136763,CC BY,yes,yeoh_tl3d_2023.pdf
-yeoh_multitask_2023,knee,IEEE Xplore 10336807,10.1109/ACCESS.2023.3338379,,CC BY-NC-ND 4.0 (confirmado no PDF),yes,yeoh_multitask_2023.pdf
-zhong_uda_2023,knee,PubMed 37969620,10.21037/qims-23-704,PMC10644135,CC BY-NC-ND,yes (sem alteração),zhong_uda_2023.pdf
-daneshmand_osteophytes_2024,knee,PubMed 38323840,10.1002/jor.25800,,CC BY (confirmado no PDF),yes,daneshmand_osteophytes_2024.pdf
-panwar_stacking_2024,knee,PubMed 39500982,10.1038/s41598-024-78203-x,PMC11538306,CC BY,yes,panwar_stacking_2024.pdf
-panwar_vit_2025,knee,PubMed 41029374,10.1186/s12891-025-09137-2,PMC12487547,CC BY-NC-ND 4.0 (confirmado no PDF),yes (sem alteração),panwar_vit_2025.pdf
-liao_ohc_2025,knee,PubMed 40334259,10.1371/journal.pone.0322540,PMC12058133,CC BY,yes,liao_ohc_2025.pdf
-margain_cthmaps_2026,knee,PubMed 41874622,10.1007/s00330-026-12414-w,PMC13710605,CC BY 4.0 (confirmado no PDF),yes,margain_cthmaps_2026.pdf
-moorthy_csfaunet_2026,knee,PubMed 41622323,10.1038/s41598-026-37847-7,PMC12916792,CC BY-NC-ND,yes (sem alteração),moorthy_csfaunet_2026.pdf
-choi_opg_2021,tmj,PubMed 33986459,10.1038/s41598-021-89742-y,PMC8119725,CC BY,yes,choi_opg_2021.pdf
-nozawa_tmj_2024,tmj,PubMed 39067043,10.1093/dmfr/twae040,,sem licença aberta informada,NO (só link),
-lee_bonescan_2025,tmj,PubMed 41497394,10.1016/j.isci.2025.114027,PMC12767182,CC BY 4.0 (confirmado no PDF),yes,lee_bonescan_2025.pdf
-xu_tmjdjd_2026,tmj,PubMed 42652629,10.3390/jcm15166225,PMC13513506,CC BY,yes,xu_tmjdjd_2026.pdf
-lang_m4tmd_2026,tmj,PubMed 41461305,10.1016/j.jdent.2025.106322,,CC BY 4.0 (confirmado no PDF),yes,lang_m4tmd_2026.pdf
-guo_cartilage_2024,knee,Europe PMC 38487024,10.3389/fmed.2024.1337993,PMC10939064,CC BY 4.0,yes,guo_cartilage_2024.pdf
-simran_3dcnnvit_2025,knee,Semantic Scholar 3bb7bad3c5,10.13005/bpj/3202,,CC BY 4.0 (confirmado no PDF),yes,simran_3dcnnvit_2025.pdf
-ananya_radiologyassistant_2023,knee,Semantic Scholar cc9389ea1d,10.26562/irjcs.2023.v1004.07,,CC BY (confirmado no PDF),yes,ananya_radiologyassistant_2023.pdf
-karim_deepkneeexplainer_2021,knee,Semantic Scholar f53c1f9c39,10.1109/ACCESS.2021.3062493,,CC BY-NC-ND 4.0 (confirmado no PDF),yes (sem alteração),karim_deepkneeexplainer_2021.pdf
-krishnamoorthy_pfrcnn_2023,tmj,Semantic Scholar 5a534d49e6,10.17762/ijritcc.v11i6.7384,,não informada,NO (só link até conferir),
-lee_tmjfusion_2026,tmj,Semantic Scholar 6dbe548de4,10.1038/s41598-026-60962-4,,CC BY-NC-ND 4.0,yes (sem alteração),lee_tmjfusion_2026.pdf
-trivedi_cbct_2026,tmj,Semantic Scholar 9f6a4e73a6,10.1016/j.ddj.2026.100122,,Elsevier user license (conferir se é CC BY no PDF),NO (só link até conferir),
-iqbal_cbct_2026,tmj,Semantic Scholar b0d0acdf3f,10.6026/973206300227522,,não informada (Bioinformation; conferir no PDF),NO (só link até conferir),
-nguyen_opg_2026,tmj,Semantic Scholar e082c832e5,10.2174/01187421063134260810074044,,CC BY 4.0 (confirmado no PDF),yes,nguyen_opg_2026.pdf
-wang_densenet_2023,knee,Scopus scopus-b1-272,10.32604/iasc.2023.036766,,CC BY 4.0 (confirmado no PDF),yes,wang_densenet_2023.pdf
+key,joint,source,doi,pmcid,license,redistribute_pdf,pdf_file,num
+guida_3dcnn_2021,knee,Semantic Scholar 1a9043c0fc,10.3390/app11115196,,CC BY 4.0 (confirmado no PDF),yes,E01.pdf,E01
+namiri_phenotyping_2021,knee,PubMed 34035386,10.1038/s41598-021-90292-6,PMC8149826,CC BY,yes,E03.pdf,E03
+yeoh_tl3d_2023,knee,PubMed 37122858,10.3389/fbioe.2023.1164655,PMC10136763,CC BY,yes,E05.pdf,E05
+yeoh_multitask_2023,knee,IEEE Xplore 10336807,10.1109/ACCESS.2023.3338379,,CC BY-NC-ND 4.0 (confirmado no PDF),yes,E06.pdf,E06
+zhong_uda_2023,knee,PubMed 37969620,10.21037/qims-23-704,PMC10644135,CC BY-NC-ND,yes (sem alteração),E07.pdf,E07
+daneshmand_osteophytes_2024,knee,PubMed 38323840,10.1002/jor.25800,,CC BY (confirmado no PDF),yes,E09.pdf,E09
+panwar_stacking_2024,knee,PubMed 39500982,10.1038/s41598-024-78203-x,PMC11538306,CC BY,yes,E11.pdf,E11
+panwar_vit_2025,knee,PubMed 41029374,10.1186/s12891-025-09137-2,PMC12487547,CC BY-NC-ND 4.0 (confirmado no PDF),yes (sem alteração),E12.pdf,E12
+liao_ohc_2025,knee,PubMed 40334259,10.1371/journal.pone.0322540,PMC12058133,CC BY,yes,E13.pdf,E13
+margain_cthmaps_2026,knee,PubMed 41874622,10.1007/s00330-026-12414-w,PMC13710605,CC BY 4.0 (confirmado no PDF),yes,E15.pdf,E15
+moorthy_csfaunet_2026,knee,PubMed 41622323,10.1038/s41598-026-37847-7,PMC12916792,CC BY-NC-ND,yes (sem alteração),E16.pdf,E16
+choi_opg_2021,tmj,PubMed 33986459,10.1038/s41598-021-89742-y,PMC8119725,CC BY,yes,E18.pdf,E18
+nozawa_tmj_2024,tmj,PubMed 39067043,10.1093/dmfr/twae040,,sem licença aberta informada,NO (só link),,E21
+lee_bonescan_2025,tmj,PubMed 41497394,10.1016/j.isci.2025.114027,PMC12767182,CC BY 4.0 (confirmado no PDF),yes,E22.pdf,E22
+xu_tmjdjd_2026,tmj,PubMed 42652629,10.3390/jcm15166225,PMC13513506,CC BY,yes,E23.pdf,E23
+lang_m4tmd_2026,tmj,PubMed 41461305,10.1016/j.jdent.2025.106322,,CC BY 4.0 (confirmado no PDF),yes,E24.pdf,E24
+guo_cartilage_2024,knee,Europe PMC 38487024,10.3389/fmed.2024.1337993,PMC10939064,CC BY 4.0,yes,E10.pdf,E10
+simran_3dcnnvit_2025,knee,Semantic Scholar 3bb7bad3c5,10.13005/bpj/3202,,CC BY 4.0 (confirmado no PDF),yes,E14.pdf,E14
+ananya_radiologyassistant_2023,knee,Semantic Scholar cc9389ea1d,10.26562/irjcs.2023.v1004.07,,CC BY (confirmado no PDF),yes,E04.pdf,E04
+karim_deepkneeexplainer_2021,knee,Semantic Scholar f53c1f9c39,10.1109/ACCESS.2021.3062493,,CC BY-NC-ND 4.0 (confirmado no PDF),yes (sem alteração),E02.pdf,E02
+krishnamoorthy_pfrcnn_2023,tmj,Semantic Scholar 5a534d49e6,10.17762/ijritcc.v11i6.7384,,não informada,NO (só link até conferir),,E20
+lee_tmjfusion_2026,tmj,Semantic Scholar 6dbe548de4,10.1038/s41598-026-60962-4,,CC BY-NC-ND 4.0,yes (sem alteração),E25.pdf,E25
+trivedi_cbct_2026,tmj,Semantic Scholar 9f6a4e73a6,10.1016/j.ddj.2026.100122,,Elsevier user license (conferir se é CC BY no PDF),yes,E28.pdf,E28
+iqbal_cbct_2026,tmj,Semantic Scholar b0d0acdf3f,10.6026/973206300227522,,não informada (Bioinformation; conferir no PDF),yes,E27.pdf,E27
+nguyen_opg_2026,tmj,Semantic Scholar e082c832e5,10.2174/01187421063134260810074044,,CC BY 4.0 (confirmado no PDF),yes,E26.pdf,E26
+wang_densenet_2023,knee,Scopus scopus-b1-272,10.32604/iasc.2023.036766,,CC BY 4.0 (confirmado no PDF),yes,E08.pdf,E08
+berrimi_mvmi_2026,knee,Scopus scopus-b1-039,10.1016/j.bspc.2025.108794,,© 2025 Elsevier (todos os direitos reservados),NO (só link),,E17
+jung_tmj_2023,tmj,PubMed 34689379,10.1111/odi.14056,,© 2021 Wiley (sem licença aberta),NO (só link),,E19

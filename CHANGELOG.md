@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## 2.4.0 – 25/11/2026
+- Critério de acesso alterado por orientação do Prof. Felipe: o CI4 passa a aceitar o texto completo obtido pelo Portal de Periódicos da CAPES, e não só em acesso aberto. O CE5 passa a significar "texto ainda não obtido"; os 55 registros com CE5 ainda precisam ser buscados pelo Portal CAPES.
+- Incluídos após leitura do texto completo: Berrimi e Jennane (2026, MVMI, `scopus-b1-039`) e Jung *et al.* (2023, *Oral Diseases*, PubMed 34689379, obtido pelo Portal CAPES). Total: 28 incluídos (17 de joelho e 11 de ATM); 1 registro do Scopus aguarda leitura.
+- PDFs renomeados pelo número do estudo (`E01.pdf` a `E28.pdf`; contexto em `C01.pdf` a `C03.pdf`). O dicionário número → chave → artigo está em `docs/lista_pdfs.md`, e a coluna `num` em `references/included_studies.csv`. A numeração é a mesma do Quadro de síntese da tese.
+- PDFs sem licença aberta (Berrimi, Jung, Krishnamoorthy, Nozawa) continuam fora do repositório, só com o link.
+
 ## 2.3.0 – 25/11/2026
 - Lido o texto completo de Wang *et al.* (2023, *Intelligent Automation and Soft Computing*, `scopus-b1-272`, CC BY 4.0): DenseNet201 em cortes 2D de volumes 3D DESS da OAI-ZIB, 120 joelhos, tarefa com/sem OA. Atende a CI1–CI4 e a nenhum CE: **incluído** (`wang_densenet_2023`). PDF em `pdfs/`.
 - Total: 26 incluídos (16 de joelho e 10 de ATM); 2 registros do Scopus continuam aguardando leitura. Fluxograma, tabelas, `docs/lista_pdfs.md`, `docs/sintese.md` e BibTeX atualizados.

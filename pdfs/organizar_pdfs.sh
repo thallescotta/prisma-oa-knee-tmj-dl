@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# OBSOLETO desde a v2.4.0: os PDFs agora se chamam E01.pdf ... E28.pdf (dicionário em docs/lista_pdfs.md).
 # Copia os PDFs numerados (1.pdf ... 27.pdf, na numeração da v2.0 de docs/lista_pdfs.md; 7 e 14 foram excluídos por CE10) para pdfs/ com o nome da chave BibTeX.
 # Os que não podem ser redistribuídos vão para pdfs/_local/, que o Git ignora.
 # Uso (na raiz do repositório):  bash pdfs/organizar_pdfs.sh "/c/Users/Thalles/Downloads/pdfs finais"

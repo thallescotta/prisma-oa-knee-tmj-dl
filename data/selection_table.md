@@ -1,7 +1,7 @@
 | Base | String | Identificados | Após T1 | Após T2 | Incluídos |
 |---|---|---|---|---|---|
 | PubMed | B1 | 75 | 75 | 16 | 9 |
-| PubMed | B2 | 23 | 23 | 12 | 5 |
+| PubMed | B2 | 23 | 23 | 12 | 6 |
 | IEEE Xplore | B1 | 26 | 24 | 15 | 1 |
 | IEEE Xplore | B2 | 3 | 3 | 2 | 0 |
 | Europe PMC | B1 | 72 | 22 | 2 | 1 |
@@ -12,6 +12,6 @@
 | arXiv | B1 | 8 | 6 | 0 | 0 |
 | Semantic Scholar | B1 | 171 | 73 | 12 | 4 |
 | Semantic Scholar | B2 | 36 | 13 | 5 | 5 |
-| Scopus | B1 | 353 | 214 | 22 | 1 |
+| Scopus | B1 | 353 | 214 | 22 | 2 |
 | ACM Digital Library | B1 | 1 | 0 | 0 | 0 |
-| **Total** | | **803** | **466** | **86** | **26** |
+| **Total** | | **803** | **466** | **86** | **28** |
